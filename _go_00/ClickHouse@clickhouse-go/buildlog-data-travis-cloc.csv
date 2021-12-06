@@ -1,0 +1,3 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+298020384,298020386,250,81a24df15f5b96db6bd2558a7894dd7647dcd67d,go,ok,11,go,gotest,true,false,0,0,,0,4,4,0,,7.92,,7145
+702518383,702518386,507,9b36850a1383e9642d66384241bf232fb8b0ab55,go,broken,14,go,gotest,true,true,0,2,,0,1,0,1,Test_CompressCorrect#github.com/ClickHouse/clickhouse-go/lib/binary,3.96,,10824
