@@ -1,0 +1,10 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+201805097,201805098,103,dcb1676a5ed4f0e18c50e1ab6415e3ead222c003,go,ok,1,go,gotest,true,false,254,0,254,0,9,9,0,,0.02,,5931
+196285356,196285357,14,01a632779077da5da09458f92a26027b75807946,go,broken,0,go,gotest,true,true,0,7,,0,5,-1,6,TestTypeCheckOK#TestTypeCheckOK/Infer_types_successfully:_../testdata/from-mincaml/matmul-flat.ml#TestTypeCheckOK/Infer_types_successfully:_../testdata/from-mincaml/matmul.ml#TestTypeCheckOK/Infer_types_successfully:_../testdata/from-mincaml/spill.ml#TestInvalidExpressions#TestInvalidExpressions/does_not_meet_parameter_type_requirements#github.com/rhysd/gocaml/typing,0.04,,2492
+210014790,210014791,200,64ecd7774d8cdf96b24a778adf1d17a78a789339,go,ok,1,go,gotest,true,false,323,0,323,0,10,10,0,,5.6199999999999966,,7714
+214085489,214085490,227,f3fbb420c1eb83dde0a7ae69c4eeb0443191995b,go,ok,1,go,gotest,true,false,330,0,330,0,11,11,0,,5.279999999999998,,7974
+197165247,197165248,25,aa52790949a001f9b3654651329c7df43cf86f0d,go,ok,0,go,gotest,true,false,198,0,198,0,16,16,0,,0.03,,3562
+197169925,197169926,30,a39c38bac5fb8b2d26ed59e364a568268cbead89,go,ok,1,go,gotest,true,false,198,0,198,0,16,16,0,,0.02,,3562
+246842889,246842890,361,5a9b106d364cab04b9171481f74fd08157212653,go,ok,0,go,gotest,true,false,467,0,467,0,10,10,0,,2.7399999999999967,,9922
+258551564,258551565,445,6f41cf442ea24abcfd62037fdf1c296b3c5533b2,go,ok,0,go,gotest,true,false,475,0,475,0,10,10,0,,6.349999999999994,,10059
+339000164,339000165,474,eb6413e215773c95ada3c422e45bdd7c70de68dc,go,ok,0,go,gotest,true,false,477,0,477,0,10,10,0,,4.239999999999993,,10086
