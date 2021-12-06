@@ -1,0 +1,7 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+508688056,508688057,143,eb3cf98db853973f1bc345b67bb6643386988407,go,ok,1,go,gotest,true,false,40,0,40,0,1,1,0,,0.0,,2782
+357213439,357213440,15,31bfdcf5184fc29224f2b795862eac3be4a4b383,go,ok,0,go,gotest,true,true,9,5,14,8,1,-4,5,ExampleSubcommand_AddPositionalValue#ExampleAddPositionalValue#ExampleAddBoolFlag#ExampleAddIntFlag#ExampleAddStringFlag,0.0,,1122
+638921475,638921476,198,3980c6b5cda386231cd174a6e8e3f843d5bd3eb4,go,ok,0,go,gotest,true,false,47,0,47,0,1,1,0,,0.02,,3146
+363984734,363984735,32,5fd6b37337510e6091b00f4c9486e4299cc718a5,go,ok,1,go,gotest,true,false,15,0,15,8,1,1,0,,0.0,,1202
+377587654,377587655,63,a0b9d352cfa55e61ca7f3e41e18f522ad45595d2,go,ok,0,go,gotest,true,false,17,0,17,8,1,1,0,,0.0,,2113
+400176537,400176538,80,641f5c00194cf3a445f4b1fcbe70453c324131de,go,ok,0,go,gotest,true,true,17,1,18,9,1,0,1,TestTrailingArguments,0.01,,2348
