@@ -1,0 +1,3 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+642906028,642906029,5398,9b201546b82d4534eff456f69a8809db64b5cd62,go,ok,1,go,gotest,true,true,0,2,,0,48,47,1,Example#github.com/zalando/skipper/dataclients/routestring,68.12,,66023
+651995248,651995249,5525,952fce680c0b6b3b09fe8d79290b6ffcd02a3c05,go,ok,1,go,gotest,true,true,0,2,,0,49,48,1,Example#github.com/zalando/skipper/dataclients/routestring,68.89,,67731
