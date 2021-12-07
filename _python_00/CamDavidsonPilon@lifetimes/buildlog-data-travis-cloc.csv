@@ -1,0 +1,6 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+53355199,53355200,18,b84af16a8eeac422987587e1c8ef484a3ddceccd,python,broken,13,python,pytest,true,true,16,2,18,3,,,,TestBetaGammaFitter.test_params_out_is_close_to_Hardie_paper#TestBetaGammaFitter.test_penalizer_term_will_shrink_coefs_to_0,29.08,,603
+250633098,250633101,303,cdd307f648a778088d5bdd3fd6c0e3f236bbe8a0,python,ok,3,python,pytest,true,false,90,0,90,0,,,,,92.42,,1917
+51600797,51600799,3,d06a0301a9ec76aca0235c0875488ddff5179c32,python,broken,8,python,pytest,true,true,15,2,17,3,,,,,56.44,,575
+523458913,523458916,596,299229ebc6b01431f46979c4eb75362159134ddf,python,ok,1,python,pytest,true,false,112,0,112,0,,,,,116.93,,5059
+557479437,557479440,620,c9cdb10ab41e493035e6c16d4e38d0472e3f08c7,python,ok,1,python,pytest,true,false,112,0,112,0,,,,,117.09,,5191

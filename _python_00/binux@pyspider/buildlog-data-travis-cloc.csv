@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+497635111,497635116,1019,3fb99bd24aa3b516e5091599c8c0b7d93663971f,python,ok,49,python,unittest,true,false,468,0,468,0,,,,,181.04,,12633
+497640686,497640690,1026,7ed18c8cdc09a2f5272bf92bb08009d47c85fe1a,python,ok,42,python,unittest,true,false,468,0,468,0,,,,,193.88,,12780
+528537667,528537669,1055,3fccfabe2b057b7a56d4a4c79dc0dd6cd2239fe9,python,unknown,42,python,,false,,,,,,,,,,,,12780
+546472207,546472210,1062,3fccfabe2b057b7a56d4a4c79dc0dd6cd2239fe9,python,unknown,41,python,,false,,,,,,,,,,,,12780
+561793594,561793598,1069,3fccfabe2b057b7a56d4a4c79dc0dd6cd2239fe9,python,unknown,42,python,,false,,,,,,,,,,,,12780
+582408121,582408122,1077,3fccfabe2b057b7a56d4a4c79dc0dd6cd2239fe9,python,unknown,42,python,,false,,,,,,,,,,,,12780
+600435296,600435300,1084,3fccfabe2b057b7a56d4a4c79dc0dd6cd2239fe9,python,unknown,54,python,,false,,,,,,,,,,,,12780
+622366885,622366889,1098,ad3ae13fa2167226791acf72cd8eecc89cffe515,python,ok,121,python,unittest,true,false,488,0,488,0,,,,,185.06,,13200
+645172480,645172481,1106,ad3ae13fa2167226791acf72cd8eecc89cffe515,python,ok,119,python,unittest,true,false,488,0,488,0,,,,,196.91,,13200
+662811677,662811679,1113,ad3ae13fa2167226791acf72cd8eecc89cffe515,python,unknown,118,python,,false,,,,,,,,,,,,13200
+682687577,682687583,1120,ad3ae13fa2167226791acf72cd8eecc89cffe515,python,unknown,110,python,,false,,,,,,,,,,,,13200
+700661393,700661397,1127,ad3ae13fa2167226791acf72cd8eecc89cffe515,python,unknown,33,python,,false,,,,,,,,,,,,13200
+730770355,730770358,1149,897891cafb21ea5b4ac08e728ad2ea212879f7fa,python,broken,74,python,unittest,true,true,468,4,472,0,,,,test_50_docker_rabbitmq,179.38,,13103
+747993089,747993093,1159,897891cafb21ea5b4ac08e728ad2ea212879f7fa,python,broken,73,python,unittest,true,true,468,4,472,0,,,,test_50_docker_rabbitmq,182.85,,13103
