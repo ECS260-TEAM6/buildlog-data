@@ -1,0 +1,7 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+410159813,410159817,139,188db977e0361bfcfb7eb41ff532d482b14dc341,go,ok,0,go,gotest,true,false,39,0,39,0,3,3,0,,191.33999999999992,,6878
+419415370,419415373,178,d76c86296778911e9a4acef4677aeef3ac77944e,go,broken,1,go,gotest,true,true,33,7,40,0,0,-6,6,TestNeutrinoSync#TestNeutrinoSync/initial_sync#TestNeutrinoSync/one-shot_rescan#TestNeutrinoSync/start_long-running_rescan#TestNeutrinoSync/test_blocks_and_filters_in_random_order#TestNeutrinoSync/check_long-running_rescan_results#github.com/lightninglabs/neutrino,389.54999999999995,,8795
+486827135,486827136,312,b783d610396b74ed3c80e7dea167bb154758187f,go,ok,1,go,gotest,true,false,66,0,66,0,5,5,0,,172.54999999999998,,9763
+521500976,521500978,383,be81df3a0dd3fd43010bc7dafbf674110b10449b,go,ok,1,go,gotest,true,false,83,0,83,0,8,8,0,,284.2599999999998,,11186
+562339936,562339937,453,462d5fe8d93afb8a807162ecf72620cb6ea2887d,go,ok,1,go,gotest,true,false,108,0,108,0,10,10,0,,269.52999999999986,,12408
+362919599,362919600,61,36d9a509ff4ea1e916a73c6f1c2b784c1faf11ed,go,ok,0,go,gotest,true,false,8,0,8,0,3,3,0,,234.30999999999997,,5965
