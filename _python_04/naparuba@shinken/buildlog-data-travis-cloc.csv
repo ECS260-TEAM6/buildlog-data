@@ -1,0 +1,11 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+153267946,153267947,1025,73e7acba819b223fd29ace2f5ca881cf78e8d642,python,ok,4,python,unittest,true,false,511,0,511,1,,,,,222.8,,42818
+277169551,277169552,1073,73ff950cbb2df9382ce7d8ee3f2f0e522298f11b,python,ok,1,python,,false,,,,,,,,,,,,42825
+282595902,282595918,1086,c64f2e415013c86b40e22c5d8be567b95d787b6a,python,ok,3,python,,false,,,,,,,,,,,,42810
+302384932,302384941,1090,b8e28d452d27c65b02c6794fb6760d81c77f7513,python,ok,2,python,,false,,,,,,,,,,,,42810
+543385129,543385138,1115,45ab9418b89a48e961d8373702c24e6f9ddfeabe,unknown,unknown,,plain,,false,,,,,,,,,,,,42812
+543900769,543900778,1119,30e2a67a185f60a06a6d850abddda04347a6a05a,python,broken,2,python,,true,true,0,0,0,0,,,,unsatisfiable constraints:#unsatisfiable constraints:#docker-file-OTHER-alpine3.6.txt#installation failed!#docker-file-OTHER-alpine3.7.txt#installation failed!,0,,42812
+550990112,550990121,1123,b4272839e8aee24f77f849784b0dcb1f98074a97,python,unknown,1,python,,false,,,,,,,,,,,,42812
+554809580,554809589,1127,39a779e278eadefee650739be28eb13116dc2b0a,python,ok,1,python,,false,,,,,,,,,,,,42814
+557722410,557722422,1131,2893086b3522737a5d4686fe3e9400bdaf5e0ba9,python,ok,1,python,,false,,,,,,,,,,,,42814
+558833250,558833259,1139,546448a1855f81e9817d94a500b9fa182cf8a94b,python,ok,1,python,,false,,,,,,,,,,,,43439

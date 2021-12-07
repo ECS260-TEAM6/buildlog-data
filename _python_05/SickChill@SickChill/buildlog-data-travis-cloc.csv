@@ -1,0 +1,20 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+661393901,661393902,10932,3262667b893f14a3f1bc5f4a259495716c6a46dc,python,unknown,42,python,unittest,true,false,5,0,5,0,,,,,0.01,,386960
+662087066,662087068,10956,715aa195aaae7635d91c2b8979ea5931392d4d77,python,ok,46,python,unittest,true,false,5,0,5,0,,,,,0.01,,386960
+676701746,676701747,11158,d9e58e091d2e0d1195283c21f44184ba1bfcc4e5,python,unknown,42,python,unittest,true,false,5,0,5,0,,,,,0.01,,556590
+676804952,676804953,11179,289e0795cc3c1a579595aae5a3e60a75764382cf,python,unknown,47,python,unittest,true,false,5,0,5,0,,,,,0.01,,510649
+677144147,677144149,11199,e86e1e03d5a4a600a0fdd9b350e3c390b9de2100,python,unknown,42,python,unittest,true,false,5,0,5,0,,,,,0.01,,510694
+677256863,677256864,11217,518e33e628df975eb178c2a6b8541066818a2359,python,unknown,43,python,unittest,true,false,5,0,5,0,,,,,0.01,,510700
+678042431,678042432,11236,db5bd92e4ff65108c395dcf87d0ed9195b6fde73,python,broken,44,python,unittest,true,false,5,0,5,0,,,,/home/travis/build/SickChill/SickChill/sickchill/views/manage/index.py Imports are incorrectly sorted.,0.01,,510693
+678474710,678474711,11376,149f2f1078da537f84467fa3d1f48758c04d5775,python,broken,42,python,unittest,true,false,5,0,5,0,,,,/home/travis/build/SickChill/SickChill/sickchill/views/manage/index.py Imports are incorrectly sorted.,0.01,,510695
+678760757,678760758,11402,9092ab322aae9c9d7d2ce183b3f600fbe5c39631,python,broken,43,python,unittest,true,false,5,0,5,0,,,,/home/travis/build/SickChill/SickChill/sickchill/views/manage/index.py Imports are incorrectly sorted.,0.01,,507158
+679319905,679319906,11427,f6a95236440b12aceed7bc9a8077e21107fac3dc,python,broken,39,python,unittest,true,false,5,0,5,0,,,,/home/travis/build/SickChill/SickChill/sickbeard/tv.py Imports are incorrectly sorted.,0.01,,483230
+679368578,679368579,11445,4cd83736f6c4fe9eba49cb4d2c7bbf6b6ff183a7,python,unknown,41,python,unittest,true,false,5,0,5,0,,,,,0.01,,483238
+680836925,680836926,11469,3e12397aa1e0e125752e46a629fba4f56dcdc1ab,python,ok,40,python,unittest,true,false,5,0,5,0,,,,,0.01,,483232
+684574851,684574852,11537,05c55384245166b59e8a4caeb25e3f82976a04fe,python,ok,40,python,unittest,true,false,5,0,5,0,,,,,0.01,,447470
+687543737,687543738,11614,f46869a617ad79d7ca17aab31bdadb7e276bb4a4,python,unknown,76,python,unittest,true,false,5,0,5,0,,,,,0.01,,449829
+688671493,688671494,11660,95dba6e0b3329852909bd361b4f8abac366e15d3,python,unknown,43,python,unittest,true,false,5,0,5,0,,,,,0.01,,449919
+690287814,690287815,11697,2d23c1030dc8719d93e384d1efff1e80df05469e,python,unknown,41,python,unittest,true,false,5,0,5,0,,,,,0.01,,451268
+694355564,694355565,11732,426427cb0eceb69ce735bdf0e1292de3aef59b60,python,unknown,45,python,unittest,true,false,5,0,5,0,,,,,0.02,,451385
+695757466,695757467,11758,ef1e4d9e2517fffd7599629d45aac316bf9cb034,python,unknown,42,python,unittest,true,false,5,0,5,0,,,,,0.01,,451409
+697797449,697797450,11804,760a723277ac980943f9f74a953cdaa69dee6cbd,python,ok,45,python,unittest,true,false,5,0,5,0,,,,,0.01,,451521

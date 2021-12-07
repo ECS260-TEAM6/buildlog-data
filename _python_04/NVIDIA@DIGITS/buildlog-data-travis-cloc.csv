@@ -1,0 +1,7 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+256241912,256241913,2423,3ee3a50e81c3e2485bbecb6d132d9f28951ddebd,python,ok,5,python,unittest,true,false,390,0,390,93,,,,,433.68,,25473
+290618935,290618969,2480,b59067fafc8c536041cb559c0c08570fd533332e,python,ok,5,python,unittest,true,false,534,0,534,81,,,,,201.8,,25556
+315064961,315064963,2524,bb7e090092f384d01fe226bf434d58bab10c4258,python,ok,5,python,unittest,true,false,392,0,392,95,,,,,434.09,,26917
+364708090,364708091,2589,7a3d5f00f3ef0e81cdc3415b03c6ede98c3ef91c,python,ok,10,python,unittest,true,false,392,0,392,95,,,,,466.59,,26921
+456218089,456218091,2602,7ba1fae94b6176c3f350542e361698b379d509a5,python,ok,6,python,unittest,true,false,392,0,392,95,,,,,478.2,,26921
+484478290,484478293,2614,fd5f8657e1e1b7fb3bfeef8f0b3ff652a8d547e7,python,broken,5,python,unittest,true,true,440,1,441,95,,,,test suite for <class 'digits.model.images.generic.test_views.TestTorchCreatedWithImageProcessingExtensionMeanPixel'>,611.58,,26917

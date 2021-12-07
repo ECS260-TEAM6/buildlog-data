@@ -1,0 +1,10 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+368894632,368894635,112,0cf29d2dcc8ca2af6a701ff889bbceacf2bfc272,python,ok,4,python,pytest,true,false,723,0,723,1,,,,,14.190000000000001,,2661
+570217150,570217153,159,b5a1998762355081ecefd16a0bd93f969acb900b,python,ok,1,python,,false,,,,,,,,,,,,2799
+644929301,644929305,198,5de20742f7ead5c530a252639f7524b74faf2b91,python,ok,1,python,,false,,,,,,,,,,,,2812
+656009774,656009775,210,947b2997d6ceaac545884420c0293f0c1d173432,python,ok,1,python,,false,,,,,,,,,,,,2784
+718809629,718809632,227,b4869ad4e6a57c06fe8aaa624238e3d5e0d40516,python,broken,1,python,,false,,,,,,,,,CountriesFirstTest.test_sorted_countries_first_arabic#CountriesFirstTest.test_sorted_countries_first_arabic#CountriesFirstTest.test_sorted_countries_first_arabic#CountriesFirstTest.test_sorted_countries_first_arabic#CountriesFirstTest.test_sorted_countries_first_arabic#CountriesFirstTest.test_sorted_countries_first_arabic#__| | ___  ___ _____#summary,,,2859
+223022565,223022566,42,aad528147385114f18f83449e5938dcd6e43aaeb,python,ok,1,python,unittest,true,false,122,0,122,0,,,,,4.41,,2429
+243458495,243458496,61,3b6ea2abec30c442121877889f2f716f198d3070,python,ok,1,python,unittest,true,false,133,0,133,0,,,,,15.85,,2562
+275327704,275327708,70,1ceafd4c81b0ff060c4dd5e75bb461afefe23a4f,python,ok,0,python,unittest,true,false,133,0,133,0,,,,,2.43,,2562
+204068089,204068090,8,0dab87f530706b939a3263e0af529a422395c31b,python,ok,1,python,unittest,true,false,116,0,116,0,,,,,2.55,,2256

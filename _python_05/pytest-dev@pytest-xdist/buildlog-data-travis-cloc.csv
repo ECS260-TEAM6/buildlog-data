@@ -1,0 +1,11 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+94808317,94808331,28,a67ed2d9ba232e7aa9a1dd10001ef281d08ed25e,python,ok,0,python,pytest,true,false,87,0,87,4,,,,,29.31,,2473
+306070033,306070064,318,bf0645ad35ed208bf490b731892fa1c216e7cc74,python,ok,1,python,,false,,,,,,,,,,,,3212
+343506541,343506545,371,11e3599785607689586728c6bac14f328f6ef2e2,python,ok,0,python,pytest,true,false,118,0,118,6,,,,,48.84,,3334
+390593050,390593051,399,8d94fca9644d25da5895fdc5d820dcf98be567f4,python,ok,1,python,pytest,true,false,115,0,115,10,,,,,47.26,,3334
+407321062,407321067,424,46dbc1223bcb3df0a6916bc93be0de98ebff908e,unknown,unknown,,plain,,false,,,,,,,,,,,,3348
+417038207,417038225,454,96af694bf37bd2e424590a61023f7eae179084b8,python,ok,1,python,pytest,true,false,119,0,119,5,,,,,62.57,,3468
+443123839,443123851,499,d5b61e72d4336847779ad0deb68d2c61d8cd6805,unknown,unknown,,plain,,false,,,,,,,,,,,,3580
+105939886,105939892,63,f19b804c67cd50433f3dcd29d838523b609bcce3,python,ok,0,python,pytest,true,false,91,0,91,4,,,,,39.02,,2513
+78295828,78295832,6,b14e9a48e25b83cf43c3932bb466ce283dc02b0d,python,broken,1,python,pytest,true,true,78,7,85,4,,,,TestDistribution.test_distribution_rsyncdirs_example#test_auto_detect_cpus#TestNodeManagerPopen.test_rsync_popen_with_path#TestHRSync.test_hrsync_filter#TestNodeManager.test_popen_rsync_subdir#TestNodeManager.test_init_rsync_roots#TestNodeManager.test_rsyncignore,32.74,,2424
+139246581,139246593,83,e8fa73719662d1be5074a0750329fe0c35583484,python,ok,0,python,pytest,true,false,94,0,94,4,,,,,35.55,,2557

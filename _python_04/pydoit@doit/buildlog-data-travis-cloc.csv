@@ -1,0 +1,10 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+19238527,19238528,15,098c6954a795e71154102b3625cae0fedc1fb97a,python,ok,,python,pytest,true,false,577,0,577,2,,,,,11.45,,8047
+69560011,69560014,189,5de4e1c109a1fecd2f537193e7caff8c169f7826,python,ok,3,python,pytest,true,false,1386,0,1386,2,,,,,18.83,,9590
+72565759,72565761,218,65e18479e0bea74504ca903eec461bc08bb181ee,python,ok,4,python,pytest,true,false,704,0,704,2,,,,,12.4,,9761
+75617680,75617685,275,6a1e050e799ff56a4726c931e0b1a7139c501d12,python,ok,0,python,pytest,true,false,717,0,717,2,,,,,15.6,,10035
+33955987,33955992,31,54ddfdc6ebeae57db5ee98643357e4d00e943b4d,python,broken,6,python,pytest,true,true,592,10,602,1,,,,TestCmdInfo.test_info#TestCmdInfo.test_info_unicode#TestGetStatus.test_UptodateCallable_True[pdepfile0]#TestGetStatus.test_UptodateCallable_True[pdepfile1]#TestGetStatus.test_UptodateCallable_True[pdepfile2]#TestGetStatus.test_UptodateCallable_added_attributes[pdepfile0]#TestGetStatus.test_UptodateCallable_added_attributes[pdepfile1]#TestGetStatus.test_UptodateCallable_added_attributes[pdepfile2]#TestResultDep.test_single#TestResultDep.test_group,10.63,,8326
+202361338,202361339,356,063509b00660bb15d1d29a41b479f16ed7e4806e,python,ok,4,python,pytest,true,false,731,0,731,2,,,,,9.91,,10102
+343019679,343019680,424,b9967dcecca00c2f5038fd1f4f190536d7b5257f,python,ok,3,python,pytest,true,false,748,0,748,2,,,,,9.53,,10433
+546428081,546428082,558,f1037843eecd8d2078bcd84bd850488c3cecc22e,python,ok,4,python,pytest,true,false,769,0,769,2,,,,,13.12,,11132
+47642018,47642022,68,57317386e2735dc2e66e76ac9a4932b9a8cfa268,python,broken,5,python,pytest,true,false,622,0,622,1,,,,,11.58,,8538
