@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+290880086,290880087,101,b401d7b9342fc6dfc60d6b04d0c6a276cca3db91,python,ok,0,python,pytest,true,false,96,0,96,0,,,,,0.44,,676
+378171004,378171007,117,69a89798c5cb2739b8722bb9cdf9904ae62c262e,python,ok,0,python,pytest,true,false,92,0,92,0,,,,,0.47,,676
+388626579,388626580,136,c7ed3981f17bcb58ffa2cdc548e79b114b737ff2,python,ok,0,python,pytest,true,false,160,0,160,0,,,,,0.69,,1140
+402420521,402420522,162,5bca281ac6fcc4c9fc543f85a1bafa772f788225,python,ok,1,python,pytest,true,false,183,0,183,0,,,,,0.75,,1245
+425502620,425502623,176,037a2bb6c0ff49e3456479db3576ddeac1363702,python,ok,1,python,pytest,true,false,193,0,193,0,,,,,1.06,,1385
+429778805,429778806,191,02e6e3b2f2779b1324bf46be79f2b53e74b0f076,python,ok,1,python,pytest,true,false,216,0,216,0,,,,,0.91,,1611
+438414022,438414025,205,1508b8e6aaae98d4a9645abd26cb0f85ef18b3c1,python,ok,1,python,pytest,true,false,225,0,225,0,,,,,0.87,,1746
+449047486,449047487,249,b7894b0c7dbf000f5e225a6ec60f742e0d935c32,python,ok,1,python,pytest,true,false,263,0,263,0,,,,,0.97,,2034
+457221233,457221236,265,bbe34c45db1fa1c54969f590fc35571a636132b4,python,ok,1,python,pytest,true,false,270,0,270,0,,,,,0.94,,2077
+482078255,482078258,288,3677ffd2b27acb06cdb703f18d1fe0dcd8bcf96d,python,ok,1,python,pytest,true,false,275,0,275,0,,,,,6.54,,2086
+210745664,210745666,31,5031d896833f7722bb9b474006f0509951b64b4e,python,ok,0,python,pytest,true,false,85,0,85,0,,,,,0.26,,646
+210385355,210385359,3,a60a8575313c8df8211a8d6b7dfd025e5c155396,python,ok,1,python,pytest,true,false,75,0,75,0,,,,,3.36,,612
+231892676,231892678,54,6ce1cb724d55409d18e10d851df8ac618df4bc92,python,ok,0,python,pytest,true,false,88,0,88,0,,,,,0.36,,700
+258391739,258391741,83,2013bb43e1a27f60adb1be933aca3853e69bf25a,python,ok,0,python,pytest,true,false,87,0,87,0,,,,,0.35,,648

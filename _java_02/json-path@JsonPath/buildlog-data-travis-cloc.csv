@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+40575669,40575670,100,bbcec25cf799cc35f6bfc5cae450c50202ce6f74,java,ok,,java-gradle,,false,,,0,,,,,,,,,8041
+54090421,54090422,130,e4f0b1780e9840816699427e0f21665be65a6676,java,ok,0,java-gradle,,false,,,0,,,,,,,,,8076
+75419099,75419102,190,5e3bd2d8c6e30ad80636abfae931534b96598347,java,ok,0,java-gradle,,false,,,0,,,,,,,,,8236
+35939656,35939657,21,b85e06765079a0946e4057bafbb3e153ea93718f,java,ok,,java-maven,junit,true,false,211,0,211,2,,,,,2.0900000000000003,11.22,6303
+35965085,35965087,24,39bf9c15b2850cd1bd420d554118193338c4d6f6,java,ok,,java-maven,junit,true,false,211,0,211,2,,,,,1.8200000000000003,9.64,6303
+35973181,35973182,27,a4e1b655f95076c8dbf199f716a8213579f55f55,java,ok,,java-maven,junit,true,false,211,0,211,2,,,,,2.5599999999999996,13.27,6303
+93144340,93144341,309,ccdef7f0a5ea6c8abcb4d1a8133942905487f005,java,ok,1,java-gradle,,false,,,0,,,,,,,,,11548
+96734432,96734433,339,bcbd9966efae515c3f1390fa3989d73025491b8a,java,ok,1,java-gradle,,false,,,0,,,,,,,,,11932
+161677385,161677386,407,4dc0ca9b01394deef8308751fdc795f9ecb177f6,java,ok,2,java-gradle,,false,,,0,,,,,,,,,13954
+213874143,213874144,437,5544bfbecb6c52ce83b73c6090051c5784e6716d,java,ok,2,java-gradle,,false,,,0,,,,,,,,,14054
+215827133,215827134,468,c23501fcd651d0dbfd30760f634278d54b197a69,java,ok,1,java-gradle,,false,,,0,,,,,,,,,14215
+688349961,688349962,616,604f266d858a6039e88b216ded8fcb77653ce6a7,java,ok,1,java-gradle,,false,,,0,,,,,,,,,15002
+748981533,748981534,642,48312f48149cfd1830097dd1199a93e408250e94,java,ok,1,java-gradle,,false,,,0,,,,,,,,,15132
+36769350,36769351,69,b9f67ce614ebd22a4a459a54e535eb33e1680f67,java,ok,,java-maven,junit,true,false,220,0,220,1,,,,,1.8400000000000005,10.05,6507

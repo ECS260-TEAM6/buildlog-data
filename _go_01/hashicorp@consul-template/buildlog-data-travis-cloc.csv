@@ -1,0 +1,6 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+171459148,171459149,1036,f4997d97635ebe37c95743eff65cedea5ce82e11,go,ok,1,go,gotest,true,false,0,0,,0,18,18,0,,35.47,,286689
+188932663,188932664,1091,6209e0c56563a833bacf76a5a409c5d0e972bbbc,go,ok,1,go,gotest,true,false,0,0,,0,18,18,0,,17.46,,336338
+192879727,192879728,1146,bc8038d731ccabcedf7b913dbac104b24549cd70,go,ok,1,go,gotest,true,false,0,0,,0,18,18,0,,16.25,,403245
+230467509,230467510,1256,ba354ddacfecd9bd0e02618584d9e0cbe74d80ff,go,broken,1,go,gotest,true,true,0,3,,0,8,6,2,TestKVListQuery_Fetch#TestKVListQuery_Fetch/stops#github.com/hashicorp/consul-template/dependency,25.549999999999997,,545510
+248311757,248311758,1311,f1b56065fc0bbd4a3a820b2fde3f6c02b9e05c73,go,ok,1,go,gotest,true,false,0,0,,0,9,9,0,,24.650000000000002,,496785

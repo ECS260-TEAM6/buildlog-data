@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+493316068,493316069,140,72f81f1c5c18bc0f4a17ea868dc8625005a82abe,python,ok,3,python,pytest,true,false,53,0,53,0,,,,,2.31,,1226
+496435782,496435783,162,fbe39bf057078226cf0620960ddcac6b1cbc7b7c,python,ok,2,python,pytest,true,false,61,0,61,0,,,,,2.38,,1309
+498748179,498748180,182,ccb28461443f320e3b959c3b453cf784847688c6,python,ok,2,python,pytest,true,false,67,0,67,0,,,,,2.56,,1343
+506381609,506381610,211,99bea16942f5f6f76dabdee769e328907da1e005,python,ok,2,python,pytest,true,false,79,0,79,0,,,,,4.06,,1454
+512059165,512059166,230,29814f03009715e0fb2c991f3d47df21d54921e6,python,ok,4,python,pytest,true,false,82,0,82,0,,,,,3.5,,1540
+523423035,523423036,247,0aaa100da9805373382022a5f9aae6cb466570e0,python,ok,2,python,pytest,true,false,86,0,86,0,,,,,2.91,,1578
+550170847,550170848,266,ea8d93b8f554e12625cfcf28754ea30f590cda23,python,ok,2,python,pytest,true,false,89,0,89,0,,,,,5.48,,1596
+550356006,550356007,288,9cb2202c25e8c0c149c535ea21d5b56c4395a584,python,ok,2,python,pytest,true,false,94,0,94,4,,,,,5.14,,1653
+556251559,556251560,304,bf444d5c98908311ce38845f0fca88958f78009b,python,ok,2,python,pytest,true,false,100,0,100,4,,,,,5.44,,1675
+677693531,677693532,384,60fd96aecceae216bdddbba69ad5e7d6bf7c392c,python,ok,2,python,,false,,,,,,,,,,,,2005
+490483892,490483893,43,67c2538f1485a656b4fa8d124d9f2802c7c16b3a,python,ok,2,python,pytest,true,false,20,0,20,0,,,,,0.9,,742
+490593931,490593933,66,c49df894a02ebf7fa8b56670965f6ab92b587b16,python,ok,2,python,pytest,true,false,26,0,26,0,,,,,1.12,,845
+489523954,489523956,7,0a438bcf5d4741d6a87805dffd27bd6baa0f10eb,python,ok,7,python,pytest,true,false,10,0,10,0,,,,,0.49,,672

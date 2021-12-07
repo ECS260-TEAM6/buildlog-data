@@ -1,0 +1,7 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+331674734,331674735,100,287ae40e0f4a5cad654b3d34939e6fecbeee0dd5,go,ok,16,go,gotest,true,false,1,0,1,0,1,1,0,,0.17,,526
+337276060,337276068,106,1db484956b9ef929344e51701299a017beefdaaa,go,ok,6,go,gotest,true,false,1,0,1,0,1,1,0,,0.12,,550
+569002044,569002045,119,3a2256ec426beb55feaf8a255398c2534e01db06,go,ok,1,go,gotest,true,false,1,0,1,0,1,1,0,,0.13,,550
+22510662,22510664,3,a1419caa0b177e66d8f0d35df464184aea1fa3f7,unknown,ok,,plain,,false,,,,,,,,,,,,290
+262477124,262477139,85,fec6604d95d251a00c8c93e57774a704993c9c7d,go,unknown,37,go,gotest,true,true,0,4,4,0,0,-2,2,TestCrop#github.com/muesli/smartcrop#TestCrop#github.com/muesli/smartcrop,0.09,,527
+262799066,262799080,92,f99e30b455e9ce0a765dc9854de6292ebf2698be,go,unknown,33,go,gotest,true,false,1,0,1,0,1,1,0,,0.18,,526

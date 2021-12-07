@@ -1,0 +1,5 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+99857095,99857096,15,853de024b17afee0636c17525abd93fcb5826857,android,ok,2,plain,,false,,,,,,,,,,,,1572
+97141848,97141849,2,0adf54050f01e6bf9cf806bc56bf4e981bf89097,android,broken,1,plain,,false,,,,,,,,,,,,1564
+194565580,194565581,43,7bdcc3445004ff6a7bbd4152cbdfb53128356257,android,broken,2,plain,,false,,,,,,,,,,,,1569
+234676628,234676629,57,2b834da2f24e03c40222b1ecda753aea913767fb,android,ok,2,plain,,false,,,,,,,,,,,,1917

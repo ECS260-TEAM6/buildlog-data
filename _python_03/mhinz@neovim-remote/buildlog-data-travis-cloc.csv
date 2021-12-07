@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+236020618,236020621,12,53ce66cf98ffdbdde5eb44ed4b4e87e19646deea,python,ok,1,python,pytest,true,false,1,0,1,0,,,,,1.39,,326
+355094417,355094419,146,4dccbb742ad89bfd08593423c0375608c37dd1d6,python,ok,0,python,pytest,true,false,4,0,4,0,,,,,4.63,,428
+364628019,364628020,182,a1a426a8945e927296a92110bf65b929c0a58af0,python,ok,3,python,pytest,true,false,4,0,4,0,,,,,4.54,,476
+390868317,390868319,195,17cff732103cad0439b1eafd7ef834eb5d053ebb,python,ok,0,python,pytest,true,false,4,0,4,0,,,,,4.71,,478
+436058488,436058489,207,bd7bc4d9fcf1f3570da3c2379dd4de7ac1e1ff24,python,ok,1,python,pytest,true,false,4,0,4,0,,,,,4.52,,475
+469964346,469964351,217,8d0de2faff01990c985e41a61a49cb6afdba81b4,python,ok,2,python,,false,,,,,,,,,,,,476
+499003536,499003538,227,6ddadfad7db90d329cfb1a1b0a66ffafce2758bf,python,ok,1,python,pytest,true,false,4,0,4,0,,,,,4.85,,480
+572235014,572235015,248,c9b52e5b3ad642b68cbc1fb7d1600f4974a01c36,python,ok,1,python,pytest,true,false,4,0,4,0,,,,,4.48,,462
+609723766,609723773,269,01c17963ca1faf4886b690ff2901722cea54cab8,python,ok,1,python,pytest,true,false,4,0,4,0,,,,,4.82,,475
+616651133,616651135,279,df703221abe8daa679e1915bb6ac39b178fd142e,python,ok,1,python,pytest,true,false,4,0,4,0,,,,,4.89,,479
+252409978,252409980,40,4e827d4d7dea2cfc41105a0b700418d7ca493c75,python,ok,0,python,pytest,true,false,1,0,1,0,,,,,1.46,,342
+260133703,260133704,55,957082771b68f0d494536e48aa3d8c372df0b110,python,ok,1,python,pytest,true,false,1,0,1,0,,,,,1.69,,353
+281345633,281345636,70,3926064c435da6603b46e9ae7de47029875ec98d,python,ok,2,python,pytest,true,false,1,0,1,0,,,,,1.36,,363
+301590669,301590677,85,f8250c0c38e691feef3452ae3c66b9357ef033dc,python,ok,0,python,pytest,true,false,1,0,1,0,,,,,1.86,,374

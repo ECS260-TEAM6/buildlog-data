@@ -1,0 +1,10 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+22098381,22098382,10,0d63d1ea34bbf462cc64df63e260cdd5487b8af7,python,ok,,python,pytest,true,false,8,0,8,0,,,,,0.6,,5274
+23073472,23073473,16,ad05875f0b76bc5bea605c05dd1d60c5b46121c1,python,ok,,python,pytest,true,false,13,0,13,0,,,,,1.92,,5482
+23154979,23154980,19,013a2a4bc30fee83143c4f79b53a223ff6f97fb2,python,ok,,python,pytest,true,false,13,0,13,0,,,,,0.79,,5480
+34079547,34079548,27,1b0a6eaa245d1c58a4188cf46cff888b516e3134,python,ok,,python,pytest,true,false,13,0,13,0,,,,,0.5,,5485
+21095604,21095605,2,9bb08470cc45746aa1544f248650c797f639d6a6,python,broken,,python,pytest,true,true,4,4,8,0,,,,test_PickleContainer#test_JsonContainer#test_YamlContainer#test_clear,0.66,,5291
+167659184,167659185,44,c9b8725a19cfc707d4f418ab85e76545784df027,python,ok,1,python,pytest,true,false,13,0,13,0,,,,,0.68,,5534
+181301186,181301187,47,50d0cf9b1516bdcb0ed476767778a9d38f9bdbe6,unknown,unknown,,plain,,false,,,,,,,,,,,,5723
+21131982,21131983,4,bcd5415b0a58ad75b7b3db158d7443946d042f44,python,broken,,python,pytest,true,true,7,1,8,0,,,,test_YamlContainer,0.58,,5253
+238712377,238712379,55,cc1c3ae82d39a8de3ff1d96b9107c412cfa98fb4,python,ok,1,python,pytest,true,false,13,0,13,0,,,,,0.55,,5727
