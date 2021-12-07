@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+44451950,44451951,166,e26b8246bb2d2826c5c357e59e47e252e2eba755,java,ok,1,java-maven,junit,true,false,4134,0,4134,0,,,,,5.96,,84722
+49071527,49071528,189,48b6ae85b02f41bec0fac7110ee47239c53eee9d,java,ok,1,java-maven,junit,true,false,4155,0,4155,0,,,,,4.47,,84939
+80898719,80898720,253,0fb5db523fc753f00971c3bb9d8f5df2825ed73e,java,ok,1,java-maven,junit,true,false,4162,0,4162,0,,,,,5.39,,85145
+90711845,90711846,276,c0cbd65f849645635110df3b719c7e9cc00104ca,java,ok,1,java-maven,junit,true,false,4178,0,4178,0,,,,,5.6,,85494
+105411903,105411904,298,e7e6d78327d8c7d837e2a229d920b7e224504253,java,ok,1,java-maven,junit,true,false,4181,0,4181,0,,,,,6.96,,85526
+10287317,10287318,31,aef185e1c238cc6c63dbe4678607f4ed73422e74,java,ok,,java-maven,junit,true,false,4000,0,4000,0,,,,,9.15,,82158
+146249605,146249606,341,80c7dedc1cf7ecaf81a206cd90c8f08975ed7d3f,java,ok,1,java-maven,junit,true,false,4201,0,4201,0,,,,,8.76,,85752
+173025340,173025341,363,262448b391379d053451719f3d14024e7ed9e588,java,ok,1,java-maven,junit,true,false,4203,0,4203,0,,,,,8.35,,85826
+214028919,214028921,390,14a3e9a439e3da77972445906a030a106e7f83b7,java,unknown,1,java-ant,,false,,,,,,,,,,,34.16,85911
+434852681,434852683,492,d1ea2a53929d7d56d4f4560852e5586517a0dd47,java,ok,1,java-ant,,false,,,,,,,,,,,67,86167
+530289301,530289303,523,cd58bd7f397682cbd889940096a9d9a4fccbbad4,java,ok,3,java-ant,,false,,,,,,,,,,,68,86202
+642031626,642031627,565,1f8306bd4116a4edfabd31d58604b3be28a1b883,java,ok,1,java-ant,,false,,,,,,,,,,,93,86274
+17224111,17224113,76,e46064ee90fca28a92c0f51f10c94b40bc8af2d2,unknown,unknown,,plain,,false,,,,,,,,,,,,82870

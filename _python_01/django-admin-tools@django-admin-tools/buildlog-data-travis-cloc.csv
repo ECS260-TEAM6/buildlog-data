@@ -1,0 +1,12 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+69528019,69528021,10,fdc48da9d4b09a35c0a9ff35f60ab36ae3d89dcc,python,broken,0,python,,true,true,0,0,0,0,,,,InvocationError: '/home/travis/build/django-admin-tools/django-admin-tools/runtests.sh'#py27-dj18: commands failed,0,,1928
+151757148,151757157,117,b880d31834fe8ab7a70d3cb4951ed1f3b30a48fe,python,ok,0,python,unittest,true,false,12,0,12,0,,,,,1.29,,2186
+237459323,237459330,129,4224e56c5e3133f21e4acf5ef1abc392301249da,python,broken,1,python,,true,true,0,0,0,0,,,,InterpreterNotFound:#py34-dj19: InterpreterNotFound:,0,,2312
+237491252,237491266,133,09471531f864ed42f6cb5ecfb6ba79bcded48e33,python,ok,0,python,unittest,true,false,19,0,19,0,,,,,1.32,,2306
+493211557,493211571,141,ba6f46f51ebd84fcf84f2f79ec9487f45452d79b,python,ok,1,python,unittest,true,false,19,0,19,0,,,,,1.13,,2309
+638975395,638975396,153,daf79d78049d51a73cbdb272cbc7dd72b0c8c442,python,ok,1,python,unittest,true,false,19,0,19,0,,,,,0.91,,2297
+754097224,754097238,168,ebd04e1e6655954114baa6d915734c8deea4f461,python,broken,1,python,,false,,,,,,,,,,,,2326
+754126240,754126258,171,423d35bd905be07d67b87b057aedf4263bb3e89c,python,ok,1,python,unittest,true,false,19,0,19,0,,,,,0.9,,2353
+78194544,78194545,41,bc461820313ca365e52f94dfb2e29782adf775f5,python,ok,0,python,unittest,true,false,12,0,12,0,,,,,1.56,,2001
+95528118,95528122,77,2ce1a0565da6c7f0c27eaf3bcffc5c9686f8671a,python,ok,0,python,unittest,true,false,12,0,12,0,,,,,1.67,,2093
+103273947,103273951,88,a1fb2dc335903529cb4448a38786fa83482c5a6b,python,ok,0,python,unittest,true,false,12,0,12,0,,,,,2.82,,2156

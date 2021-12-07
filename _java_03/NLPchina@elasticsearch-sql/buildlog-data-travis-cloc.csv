@@ -1,0 +1,13 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+609932353,609932354,1009,55ef4fa8aed9b50603425903ee7b1a68245d5dce,java,ok,66,java-maven,junit,true,false,368,0,368,0,,,,,26.59,,59656
+613064786,613064787,1011,24169cfc5d070cb1923c719463fae7d767f51fc2,java,ok,66,java-maven,junit,true,false,368,0,368,0,,,,,26.25,,59656
+619177404,619177405,1015,3c94969c4d906ebba6edc4e704897052ffd03ff1,java,ok,64,java-maven,junit,true,false,368,0,368,0,,,,,25.31,,59656
+628313103,628313104,1020,32f19f2d2ac06dd7ce53254ef61c9eed866648db,java,ok,60,java-maven,junit,true,false,369,0,369,0,,,,,20.01,,59656
+632821815,632821816,1033,2015ac4b92563f20910a8c63b281c15f183d1380,java,ok,84,java-maven,junit,true,false,370,0,370,0,,,,,20.21,,59656
+632828970,632828971,1037,80bba20706c531f83a8435e37e76abc958d1e9c9,java,ok,85,java-maven,junit,true,false,370,0,370,0,,,,,21.08,,59656
+633791964,633791965,1039,9e95fc743086b013b8472d61b07517c4870a4917,java,ok,91,java-maven,junit,true,false,370,0,370,0,,,,,20.08,,59656
+701886747,701886748,1059,9dfeb5ce92e636c5286a2c310d674433e4ca0ea2,java,ok,61,java-maven,junit,true,false,370,0,370,0,,,,,21.64,,59656
+701889922,701889923,1062,8b4c2e6599390a8f203bc4c87601b8f80a8fd4cb,java,ok,59,java-maven,junit,true,false,370,0,370,0,,,,,21.42,,59656
+701962689,701962690,1072,236b6499f1f6906cbd2529f2cf0540400fa04942,java,ok,59,java-maven,junit,true,false,370,0,370,0,,,,,21.99,,59656
+701977825,701977826,1079,417189ab8150823f8ce750b8269a083c7d876d5e,java,ok,61,java-maven,junit,true,false,370,0,370,0,,,,,20.7,,59656
+702243875,702243876,1082,c6bfcdbc6c49a983b10ed67e569e3c2f5c74f894,java,ok,61,java-maven,junit,true,false,370,0,370,0,,,,,23.22,,59656

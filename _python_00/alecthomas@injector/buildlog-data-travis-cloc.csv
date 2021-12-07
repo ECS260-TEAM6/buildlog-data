@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+8639939,8639941,101,f64cc36e55ff4e9031b0049c112523c554c52839,python,ok,,python,pytest,true,false,65,0,65,0,,,,,0.65,,1292
+11442703,11442705,134,f82d6a320b8928e5281ebc7ceedb64fe9cbb67bc,python,ok,,python,pytest,true,false,71,0,71,0,,,,,0.52,,1476
+80921099,80921100,193,80a96512a7a64065d756f3acd4583a06289a93ad,python,ok,1,python,pytest,true,false,83,0,83,0,,,,,0.69,,1582
+164040822,164040845,213,56d0fc1f32b8c00007bb5b2a3967e1df97264768,python,ok,1,python,pytest,true,false,89,0,89,0,,,,,1.79,,1626
+169246303,169246313,239,6a8d73a7d3f42cae691a978326668c9f7452f034,python,broken,1,python,pytest,true,true,71,15,86,0,,,,[doctest] README.md#[doctest] injector.inject#[doctest] injector.is_decorated_with_inject#[doctest] injector.noninjectable#[doctest] injector.provider#test_implicit_injection_for_python3_old_style#test_annotation_based_injection_works_in_provider_methods_old_style#test_annotation_based_injection_works_in_provider_methods#test_assisted_building_is_supported#test_injection_works_in_presence_of_return_value_annotation_old_style#test_injection_works_in_presence_of_return_value_annotation#test_things_dont_break_in_presence_of_args_or_kwargs#test_forward_references_in_annotations_are_handled#test_more_useful_exception_is_raised_when_parameters_type_is_any#test_optionals_are_ignored_for_now,0.44,,1611
+236364091,236364092,266,2f665491672d7dd0b40d55937970cb9bd6bd4ca7,python,ok,0,python,pytest,true,false,84,0,84,0,,,,,0.92,,1624
+243583604,243583612,279,1fcf5a4980779dec262ebdb53c71e7240cea757d,python,ok,1,python,pytest,true,false,84,0,84,0,,,,,1.77,,1591
+343950992,343950994,309,5ae684c28ebbfd29a6a84f3ae8fdbb1317fc7bc4,python,ok,0,python,pytest,true,false,89,0,89,0,,,,,0.81,,1672
+363354732,363354737,320,4c9ed3998ef5d31f3554de5c24ea9d7cce7e2a79,python,ok,1,python,pytest,true,false,89,0,89,0,,,,,1.21,,1675
+430762295,430762300,334,baf3431e0b48166c75497568da29c6eefe70824b,python,ok,0,python,pytest,true,false,90,0,90,0,,,,,1.11,,1689
+3715772,3715773,34,40fe9979138dc7c0b2eeeeec5aec9b88982a553e,unknown,unknown,,plain,,false,,,,,,,,,,,,916
+525300214,525300218,367,c0859f527d83c7a5a433ddc878e25be165351705,python,ok,1,python,pytest,true,false,79,0,79,0,,,,,0.8,,1657
+598101661,598101662,404,8e0de69527140ab81cb0b2155fde01bb1bfb9c77,python,ok,1,python,,false,,,,,,,,,,,,1669
+623953029,623953031,440,dd5f407a945ca28ad7e4cc3fc3b824d52ecd93b5,python,ok,1,python,,false,,,,,,,,,,,,1772
+747931434,747931438,488,4e3a28911c8131eebfff344abb3148ecd54c7a70,python,ok,1,python,,false,,,,,,,,,,,,1747
+5976820,5976825,68,6479ab657b17161ff53e66aac7a5f511c1ac79c1,unknown,ok,,plain,,false,,,,,,,,,,,,1167

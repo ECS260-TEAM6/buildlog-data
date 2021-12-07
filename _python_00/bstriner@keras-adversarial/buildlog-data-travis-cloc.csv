@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+221554290,221554291,10,28d0aa86a1144e66ed20f31a31e5595efcd2ac33,python,ok,1,python,pytest,true,false,27,0,27,0,,,,,1.16,,1411
+240591009,240591016,20,22e4be9be16d99aa5c4920b5d51164f22d42e4e9,python,ok,1,python,pytest,true,false,1,0,1,0,,,,,4.21,,1400
+271001791,271001808,31,4f6c9ad416158f76755ea4f157dbbe6b7020f5da,python,ok,1,python,pytest,true,false,1,0,1,0,,,,,41.42,,1410
+273453140,273453145,35,784070220fa285bcd6a2e3df81567c86a0a34a35,python,ok,1,python,pytest,true,false,1,0,1,0,,,,,43.93,,1412
+285242065,285242067,39,fb9a1fe14aaa8b9d66712d81515031733113b5ba,python,ok,1,python,pytest,true,false,1,0,1,0,,,,,36.13,,1413
+326551540,326551541,43,fb9a1fe14aaa8b9d66712d81515031733113b5ba,python,broken,1,python,pytest,true,false,0,0,0,0,,,,,1.2,,1413
+339177431,339177440,46,6651cfad771f72521c78a5cc3a23a2313efeaa88,python,broken,1,python,pytest,true,false,0,0,0,0,,,,,1.54,,1413
+389916940,389916948,50,6651cfad771f72521c78a5cc3a23a2313efeaa88,python,broken,4,python,pytest,true,false,0,0,0,0,,,,,1.21,,1413
+426193567,426193574,54,6651cfad771f72521c78a5cc3a23a2313efeaa88,python,broken,1,python,pytest,true,false,0,0,0,0,,,,,2.73,,1413
+477038650,477038656,58,6651cfad771f72521c78a5cc3a23a2313efeaa88,python,ok,1,python,pytest,true,false,1,0,1,0,,,,,4.39,,1413
+529989109,529989114,62,6651cfad771f72521c78a5cc3a23a2313efeaa88,python,broken,1,python,pytest,true,true,0,1,1,0,,,,gan_model_test,6.72,,1413
+582425729,582425734,66,6651cfad771f72521c78a5cc3a23a2313efeaa88,python,broken,1,python,pytest,true,true,0,1,1,0,,,,gan_model_test,8.09,,1413
+634434742,634434745,70,6651cfad771f72521c78a5cc3a23a2313efeaa88,python,ok,1,python,pytest,true,false,1,0,1,0,,,,,30.78,,1413
+684857419,684857429,74,6651cfad771f72521c78a5cc3a23a2313efeaa88,python,ok,1,python,pytest,true,false,1,0,1,0,,,,,46.95,,1413
+725382910,725382912,78,6651cfad771f72521c78a5cc3a23a2313efeaa88,python,broken,1,python,pytest,true,false,0,0,0,0,,,,,0.66,,1413
+748425043,748425052,81,6651cfad771f72521c78a5cc3a23a2313efeaa88,python,unknown,1,python,,false,,,,,,,,,,,,1413

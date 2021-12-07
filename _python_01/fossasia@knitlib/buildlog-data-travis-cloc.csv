@@ -1,0 +1,8 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+77193036,77193038,157,81d7b5cad449e825c2a818eb0682efc1c95c5439,python,ok,0,python,pytest,true,false,45,0,45,0,,,,,27.27,,2036
+77256028,77256029,161,d80d448e1be9d60f74de37050c18f62cd5fae722,python,broken,0,python,,true,true,0,0,0,0,,,,InvocationError: '/home/travis/build/fashiontec/knitlib/.tox/check/bin/python setup.py check --strict --metadata --restructuredtext'#check: commands failed,0,,2036
+77329126,77329129,164,d6119e3f592d7570a014d18545d830b1d1be4dbd,python,ok,0,python,pytest,true,false,45,0,45,0,,,,,26.59,,2036
+67786328,67786329,18,b79ce1e44d55627907e267bfb21f2471211696cc,python,ok,0,python,,false,,,,,,,,,,,,798
+67864025,67864027,24,2e4e41b25cff08ffcf103adee04e62bf1a46e7ce,python,ok,0,python,pytest,true,false,21,0,21,0,,,,,10.24,,831
+67109215,67109216,2,14588d8a35cab8ebced65655a78ee37de9af2881,python,ok,0,python,,false,,,,,,,,,,,,801
+68262980,68262983,32,9b8bdd07bead5aa57059002df400b3b7892c68a4,python,ok,0,python,pytest,true,false,27,0,27,0,,,,,11.44,,892
