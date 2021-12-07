@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+13765752,13765756,11,46492016638de4fd6e0190b8206a55e2daade6b4,ruby,ok,,ruby,rspec,true,false,2815,0,2815,0,,,,,18.47,,8862
+30407089,30407090,141,a4080e386e098a192008e6547436a70544e82781,ruby,ok,,ruby,rspec,true,false,2755,0,2755,0,,,,,14.07,,9784
+30967211,30967219,165,94ccf70633a57bc6fea9fbcb430b169d813ff7a5,ruby,ok,,ruby,rspec,true,false,2760,0,2760,0,,,,,11.19,,10010
+31645712,31645714,190,44e0d273579f1fbe606e7883d4b673bbbd620a3f,ruby,ok,,ruby,rspec,true,false,3235,0,3235,0,,,,,17.02,,12231
+32227761,32227762,214,34f3429f8b28c60026fc0c3606ba6965cba8acb5,ruby,ok,,ruby,rspec,true,false,3462,0,3462,0,,,,,14.16,,13891
+32659721,32659723,239,ade26856826484506feb1039886a12c43556097e,ruby,broken,,ruby,rspec,true,true,2305,1,2306,0,,,,,22.44,,15556
+33729625,33729628,264,859143df0c5a996e5e8eada45a90d6623143381e,ruby,broken,,ruby,rspec,true,true,358,1,359,0,,,,,3.4,,15543
+34272360,34272362,289,e67c16a6c9de51a07f51b8b0a6a00de8a2f21c84,ruby,ok,,ruby,rspec,true,false,4973,0,4973,0,,,,,47.6,,15693
+40033343,40033345,355,b137eec551e3134b851ee4caf8d17474544b00b8,ruby,ok,,ruby,rspec,true,false,4949,0,4949,0,,,,,37.57,,16653
+44022606,44022610,387,e6be502089c2faffd6e8a5fc28ff51ab169c0a14,ruby,ok,0,ruby,rspec,true,false,4465,0,4465,0,,,,,28.06,,16443
+77344805,77344813,457,7f67d92a5664a82abe05c98b7107036234fc789e,ruby,ok,0,ruby,,false,,,0,,,,,,,,,16883
+79912639,79912658,472,c6950a4029905b80d751390b8906c693121386aa,ruby,broken,1,ruby,,true,false,,0,,,,,,,,,16817
+87159164,87159171,491,5bc47376c6f5d8125ebe7cb66f4c9b6d88bcb20f,ruby,ok,1,ruby,,false,,,0,,,,,,,,,16916
+95290140,95290148,512,8d7f728bef9efc63c7b63d521ee36ce14bd2f435,ruby,broken,1,ruby,,true,false,,0,,,,,,,,,17007
+286169241,286169245,556,2faef85134ef7c4f5ca7a99e3db19c67bbea79b7,ruby,ok,5,ruby,,false,,,0,,,,,,,,,17207

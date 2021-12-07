@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+143422334,143422337,10,1378b904c3c9c30c0a649a85bc8c90d5cb8110ed,ruby,unknown,1,ruby,,false,,,0,,,,,,,,,570
+143699772,143699773,13,f3411d969b0d570317b18fda55561f7f8014d4fc,ruby,ok,2,ruby,testunit,true,false,5,0,5,0,,,,,0.4,,576
+144216852,144216896,16,5c443feca33e23c7f107f104e47b0dfacbe6f985,ruby,ok,3,ruby,testunit,true,false,5,0,5,0,,,,,0.35,,576
+185758886,185758887,19,a75e45b44214aab290b3b7a3506d8bbc2311b919,ruby,broken,1,ruby,testunit,true,false,5,0,5,0,,,,,0.33,,576
+243867973,243867974,30,f1dab614c6771238a45147e4b8111c9a5d089dd0,ruby,broken,1,ruby,testunit,true,false,5,0,5,0,,,,,0.34,,582
+243871466,243871467,33,c5dd6806859a005054504719708bcfc465254f7c,ruby,ok,1,ruby,testunit,true,false,5,0,5,0,,,,,0.33,,582
+259067436,259067438,36,8878ae22668096d88e07a080fcabecae6050d95d,ruby,unknown,2,ruby,testunit,true,false,5,0,5,0,,,,,0.37,,582
+30801487,30801488,3,c156f315a4d252aad3b1f5a27b9b1801843f4da8,ruby,broken,,ruby,,false,,,0,,,,,,,,,1758
+303211550,303211551,45,d2d4aeaa501598ac77f24ea93b74bdda905310c4,ruby,unknown,1,ruby,testunit,true,false,5,0,5,0,,,,,0.3,,583
+365226535,365226536,48,59b67f7b2659c99ec41082bce1840ae8452884cd,ruby,unknown,1,ruby,testunit,true,false,5,0,5,0,,,,,0.34,,595
+365752315,365752316,50,4e6cde23928f3acbf0e885761faa29ab0c128ec5,ruby,unknown,1,ruby,testunit,true,false,5,0,5,0,,,,,0.32,,593
+368796480,368796481,53,7ababac20bf0f3943954919596215a35ae43378d,ruby,unknown,1,ruby,testunit,true,false,5,0,5,0,,,,,0.35,,593
+372069221,372069222,57,c09e583888537bce278a61dae6be74e7b3ab580b,ruby,unknown,1,ruby,testunit,true,false,5,0,5,0,,,,,0.34,,596
+30801891,30801892,5,2a17aa43270f200fea1f7099f21d9a3cf404a7ec,java,broken,,java-ant,,false,,,,,,,,,,,,1758

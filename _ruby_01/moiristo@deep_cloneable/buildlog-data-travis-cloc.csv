@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+153948028,153948029,100,bc629c3e35e027daed39a86ba0c453ed7546586a,ruby,ok,3,ruby,testunit,true,false,35,0,35,0,,,,,0.65,,718
+166366925,166366952,108,af536f60a378513da043bb8a958a8dc1d2241e74,ruby,ok,1,ruby,testunit,true,false,36,0,36,0,,,,,0.57,,747
+242717744,242717756,117,5ee6ece5425e5b733acd788e2a278eaf14bc3f6e,ruby,ok,1,ruby,,false,,,0,,,,,,,,,795
+365051020,365051066,143,8e9dc75c91d67a4bac6078094dd4cf243f9efe83,ruby,ok,3,ruby,testunit,true,false,39,0,39,0,,,,,1.2,,835
+400337308,400337317,162,1d67dd44031b1df7ae77c8a33b4afd39ade7706f,ruby,ok,5,ruby,testunit,true,false,40,0,40,0,,,,,1.27,,863
+477717612,477717620,169,2804bb0d908ea8055ac28340947ee3b2b9bc4731,ruby,ok,5,ruby,testunit,true,false,42,0,42,0,,,,,0.91,,888
+514248268,514248292,186,b3c193fd82871ce48e0fe0af0e912062d1ac7f84,ruby,ok,5,ruby,,false,,,0,,,,,,,,,899
+573391294,573391321,192,782526d700a1d851284735b212b50bd238179cb7,ruby,ok,5,ruby,,false,,,0,,,,,,,,,899
+736376053,736376090,212,94d2902e12e85dcdf02871449335c9dbc6fc3256,ruby,ok,5,ruby,testunit,true,false,45,0,45,0,,,,,0.6,,900
+759347806,759347843,226,eee2a3865adbf84f4f7587d793088793fc9b2b9c,ruby,ok,5,ruby,testunit,true,false,46,0,46,0,,,,,0.53,,918
+28390715,28390727,38,d599d84d4504628852223e78a65bd2046230a094,ruby,ok,,ruby,,false,,,0,,,,,,,,,627
+44305556,44305563,54,e4b68266418dd22ef8505fac556c5ba49fd4d7b9,ruby,ok,0,ruby,testunit,true,false,30,0,30,0,,,,,0.68,,602
+53772736,53772740,67,efa70359f6b52916408bd060c6bf3cb0efbf5bdd,ruby,ok,0,ruby,testunit,true,false,32,0,32,0,,,,,1.72,,692
+133324741,133324744,90,dc5c2b9e157fca986ca5d1bd5794b09595aa9a1c,ruby,ok,1,ruby,testunit,true,false,33,0,33,0,,,,,0.75,,702

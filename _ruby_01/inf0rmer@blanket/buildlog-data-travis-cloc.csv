@@ -1,0 +1,11 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+44702098,44702099,16,c11e3bce330fdc5ee37c5e47b3afc8f9ce6b9e63,ruby,ok,0,ruby,rspec,true,false,15,0,15,0,,,,,0.02,,205
+44704273,44704274,22,de4d43ca3e725b15b4532bb19ad32955bb2bad92,ruby,ok,0,ruby,rspec,true,false,19,0,19,0,,,,,0.02,,252
+44707822,44707823,27,60e15feff42494e16bd98c7382e040e4729c9104,ruby,ok,0,ruby,rspec,true,false,20,0,20,0,,,,,0.02,,272
+45378822,45378823,38,4cff2dc62dde70158b8763ddd335865e6b7e748a,ruby,unknown,3,ruby,,false,,,0,,,,,,,,,486
+45472416,45472417,42,f2a05d7f5109ee8a826881cbdd41929fd2f05f67,ruby,ok,0,ruby,rspec,true,false,30,0,30,0,,,,,0.02,,468
+48754124,48754125,66,0aea4c04bc9230e9ea865f5df23c55c9f85a1e75,ruby,ok,0,ruby,rspec,true,false,33,0,33,0,,,,,0.02,,495
+48910408,48910409,70,72226f0f9a7dea564212827e0594dcf5c0693e02,ruby,ok,0,ruby,rspec,true,false,33,0,33,0,,,,,0.03,,492
+49202170,49202171,75,8c52f190b0a00d7380a53b54b0e7c2655dc799c0,ruby,ok,0,ruby,rspec,true,false,34,0,34,0,,,,,0.02,,497
+59390645,59390646,87,96cc1b1dcafe1aa181729790718d24cd9d9cea2b,ruby,ok,1,ruby,rspec,true,false,34,0,34,0,,,,,0.03,,506
+59400303,59400304,92,4e3039e2a02cbf441a7e7ff2291027e7dabc90f8,ruby,ok,0,ruby,rspec,true,false,35,0,35,0,,,,,0.03,,514

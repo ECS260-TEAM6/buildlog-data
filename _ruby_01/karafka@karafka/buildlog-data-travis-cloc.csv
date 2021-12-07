@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+536768293,536768294,2081,fa35a5efcf62fbb47d409445487c67980d968c31,ruby,ok,7,ruby,,false,,,0,,,,,,,,,6471
+543362141,543362144,2116,3fbb9c13986e8d216d99f02794d0b94fb6247af5,ruby,ok,5,ruby,rspec,true,false,632,0,632,1,,,,,1.12,,6480
+552387239,552387243,2201,b60d115752801e6375a2a7871636067c02a0c537,ruby,ok,5,ruby,rspec,true,false,639,0,639,1,,,,,1.73,,6587
+558499316,558499318,2246,642726e83f93ce04af361b979ac2093476f07b29,ruby,broken,55,ruby,,false,,,0,,,,,,,,,6575
+569798846,569798847,2324,8a0e466f7246e77e43aeb4618639c5f34e59b4fd,ruby,ok,57,ruby,,false,,,0,,,,,,,,,6551
+594809013,594809016,2402,4d03943ca69e8d4423dde6345773d019a449ad49,ruby,ok,5,ruby,rspec,true,false,641,0,641,1,,,,,1.56,,6567
+619640346,619640351,2496,5dc9e5140a3a6d1e27539009554ec1bc0fd28940,ruby,ok,45,ruby,,false,,,0,,,,,,,,,6589
+634225112,634225116,2583,49ca679bdeb2a7cd09dd2d2e1624ecf352aa3ece,ruby,ok,3,ruby,,false,,,0,,,,,,,,,6590
+644347769,644347771,2617,2329da337a4ac30eb118e57ec4c1bb4f2e0ab852,ruby,ok,70,ruby,rspec,true,false,645,0,645,1,,,,,1.84,,6590
+653451775,653451779,2648,dcbd199e6e3b2f8268ffa2484242cb5a046b090d,ruby,ok,3,ruby,,false,,,0,,,,,,,,,6586
+662393834,662393836,2681,f56e98592f0a5d03eefdef0e75fccd32bd00ced9,ruby,ok,69,ruby,rspec,true,false,645,0,645,1,,,,,1.53,,6586
+670545677,670545681,2716,a9689d7893eb30f98b7114c3cd42e8e5d22cdc23,ruby,ok,3,ruby,,false,,,0,,,,,,,,,6587
+678977259,678977261,2750,fd5fec04ce7ecb874644125842fa9bc85accf891,ruby,ok,68,ruby,rspec,true,false,646,0,646,1,,,,,1.6,,6599
+688055703,688055717,2782,4070cce8eed0919afbb196877f36281e826397cc,ruby,ok,71,ruby,,false,,,0,,,,,,,,,6599
+698220007,698220009,2815,7f9c890a113ac9e0404fa408ad1d0ad613314f37,ruby,ok,73,ruby,rspec,true,false,646,0,646,1,,,,,1.68,,6599

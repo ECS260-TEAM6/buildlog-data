@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+136595308,136595309,100,ff3273dd03a2ccbab268e4351527355170fb7d61,ruby,ok,25,ruby,rspec,true,false,94,0,94,0,,,,,13.32,,1203
+169125111,169125116,104,2d6e850eab758b7d01c6dfff77d095e89148a5b7,ruby,unknown,23,ruby,,false,,,0,,,,,,,,,1203
+169415230,169415234,109,f3df5b1bd1488143f43755778c72a96e6ce88962,ruby,ok,29,ruby,rspec,true,false,94,0,94,0,,,,,14.18,,1206
+191827374,191827376,123,64748dfb18b0a892e8b01483a5ebc5282c594a5d,ruby,unknown,0,ruby,,false,,,0,,,,,,,,,1230
+454058272,454058275,132,d0f17660bc26d18e27fd86952a84c4a6164689ec,ruby,unknown,1,ruby,,false,,,0,,,,,,,,,1231
+83757040,83757041,16,be0a05b0ff52c32290e6991ea4af08a8a0be6b72,ruby,ok,0,ruby,rspec,true,false,25,0,25,0,,,,,2.21,,431
+130475141,130475142,32,0518614a6e823acf12377935021309764466eeb4,ruby,unknown,0,ruby,,false,,,0,,,,,,,,,445
+130480151,130480163,36,751b65953d8505dc6a94890a8ab881a705c0fdb2,ruby,ok,0,ruby,rspec,true,false,26,0,26,0,,,,,6.6,,459
+130727730,130727732,42,e853eef5e1d6567db5346ba049f4249ceb1e682a,ruby,ok,0,ruby,rspec,true,false,22,0,22,0,,,,,2.18,,502
+130734271,130734273,47,667bf97872e8b884891a1cfcaceb09692ab9417f,ruby,ok,0,ruby,rspec,true,false,22,0,22,0,,,,,2.13,,501
+130744355,130744359,51,fe0297f4cf84405ccd00a44518eb4478a3070e64,ruby,broken,0,ruby,rspec,true,true,26,18,44,0,,,,,3.3,,582
+133019818,133019825,84,6355241ee100d56e84d71a7534f87deddcffb4d5,ruby,ok,20,ruby,rspec,true,false,91,0,91,0,,,,,15.57,,1160
+136299680,136299686,89,34419ad188a76d16312b70469ce3427f82bcd209,ruby,ok,22,ruby,rspec,true,false,91,0,91,0,,,,,16.58,,1177
+136517004,136517005,94,287b02b269f8c123c329471fe80fd63a984e12c7,ruby,ok,21,ruby,rspec,true,false,93,0,93,0,,,,,15.84,,1200

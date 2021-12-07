@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+123743292,123743293,18,501037884a2391b01a40d7fd13a7ec44a0f6c45f,ruby,ok,1,ruby,rspec,true,false,225,0,225,10,,,,,11.86,,3394
+123743292,123743295,18,501037884a2391b01a40d7fd13a7ec44a0f6c45f,ruby,ok,1,ruby,rspec,true,false,225,0,225,10,,,,,12.59,,3394
+123957429,123957431,19,501037884a2391b01a40d7fd13a7ec44a0f6c45f,ruby,ok,1,ruby,rspec,true,false,225,0,225,10,,,,,13.27,,3394
+123988069,123988071,20,ae9933a09fd28950b56894c408c471af938d02fe,ruby,ok,1,ruby,rspec,true,false,225,0,225,10,,,,,17.04,,3394
+123988069,123988074,20,ae9933a09fd28950b56894c408c471af938d02fe,ruby,ok,1,ruby,rspec,true,false,225,0,225,10,,,,,14.47,,3394
+123998339,123998341,21,ae9933a09fd28950b56894c408c471af938d02fe,ruby,ok,1,ruby,rspec,true,false,225,0,225,10,,,,,13.39,,3394
+128106389,128106394,25,e9908ea7e3c9a44c4e0808d2fcc8a9ed930348f2,ruby,broken,1,ruby,rspec,true,true,223,2,225,10,,,,,19.93,,3394
+128109669,128109671,26,027816587daafd45ef2c52ba8f86a4ecf45aafd8,ruby,ok,1,ruby,rspec,true,false,225,0,225,12,,,,,16.84,,3394
+128109669,128109674,26,027816587daafd45ef2c52ba8f86a4ecf45aafd8,ruby,ok,1,ruby,rspec,true,false,225,0,225,12,,,,,13.99,,3394
+138083449,138083450,30,9092496c10c0f8c7b85abb701da15e4caff6661d,ruby,ok,1,ruby,rspec,true,false,225,0,225,12,,,,,13.57,,3395
+138083449,138083452,30,9092496c10c0f8c7b85abb701da15e4caff6661d,ruby,ok,1,ruby,rspec,true,false,225,0,225,12,,,,,16.79,,3395
+140538635,140538651,31,ca52bfe99a753d8e3d57202a7ac29f9aaac2d9ea,ruby,ok,1,ruby,rspec,true,false,225,0,225,12,,,,,20.29,,3395
+281281713,281281715,55,e5096739a198a6dcd21d2039d58b167e9c08ff63,ruby,broken,0,ruby,rspec,true,true,154,71,225,9,,,,,0.98,,3395

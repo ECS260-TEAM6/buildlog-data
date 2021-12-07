@@ -1,0 +1,8 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+12884684,12884686,137,bddaac076d494487163d97b1ff52d9b0f5134e61,ruby,ok,,ruby,,false,,,0,,,,,,,,,3699
+43205013,43205015,255,9bb48b46acd73712f01d1938b144549d691cb0ba,ruby,ok,0,ruby,,false,,,0,,,,,,,,,4149
+184341217,184341218,459,702e5a3d145e37cf6ae17cded84cc1a9b85a84c1,ruby,ok,2,ruby,rspec#cucumber,true,false,615,0,615,0,,,,,13.530000000000001,,5162
+287256270,287256271,527,e375fe0b5b254860dd137f8fd25c44cd3ead3cd4,ruby,ok,2,ruby,rspec#cucumber,true,false,633,0,633,0,,,,,12.49,,5376
+1102020,1102022,6,83316de971dae7939febdf8b8b1b70ab61cd379f,unknown,unknown,,plain,,false,,,,,,,,,,,,2892
+522485745,522485748,723,0362265e8f1a374ad6f3c98d76c9ed3212ea0a7c,unknown,unknown,,plain,,false,,,,,,,,,,,,6211
+652551058,652551060,773,b4aba417a502342b1f6940c711e155b8eb8c3951,ruby,ok,1,ruby,rspec#cucumber,true,false,692,0,692,0,,,,,12.65,,6370
