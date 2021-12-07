@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+337887003,337887004,100,17c1528dee78fb7533475120159e358281a4e1b5,android,ok,1,plain,,false,,,,,,,,,,,,43787
+120652772,120652774,14,2442df77c173ec9398bd156eb03902bf11f854c6,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,43517
+380954246,380954247,161,2eb933c9bc345f0874b0231362adedb5aaa9929f,android,ok,1,plain,,false,,,,,,,,,,,,43537
+424636974,424636975,200,fca2d3c51600589d32158293dbc845ccf5579c5c,android,ok,1,plain,,false,,,,,,,,,,,,43539
+428516148,428516149,227,34c1b69856c204eea587bdf1ed495b9edc9f19c1,android,ok,1,plain,,false,,,,,,,,,,,,43764
+428912195,428912196,247,c17ffc1e2d7300d6c2f0c074bcbda1fb4ed0fd90,android,ok,1,plain,,false,,,,,,,,,,,,44561
+428915118,428915119,257,adcdd346c702956b3a8d80e84ad4508a4ccee5a6,android,ok,1,plain,,false,,,,,,,,,,,,46259
+428917091,428917092,267,3f7ba7ba1d36989b4b780b3e02d76d18d20c731f,android,ok,1,plain,,false,,,,,,,,,,,,46649
+428920522,428920523,277,61c8a2e142c566ecc3f7af1dd63c3301d307bebd,android,ok,1,plain,,false,,,,,,,,,,,,46886
+428922375,428922376,287,86966f2dda2ec1f9c7543f65fad321294b2bd3bf,android,ok,1,plain,,false,,,,,,,,,,,,46899
+428924949,428924950,297,8f6a2329d01894c286f18d372cd4ebe71f8bd7c1,android,ok,1,plain,,false,,,,,,,,,,,,47364
+428955393,428955394,307,93817ae99401397d2e46a415d948f4a8a4cfaeba,android,ok,1,plain,,false,,,,,,,,,,,,47370
+463798393,463798394,361,9dbd4b9328f4483ef1d9fe1c6af85cbd78293410,android,ok,1,plain,,false,,,,,,,,,,,,47702
+464239161,464239162,371,51436de0b89d26f55693b3fb34f22a55d6e2ff86,android,ok,1,plain,,false,,,,,,,,,,,,47702
+499277538,499277539,418,fd2c4728a1dc923fb82cf6d1c1afee30864e452d,android,ok,1,plain,,false,,,,,,,,,,,,47732
+152286453,152286454,42,eaad5e260a47a9671c8295932eb88ef7e8d66273,java,ok,1,java-maven,,false,,,,,,,,,,0,,43817
