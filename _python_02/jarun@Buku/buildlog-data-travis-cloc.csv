@@ -1,0 +1,8 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+323816762,323816765,1142,f2179951d88f52187e0d95a1ccb34d29c1b9f043,python,ok,11,python,pytest,true,false,245,0,245,6,,,,,16.4,,4279
+382995211,382995213,1294,d48eba989c1cf5b75cf6a6a35a99532e73d5ff87,python,ok,19,python,pytest,true,false,259,0,259,6,,,,,17.55,,4926
+384104278,384104281,1320,e68bc3e472584def6131b023b9662e492b3967b6,python,ok,19,python,pytest,true,false,259,0,259,6,,,,,16.66,,4963
+447887929,447887930,1499,c4f93cec82ff9bd0c704f0e18be1228eb68ef075,python,broken,22,python,pytest,true,true,328,10,338,12,,,,test_load_chrome_database[True]#test_load_chrome_database[False]#test_load_firefox_database[True]#test_load_firefox_database[False]#test_import_html_and_add_parent#test_import_html_and_new_tag,1379.49,,5581
+462453919,462453921,1524,0fc7741d88462a0b423d0247c12cb2882b52e2a0,python,broken,22,python,pytest,true,false,343,0,343,7,,,,,38.93,,5597
+473183903,473183906,1549,c6944174627d7380d7bb7daa8cf2a8f066bb772f,python,broken,21,python,pytest,true,true,350,3,353,7,,,,,95.62,,5776
+478941131,478941132,1575,25034bf0dca1cbfc085fbbd7394fc870267333fe,python,ok,25,python,pytest,true,false,351,0,351,12,,,,,100.42,,6045
