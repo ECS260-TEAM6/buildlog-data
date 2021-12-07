@@ -1,0 +1,12 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+639855911,639855912,100,bdbc9fec0f192edcc42abfcd95ecfc07e3dfdab3,python,ok,2,python,pytest,true,false,142,0,142,0,,,,,43.07,,3187
+432128530,432128533,11,d33666e37f708f4d4ee7545ffcde75a9afa2ca10,python,ok,1,python,pytest,true,false,86,0,86,0,,,,,348.19,,1502
+665065858,665065860,134,04c84475cf36e73c8c6045022a9284d60003acbd,python,ok,1,python,pytest,true,false,159,0,159,0,,,,,31.86,,3616
+680487002,680487005,158,b453689aaa9af21acf18f3aa2d0445ec776feed4,python,ok,2,python,,false,,,,,,,,,,,,4752
+680885742,680885744,166,7c3fbd098841ccb7dc26a477512009c846a50a8b,python,ok,1,python,pytest,true,false,197,0,197,0,,,,,27.22,,4718
+682196676,682196679,173,c119b0b5494205ce551852e7a3953e02fe2e170e,python,ok,1,python,,false,,,,,,,,,,,,4713
+695649013,695649016,195,6dcc3dede8875cf504e53bedb74ce385f9ce0f98,python,ok,1,python,,false,,,,,,,,,,,,4632
+730554424,730554426,242,4a79c03a9c0e19d29a5b977d12503268e6c23f16,python,ok,1,python,,false,,,,,,,,,,,,4606
+390392110,390392112,2,46c2e0a3cacde8d239e36c97682d23cbf8b95cca,python,broken,1,python,pytest,true,true,50,15,65,0,,,,test_max_sharpe_long_only#test_max_sharpe_short#test_max_sharpe_L2_reg#test_max_sharpe_L2_reg_with_shorts#test_min_volatility#test_min_volatility_short#test_min_volatility_L2_reg#test_efficient_risk#test_efficient_risk_short#test_efficient_risk_L2_reg#test_efficient_risk_market_neutral#test_efficient_return#test_efficient_return_short#test_efficient_return_L2_reg#test_efficient_return_market_neutral,319.25,,1135
+570439884,570439885,65,4f8656a148ba20f57f925e734397fa599b964e3d,python,ok,2,python,pytest,true,false,119,0,119,0,,,,,49.08,,2526
+624111153,624111156,85,6344c2886d4b050c4b53d4be89cd3731b3ee43e3,python,ok,1,python,pytest,true,false,140,0,140,0,,,,,49.47,,3152
