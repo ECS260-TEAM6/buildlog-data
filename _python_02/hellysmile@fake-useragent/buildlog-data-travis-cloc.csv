@@ -1,0 +1,19 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+620532198,620532199,1176,a55c4dc294883c73231e085fca34ab5a8e2bc1f1,python,ok,1,python,pytest,true,false,36,0,36,0,,,,,78.98,,882
+629943356,629943358,1199,a55c4dc294883c73231e085fca34ab5a8e2bc1f1,python,ok,0,python,pytest,true,false,36,0,36,0,,,,,68.31,,882
+639069932,639069945,1222,a55c4dc294883c73231e085fca34ab5a8e2bc1f1,python,ok,1,python,,false,,,,,,,,,,,,882
+659767695,659767699,1271,a55c4dc294883c73231e085fca34ab5a8e2bc1f1,python,ok,1,python,,false,,,,,,,,,,,,882
+669691142,669691143,1295,a55c4dc294883c73231e085fca34ab5a8e2bc1f1,python,ok,1,python,pytest,true,false,36,0,36,0,,,,,88.06,,882
+679035137,679035139,1318,a55c4dc294883c73231e085fca34ab5a8e2bc1f1,python,ok,1,python,pytest,true,false,36,0,36,0,,,,,66.97,,882
+687783778,687783781,1341,a55c4dc294883c73231e085fca34ab5a8e2bc1f1,python,broken,1,python,pytest,true,true,1,1,2,0,,,,test_fake_user_agent_browsers,21.27,,882
+696036047,696036057,1364,a55c4dc294883c73231e085fca34ab5a8e2bc1f1,python,ok,0,python,,false,,,,,,,,,,,,882
+703938710,703938714,1387,a55c4dc294883c73231e085fca34ab5a8e2bc1f1,python,ok,1,python,,false,,,,,,,,,,,,882
+711737681,711737685,1411,a55c4dc294883c73231e085fca34ab5a8e2bc1f1,python,broken,1,python,pytest,true,true,1,1,2,0,,,,test_fake_user_agent_browsers,20.78,,882
+718655350,718655352,1434,a55c4dc294883c73231e085fca34ab5a8e2bc1f1,python,broken,1,python,pytest,true,true,1,1,2,0,,,,test_fake_user_agent_browsers,21.24,,882
+725618067,725618071,1457,a55c4dc294883c73231e085fca34ab5a8e2bc1f1,python,ok,1,python,,false,,,,,,,,,,,,882
+736641262,736641275,1501,460686d0c729c2b22172dc75760408c87b7d6618,python,broken,1,python,,true,true,0,0,0,0,,,,/home/travis/build/hellysmile/fake-useragent/fake_useragent/utils.py Imports are incorrectly sorted and/or formatted.#py36: commands failed,0,,882
+742249142,742249145,1524,460686d0c729c2b22172dc75760408c87b7d6618,python,ok,1,python,,false,,,,,,,,,,,,882
+746588011,746588015,1547,460686d0c729c2b22172dc75760408c87b7d6618,python,broken,1,python,,true,true,0,0,0,0,,,,/home/travis/build/hellysmile/fake-useragent/fake_useragent/utils.py Imports are incorrectly sorted and/or formatted.#py36: commands failed,0,,882
+751218407,751218417,1571,460686d0c729c2b22172dc75760408c87b7d6618,python,ok,1,python,pytest,true,false,36,0,36,0,,,,,76.41,,882
+754655180,754655184,1594,460686d0c729c2b22172dc75760408c87b7d6618,python,ok,1,python,pytest,true,false,36,0,36,0,,,,,81.16,,882
+757940681,757940701,1617,460686d0c729c2b22172dc75760408c87b7d6618,python,ok,1,python,,false,,,,,,,,,,,,882

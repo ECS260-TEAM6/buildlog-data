@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+26533817,26533818,100,515188d1a5c28260428e8824a6892e67275f961e,java,ok,,java-maven,junit,true,false,318,0,318,0,,,,,24.59,36.07,8276
+37461021,37461022,147,0a5ddca1a516b7770636b775fc3faa2c6ca764ba,java,ok,,java-maven,junit,true,false,351,0,351,0,,,,,29.059999999999995,44.13,8689
+41063684,41063685,161,486277d05b97480dd4036732231667985e54fbc1,java,unknown,98,java-ant,,false,,,,,,,,,,,,8764
+46258181,46258182,175,d66e2e243355bc9f5c83ae73b6bea26d0230e111,java,ok,0,java-maven,junit,true,false,348,0,348,0,,,,,24.14,40.7,8382
+74104276,74104277,209,b7411360cee0e6baabaf0a705dea3bb71af66b87,java,ok,2,java-maven,junit,true,false,355,0,355,0,,,,,28.240000000000002,172,8268
+102656344,102656345,233,5542b0ae9e4896431f75c606fce77222a1d89fe4,java,ok,1,java-maven,junit,true,false,186,0,186,0,,,,,11.29,101,7192
+135968810,135968811,248,a14af1d421ccd6bd17a4dfcec63bac1f6d9096f4,java,ok,1,java-maven,junit,true,false,193,0,193,0,,,,,12.23,228,7624
+151368113,151368114,264,774ae7add1f6b3396e7d6554397a71f3ea1e2104,java,ok,1,java-maven,junit,true,false,207,0,207,0,,,,,13.509999999999996,228,7779
+205874204,205874205,280,9efa19d595f893527ff218683e70db2ae4d8fb2d,java,ok,1,java-maven,junit,true,false,213,0,213,0,,,,,10.85,209,7862
+253409034,253409035,295,f405e966ab4e82e0fd52bf518e1a0a23275dcc5c,java,ok,1,java-maven,junit,true,false,225,0,225,0,,,,,15.059999999999999,233,7940
+376487134,376487135,309,e49a7cc1e359a2ec5ad8c8a05038a591ece81bc0,java,ok,3,java-maven,junit,true,false,229,0,229,0,,,,,12.129999999999997,215,8048
+484527345,484527346,339,f8ba5b9292e76feb87ea92093045f3f1ab56db77,java,ok,1,java-maven,junit,true,false,233,0,233,0,,,,,10.799999999999999,177,8231
+728824618,728824619,358,3e59ba4c685fbc515c9b85166a9349e3d45ef1c3,java,ok,1,java-maven,junit,true,false,242,0,242,0,,,,,11.290000000000001,,8313
+6427104,6427105,42,489d83cf734d5ee2ffae62d66a7c5b9eed4a659c,java,ok,,java-maven,junit,true,false,217,0,217,0,,,,,26.209999999999997,,6999
+8397909,8397910,57,e7a6bf2962be14643284eac86ab698e472bd4143,java,ok,,java-maven,junit,true,false,281,0,281,0,,,,,27.149999999999995,,7490
+12463817,12463818,74,40d2f69084b3be3e2f68083527be660890271e98,java,broken,,java-maven,junit,true,true,163,2,165,0,,,,DelimiterTest.testMavenDelimiter#DelimiterTest.testAntDelimiter#,9.049999999999999,,8066

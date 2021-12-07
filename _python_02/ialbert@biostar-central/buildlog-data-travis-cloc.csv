@@ -1,0 +1,9 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+54564748,54564749,168,80009cf33f06298bf0e148639c6ac0861e02a9fb,python,ok,0,python,unittest,true,false,30,0,30,0,,,,,21.79,,7857
+48903156,48903157,26,9aa9e44da5459bb49781bf35c34abb3931e89b1b,python,ok,1,python,unittest,true,false,30,0,30,0,,,,,21.43,,7850
+68835581,68835583,301,d668deeaa75fc65061cbd9aa0373f000059bf60e,python,ok,1,python,unittest,true,false,30,0,30,0,,,,,24.44,,7859
+49471012,49471013,30,0f4f7eeaea0ef3182db2f0cacc424311b8c85c59,python,ok,2,python,unittest,true,false,30,0,30,0,,,,,21.97,,7850
+70572129,70572130,327,cada80de0b04e3e0454dc2084bdc6e7c6b18cf30,python,broken,0,python,unittest,true,true,25,5,30,0,,,,test_date_a_post_a_user#test_day_a_post_a_user#test_date_question_comment_answer#test_user,15.82,,7863
+75488635,75488636,353,9bfe997c80c4dfaa5e22d7be7756d2ee399e2df7,python,broken,0,python,unittest,true,true,27,3,30,0,,,,test_stress#test_user_answer#test_user_new_post,13.34,,8006
+76547675,76547676,361,2279ca6c67a3377755533e37ab001c74fbc530c4,python,broken,0,python,unittest,true,true,27,3,30,0,,,,test_stress#test_user_answer#test_user_new_post,12.79,,8006
+50102874,50102875,38,dd5788282a9ecfdc2b2d94009d869f0068886802,python,ok,2,python,unittest,true,false,30,0,30,0,,,,,23.9,,7852
