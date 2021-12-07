@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+534404881,534404882,100,fcc7adab533931dbda9422914ca16ac8045b8216,python,ok,1,python,,false,,,,,,,,,,,,1072
+679670917,679670920,127,0d8a608386dfd0d1bd8c6cba7e2c1458c707f340,python,ok,1,python,unittest,true,false,54,0,54,0,,,,,0.24,,1349
+679862457,679862460,133,e8572751f1c49020029b26185e35e65bff41240f,python,ok,1,python,unittest,true,false,59,0,59,0,,,,,0.26,,1397
+694839320,694839326,139,d9f3e6f64b275ba729a9011842ddd70b2b8ab4ba,python,ok,1,python,unittest,true,false,59,0,59,0,,,,,0.24,,1411
+743931354,743931356,151,37e6a7e88667b4a98fdf5e946771e2ae0fd847a5,python,ok,0,python,unittest,true,false,60,0,60,0,,,,,0.28,,1452
+110793544,110793549,23,4acb941e559114b179e811b9d9d37c72a328e33c,python,ok,1,python,unittest,true,false,23,0,23,0,,,,,0.16,,657
+115710029,115710030,38,29edb1948f086babbd1a9e0c87a0a35c05f0a63b,python,ok,1,python,,false,,,,,,,,,,,,864
+115788088,115788098,44,61b1b71b3b29f2936ac6a2077883da1faeaad09f,python,ok,1,python,unittest,true,false,38,0,38,0,,,,,0.11,,1043
+160948287,160948289,58,1f0b36f12beea763ee2346b97289d03f7817d7ed,python,ok,1,python,unittest,true,false,38,0,38,0,,,,,0.11,,1050
+196469259,196469265,64,817211b646bf4cf6026b5a29cca4e1596b4e2397,python,ok,1,python,,true,true,0,0,0,0,,,,InterpreterNotFound: python3.6,0,,1059
+270999161,270999163,71,f7c5bbd1b3a53080171bbdc5f1f1842f7a825f6a,python,ok,1,python,,true,true,0,0,0,0,,,,InterpreterNotFound: python2.6,0,,1059
+393407745,393407754,84,68ee1e7a92355ba0f3f9b48c9489a67ab762e106,python,ok,1,python,unittest,true,false,39,0,39,0,,,,,0.99,,1064
+455650395,455650398,91,ce5e5b4c9e8b748eba886ded5180e1e5d5036528,python,ok,1,python,unittest,true,false,39,0,39,0,,,,,0.11,,1064

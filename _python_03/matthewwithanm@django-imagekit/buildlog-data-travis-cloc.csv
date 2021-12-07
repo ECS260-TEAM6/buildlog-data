@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+46015373,46015374,100,2bcb93da224facb14fdd118e3b7fe8ba4a0b7fdf,python,ok,0,python,,false,,,,,,,,,,,,1864
+95651936,95651949,141,bc93ec2920cddc1a1101aa8203053f0a3a00f960,python,ok,1,python,unittest,true,false,33,0,33,0,,,,,0.59,,1885
+95652007,95652008,142,bc93ec2920cddc1a1101aa8203053f0a3a00f960,python,ok,0,python,unittest,true,false,33,0,33,0,,,,,0.5,,1885
+95652007,95652024,142,bc93ec2920cddc1a1101aa8203053f0a3a00f960,python,ok,1,python,unittest,true,false,33,0,33,0,,,,,0.57,,1885
+204198813,204198818,205,bc93ec2920cddc1a1101aa8203053f0a3a00f960,python,broken,1,python,,true,true,0,0,0,0,,,,InvocationError: '/home/travis/build/matthewwithanm/django-imagekit/.tox/py26-django16/bin/python setup.py test'#py26-django16: commands failed,0,,1885
+204198813,204198834,205,bc93ec2920cddc1a1101aa8203053f0a3a00f960,unknown,unknown,,plain,,false,,,,,,,,,,,,1885
+204201906,204201917,206,f724cb0118206fa51b9d0eadc0663da1915ad53a,python,ok,1,python,unittest,true,false,33,0,33,0,,,,,0.43,,1946
+204204135,204204140,208,f724cb0118206fa51b9d0eadc0663da1915ad53a,python,ok,0,python,unittest,true,false,33,0,33,0,,,,,0.33,,1946
+204204135,204204173,208,f724cb0118206fa51b9d0eadc0663da1915ad53a,python,ok,1,python,unittest,true,false,33,0,33,0,,,,,0.42,,1946
+225253913,225253922,211,acefa913f922763d0c815ff593675abeb2c4604f,python,ok,1,python,unittest,true,false,33,0,33,0,,,,,0.37,,1946
+233280856,233280859,215,ef45747bf9a8ac8e519621fc725d5c0608fddba6,python,ok,1,python,unittest,true,false,33,0,33,0,,,,,0.39,,1944
+233280856,233280877,215,ef45747bf9a8ac8e519621fc725d5c0608fddba6,python,ok,1,python,unittest,true,false,33,0,33,0,,,,,0.5,,1944
+233281069,233281088,216,ef45747bf9a8ac8e519621fc725d5c0608fddba6,python,ok,1,python,unittest,true,false,33,0,33,0,,,,,0.61,,1944
+304642389,304642410,241,097999f3cf2db7bccf3640273e2180f7de7a4111,python,ok,1,python,unittest,true,false,37,0,37,0,,,,,2.57,,2000
+304642696,304642697,242,097999f3cf2db7bccf3640273e2180f7de7a4111,python,ok,2,python,unittest,true,false,37,0,37,0,,,,,0.36,,2000
+304642696,304642713,242,097999f3cf2db7bccf3640273e2180f7de7a4111,python,ok,4,python,unittest,true,false,37,0,37,0,,,,,0.68,,2000
