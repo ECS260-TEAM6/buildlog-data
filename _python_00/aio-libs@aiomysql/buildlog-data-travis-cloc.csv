@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+59230250,59230252,100,0f409a285c942521e2862c7cc3680a89499773d4,python,ok,0,python,unittest,true,false,187,0,187,5,,,,,50.12,,4652
+82294251,82294261,162,0f3aadec7bdaff4c10b678a16e4c71b746d8bd59,python,ok,0,python,pytest,true,false,189,0,189,5,,,,,77.12,,4970
+101141333,101141351,217,6bd3cfd3e07119669227ea04cd1660c875eb7529,python,ok,0,python,pytest,true,false,194,0,194,5,,,,,64.6,,5483
+103952420,103952421,251,8c77393dc7973ba743fe7f03175163ac2e2a211b,python,unknown,1,python,pytest,true,false,192,0,192,6,,,,,70.39,,5627
+157217808,157217814,370,0aa221eaece8d8ede8c0ec62b685b018c280ed07,python,ok,4,python,,false,,,,,,,,,,,,5731
+168397710,168397722,420,9718e0b95ee32a0a2bc9556e562999e9cfe666ad,python,broken,0,python,,false,,,,,,,,,,,,5776
+194180184,194180186,494,9b28661b19089bc164ab12e08e3e816b2329f0fe,python,ok,0,python,,false,,,,,,,,,,,,5779
+51122446,51122449,52,583a253aad066dade512cf48b79600ec61c19753,python,ok,0,python,unittest,true,false,185,0,185,5,,,,,49.71,,4530
+46542069,46542071,5,91f8e11783a6fda575ba4ae31faacf62a5b65c02,python,broken,0,python,unittest,true,true,2,45,47,2,,,,test tons of data#test every data type#test datetime conversion#test dict escaping#test timedelta conversion#test conversion of null, empty string#test aggregate functions#test a single tuple#This test requires MySQL >= 5.5#The number of fields returned by server is read in wrong way#'Connection' object has no attribute 'insert_id'#Duplicate field overwrites the previous one in the result#Leftover trailing OK packet for "CALL my_sp" queries#can't handle large result fields#query should be expanded before perform character encoding#Patch for string and tuple escaping#undefined methods datetime_or_None, date_or_None#can't retrieve TIMESTAMP fields#query on information_schema.tables fails#Primary Key and Index error when selecting data,0.05,,1693
+258526084,258526090,636,554575d9174abd8b96d8bf3bbaa2ea5e46c312f1,python,ok,1,python,,false,,,,,,,,,,,,5866
+281424697,281424701,673,e15115de5f2830d6b6a2dad6b2a77a9689d385d2,unknown,unknown,,plain,,false,,,,,,,,,,,,5866
+302319818,302319822,717,d8fb91739bb46953e6e43bb3487578bf41c36936,python,ok,1,python,,false,,,,,,,,,,,,5896
+346276868,346276869,807,58bb8ef74a294c6fea7c7bd223c1bb92460feda9,python,ok,0,python,,false,,,,,,,,,,,,5903

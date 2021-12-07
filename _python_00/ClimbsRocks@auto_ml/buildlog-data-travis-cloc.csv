@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+218200721,218200722,197,27913984272715a4749763490e65fb24faf55d98,python,ok,1,python,unittest,true,false,69,0,69,0,,,,,112.51,,3198
+184018171,184018177,30,994536acfeb170d58c1cfe5b9cf7900c3d541d26,unknown,unknown,,plain,,false,,,,,,,,,,,,2520
+184448429,184448430,43,d4bd06a63f6e7b148a398584269657fc59dc4d29,python,ok,0,python,unittest,true,false,44,0,44,0,,,,,84.7,,2645
+256517688,256517689,574,3e9bd4c3ba3d77dedcc6f2d34338936325b66fc4,python,ok,1,python,unittest,true,false,104,0,104,0,,,,,657.78,,4717
+279331650,279331651,654,9ef593c88e4ffb5a46a6bd322dcb44a10174151b,python,ok,1,python,unittest,true,false,72,0,72,0,,,,,559.88,,5377
+298894755,298894757,720,bc15782732c801c567568c2de78d45349704d3e5,python,ok,1,python,unittest,true,false,4,0,4,0,,,,,568.74,,5532
+312269305,312269306,809,613522d15b1acb44276f84bea30f522b43f8138e,python,ok,1,python,unittest,true,false,22,0,22,0,,,,,651.03,,5990
+317089379,317089387,847,82163919065afede72161039c6ff65616fc91031,python,ok,1,python,unittest,true,false,54,0,54,0,,,,,115.91,,6107
+330580722,330580723,856,a3449ebe4bca4e1d033b6a732d6000499ae9cc19,python,ok,1,python,unittest,true,false,5,0,5,0,,,,,193.77,,6107
+333047335,333047340,873,1097e4f6417806b1251c61f63c7d9a330e0ddca9,python,ok,1,python,unittest,true,false,10,0,10,0,,,,,269.65,,6143
+370830543,370830545,929,4b7e0e759023cdbc96b471c64bfd67203e2b5734,python,ok,0,python,unittest,true,false,5,0,5,0,,,,,339.87,,6161
+459266533,459266534,944,4b7e0e759023cdbc96b471c64bfd67203e2b5734,python,broken,0,python,unittest,true,true,0,5,5,0,,,,CatBoostRegressor_optimize_final_model_regression#CatBoostRegressor_optimize_final_model_regression#CatBoostRegressor_optimize_final_model_regression#CatBoostRegressor_optimize_final_model_regression#CatBoostRegressor_optimize_final_model_regression,0.4,,6161
+537025223,537025228,950,4b7e0e759023cdbc96b471c64bfd67203e2b5734,python,broken,1,python,unittest,true,true,0,7,7,0,,,,advanced_install_tests.test_feature_learning_categorical_ensembling_getting_single_predictions_regression#advanced_install_tests.test_feature_learning_getting_single_predictions_classification#advanced_install_tests.test_feature_learning_getting_single_predictions_regression#advanced_install_tests.test_feature_learning_categorical_ensembling_getting_single_predictions_classification#advanced_install_tests.test_all_algos_classification#advanced_install_tests.test_all_algos_regression#advanced_install_tests.test_throws_warning_when_fl_data_equals_df_train,5.86,,6161
+602579651,602579660,956,4b7e0e759023cdbc96b471c64bfd67203e2b5734,python,unknown,1,python,,false,,,,,,,,,,,,6161
+738643252,738643270,969,4b7e0e759023cdbc96b471c64bfd67203e2b5734,python,broken,1,python,unittest,true,true,0,12,12,0,,,,,0.66,,6161

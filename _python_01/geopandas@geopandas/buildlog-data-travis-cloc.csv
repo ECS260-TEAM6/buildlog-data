@@ -1,0 +1,7 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+679459037,679459044,3336,8d78e771d305421199476135827f7269c04c3b20,python,broken,1,python,,false,,,,,,,,,TestGeometryArrayCRS.test_setitem_geometry#test_numerical_operations#TestGeometryArrayCRS.test_setitem_geometry#test_numerical_operations,,,11720
+688250056,688250062,3473,aae1ec3ac9a792e3c5908bfb4f61f887b4e4ef1e,python,ok,1,python,,false,,,,,,,,,,,,12801
+691885084,691885092,3555,ed612f4400f0a3e0b2144e5d37d4334dbc66ee78,python,broken,1,python,,false,,,,,,,,,TestGeometryArrayCRS.test_setitem_geometry#TestCasting.test_astype_string#test_numerical_operations#TestGeometryArrayCRS.test_setitem_geometry#TestCasting.test_astype_string#test_numerical_operations,,,13544
+703462705,703462709,3679,b0381e1f4a6b7c75d6a20403b448d53e2d6ca9c3,python,ok,1,python,,false,,,,,,,,,,,,13952
+709483866,709483904,3725,301418fc44a1dc1dafd6e0fecabc794c0bc8df58,python,unknown,1,python,,false,,,,,,,,,,,,14083
+724462122,724462128,3963,38fd095fa5a44219ce3b9b389b2109d67797e82c,python,broken,1,python,,false,,,,,,,,,test_append_file[GeoJSON-geojson],,,14044

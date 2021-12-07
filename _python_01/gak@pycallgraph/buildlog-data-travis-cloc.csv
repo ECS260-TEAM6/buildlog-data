@@ -1,0 +1,10 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+11458782,11458783,110,e8bac320e24085eb9829228b45c6c3c1127495df,python,ok,,python,pytest,true,false,77,0,77,0,,,,,1.67,,2008
+11458782,11458784,110,e8bac320e24085eb9829228b45c6c3c1127495df,python,broken,,python,pytest,true,true,57,1,58,0,,,,PEP8-check,1.55,,2008
+11458782,11458785,110,e8bac320e24085eb9829228b45c6c3c1127495df,python,broken,,python,pytest,true,false,77,0,77,0,,,,,8.21,,2008
+35870407,35870409,119,e8bac320e24085eb9829228b45c6c3c1127495df,python,ok,15,python,pytest,true,false,77,0,77,0,,,,,1.58,,2008
+35870407,35870410,119,e8bac320e24085eb9829228b45c6c3c1127495df,python,broken,11,python,pytest,true,true,57,1,58,0,,,,PEP8-check,1.07,,2008
+35870407,35870413,119,e8bac320e24085eb9829228b45c6c3c1127495df,python,ok,14,python,pytest,true,false,77,0,77,0,,,,,8.57,,2008
+150788607,150788608,147,ca91be47e57a2c1ef620827d941cc31770af7f90,python,broken,14,python,pytest,true,false,77,0,77,0,,,,,0.97,,2008
+150788607,150788609,147,ca91be47e57a2c1ef620827d941cc31770af7f90,python,broken,14,python,pytest,true,true,57,1,58,0,,,,PEP8-check,0.8,,2008
+150788607,150788610,147,ca91be47e57a2c1ef620827d941cc31770af7f90,python,broken,15,python,pytest,true,false,77,0,77,0,,,,,3.66,,2008

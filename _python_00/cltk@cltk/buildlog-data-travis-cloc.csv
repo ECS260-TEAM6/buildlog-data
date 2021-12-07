@@ -1,0 +1,8 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+500621599,500621600,3040,47f00b5147114e1d1313ba93dfac420a161a1474,python,ok,1,python,unittest,true,false,569,0,569,0,,,,,1257.04,,22163
+502208266,502208267,3071,dba5a25aeb1f455c32fb5b6c26814ccb6f714fd8,python,ok,1,python,unittest,true,false,592,0,592,0,,,,,1316.31,,22452
+514831139,514831140,3133,fe15e241cdd22e88828c87b495abc2acf72e1583,python,ok,1,python,unittest,true,false,607,0,607,0,,,,,1497.55,,23045
+527360229,527360230,3169,e30b8ea44c26681e1e86c74636405b62a9d749aa,python,broken,1,python,unittest,true,true,670,1,671,0,,,,Doctest: cltk.tag.ner.tag_ner,1327.01,,24621
+673656127,673656129,3344,f9858e4923f295b1b2d2265d4b8558a2d5953f5d,python,ok,1,python,unittest,true,false,672,0,672,0,,,,,1078.12,,25629
+698326919,698326921,3375,a722963e9cb25ede16b34cb93301bcc87e808718,python,ok,1,python,unittest,true,false,682,0,682,0,,,,,1161.23,,25925
+702722462,702722463,3391,7e25391d90c34f31929d2df110c5345f59dc14c3,python,ok,1,python,unittest,true,false,682,0,682,0,,,,,1130.37,,25930

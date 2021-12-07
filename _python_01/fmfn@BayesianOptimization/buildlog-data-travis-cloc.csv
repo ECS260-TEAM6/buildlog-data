@@ -1,0 +1,5 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+569036930,569036931,205,e49dc24ac6d1142050f1a94da752de7c227960a8,python,ok,12,python,pytest,true,false,35,0,35,0,,,,,6.3,,1314
+651575587,651575590,213,661fb805bd9141ff7f1097773b8543a8ecad6ff1,python,ok,7,python,,false,,,,,,,,,,,,1314
+690984584,690984588,269,cb28df83f757c5c7406b2730eac3a67a2d0270a5,python,broken,8,python,,false,,,,,,,,,test_suggest_with_one_observation,,,1455
+750501592,750501596,284,1b7e2cbea2efc21e3ae78afcc8521cd2b9eb90ea,unknown,unknown,,plain,,false,,,,,,,,,,,,1464
