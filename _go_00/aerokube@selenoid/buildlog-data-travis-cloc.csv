@@ -1,0 +1,6 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+603964559,603964560,1027,02503b9d76b5d6cbb0bded43dceabc8ceda6f95c,go,broken,1,go,gotest,true,true,74,2,76,0,0,-1,1,TestFileUploadTwoFiles#github.com/aerokube/selenoid,4.85,,4017
+608876168,608876169,1033,6ef8dd81ef6066e14dfd8d2160c154b325b5e7f0,go,ok,1,go,gotest,true,false,75,0,75,0,1,1,0,,2.1500000000000004,,4017
+624593737,624593738,1039,3cffc6acbcb985a648246def5302d6e3e55a8d38,go,ok,1,go,gotest,true,false,75,0,75,0,1,1,0,,2.1400000000000006,,4017
+651399549,651399550,1063,c6f5bec8b8fc6e14a2658a8a7aa366914b129e82,go,ok,1,go,gotest,true,false,76,0,76,0,1,1,0,,2.0100000000000002,,4061
+661577919,661577920,1069,53067fb206336a6373cb6bf7bdd584dd2e968c58,go,ok,1,go,gotest,true,false,76,0,76,0,1,1,0,,2.0700000000000007,,4061

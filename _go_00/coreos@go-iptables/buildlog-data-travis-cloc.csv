@@ -1,2 +1,4 @@
 tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
-tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+275368541,275368542,100,073684287cdcd53403e26bedbf9884ade716e9e2,go,ok,1,go,gotest,true,false,0,0,,0,1,1,0,,0.09,,618
+92865675,92865676,23,6c5555ff9e4fe35645343dd8e9b86f4bc6956c48,go,ok,0,go,,false,,,,,,,,,,,,375
+227975284,227975287,85,197187d414d7704f99ea52a692b9672e76f063bf,go,ok,1,go,gotest,true,false,0,0,,0,1,1,0,,0.1,,516
