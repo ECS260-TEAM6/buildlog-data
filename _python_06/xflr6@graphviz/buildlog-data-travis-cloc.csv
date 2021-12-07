@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+398812223,398812224,101,742cf47b3fed9e3bf09b5b3840ee90ff177a2ce3,python,ok,0,python,pytest,true,false,83,0,83,0,,,,,1.65,,1357
+231245999,231246006,12,d941fee166aa2f116be8953a435b0c8f605c3431,python,ok,9,python,pytest,true,false,59,0,59,0,,,,,0.89,,1119
+444976563,444976564,149,85e6ea0da99ce8becbbc00b84708b3f98a7c4e8c,python,ok,1,python,pytest,true,false,88,0,88,0,,,,,1.01,,1432
+453695026,453695029,166,72d3f46321845923cfaf47222bde3e4e18157626,python,ok,1,python,pytest,true,false,94,0,94,0,,,,,1.12,,1455
+231820836,231820841,18,7a82498092454f1c9a4cdb4a85f96fad5707827f,python,ok,8,python,pytest,true,false,70,0,70,0,,,,,0.65,,1197
+541098274,541098279,217,1fe315fec8559f2955ef4001c42ae58f52a31705,python,ok,1,python,pytest,true,false,95,0,95,0,,,,,1.05,,1528
+571193327,571193330,246,898aa3cb5d53533faa46b9c15374fc5d339a7172,python,ok,1,python,pytest,true,false,101,0,101,0,,,,,1.53,,1570
+575187435,575187438,276,1a4ae9d5690c4605184af8a60c7f407a7129fb40,python,ok,1,python,pytest,true,false,106,0,106,0,,,,,1.51,,1587
+236680699,236680703,29,e18af53f43ecddb367a746f81ae90eab62a6211c,python,ok,0,python,pytest,true,false,72,0,72,0,,,,,0.98,,1204
+629946344,629946345,325,35123e9628059d61f0da46afc406409eedb32ff7,python,broken,1,python,pytest,true,true,106,10,116,0,,,,test_run_encoding_mocked#test_render_mocked[quiet=False]#test_render_mocked[quiet=True]#test_pipe_pipe_invalid_data_mocked[quiet=False]#test_pipe_pipe_invalid_data_mocked[quiet=True]#test_pipe_mocked[quiet=False]#test_pipe_mocked[quiet=True]#test_version_parsefail_mocked#test_version_mocked[dot - graphviz version 1.2.3 (mocked)-expected0],1.7,,1633
+674365352,674365355,359,fdd4d145cc2130da3aaa4e06064b33edf0234fd2,python,ok,1,python,pytest,true,false,120,0,120,0,,,,,1.59,,1649
+678057646,678057651,380,bebf8292ec674a25208059f6dfcb25069001102d,python,ok,1,python,,false,,,,,,,,,,,,1659
+733576535,733576536,430,374e6b85df6e4e695598635c9230445ccea4be0c,python,ok,0,python,pytest,true,false,127,0,127,0,,,,,1.67,,1671
+751345658,751345662,517,f97f2ab0a025fbb5a0a3947d3c7993f914976148,python,ok,1,python,,false,,,,,,,,,,,,1775
+759032664,759032666,563,30490b22762c29316a5f45b1001534c083651aec,python,ok,1,python,,false,,,,,,,,,,,,1692
+331170947,331170949,79,80ce13053081cb2840e7d44a0d77659b91b3e073,python,ok,1,python,pytest,true,false,83,0,83,0,,,,,1.08,,1345

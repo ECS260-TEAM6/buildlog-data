@@ -1,0 +1,4 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+599573461,599573462,2336,7a1ce8d41a41b5bffa8c02e1e27b297672b7fa22,python,ok,1,python,pytest,true,true,1050,0,1050,0,,,,pytest 4.6.6 has requirement six>=1.10.0, but you'll have six 1.9.0 which is incompatible.,425.64,,8472
+619940549,619940552,2401,99257898205c2d1bd1574e4ae76eff3a198dbdcb,python,ok,1,python,,false,,,,,,,,,,,,8726
+678777091,678777093,2609,16a896cdbf43f0785ddd0ca1a03f7089500884fa,unknown,unknown,,plain,,false,,,,,,,,,,,,9664

@@ -1,0 +1,10 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+228270069,228270076,1181,d06aac93c36a01780937930ee290431b59c9f846,python,ok,14,python,pytest,true,false,154,0,154,3,,,,,15.66,,13157
+228919155,228919158,1212,33df5af5228fa872b97ea3310662466ef8e680e0,python,ok,19,python,pytest,true,false,155,0,155,3,,,,,24.56,,13167
+308432379,308432383,1428,2c2248959895e1962300cf95ff79f56657658e62,python,ok,8,python,pytest,true,false,183,0,183,5,,,,,238.78,,14610
+315948053,315948056,1455,0234c5e9e120987ba4e20f3d94f7d9b2a5e3a368,python,ok,10,python,pytest,true,false,188,0,188,3,,,,,532.08,,14812
+393580911,393580915,1564,ea9cfdcd5d314b3912c157331d4d0b430ae28860,python,broken,55,python,pytest,true,true,207,3,210,4,,,,TestAPK.test_cert[hello-world.apk]#TestOffice.test_oleid[Douglas-Resume.doc],147.46,,16056
+441396861,441396862,1634,24d82dda33b59d8d94727426be55e6001ebd96b6,python,broken,62,python,pytest,true,false,209,0,209,4,,,,,158.65,,16219
+502164790,502164791,1687,911298decd4d96668f294cc1ab1cdbc3299d93dc,python,broken,76,python,pytest,true,true,196,1,197,4,,,,TestOffice.test_code[Douglas-Resume.doc],156.04,,16344
+588951163,588951165,1748,b022c864d78e97f50293a58911ebd8b9a2dbb0c6,python,ok,111,python,,false,,,,,,,,,,,,19489
+673375499,673375502,1807,354c343292b73f323b5b0f99ee8dee0774a2e2aa,python,ok,33,python,,true,true,0,0,0,0,,,,pymisp 2.4.124 has requirement jsonschema<4.0.0,>=3.2.0, but you'll have jsonschema 3.0.1 which is incompatible.#pymispgalaxies 0.2 has requirement jsonschema<4.0.0,>=3.2.0, but you'll have jsonschema 3.0.1 which is incompatible.,0,,6297

@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+284983915,284983918,12,ef3b0a4d14e814ff2efd19715500960a33039508,python,ok,0,python,pytest,true,false,31,0,31,0,,,,,21.91,,2721
+284983915,284983920,12,ef3b0a4d14e814ff2efd19715500960a33039508,python,ok,1,python,pytest,true,false,31,0,31,0,,,,,21.4,,2721
+284985111,284985113,13,15d29d84ce4821672a8acda6ab885035761e7beb,python,broken,0,python,pytest,true,false,0,0,0,0,,,,,3.3,,2872
+284986610,284986612,14,cf9b413c2235c8e2d55de9efda8a06a68cafe9d8,python,unknown,0,python,,false,,,,,,,,,,,,2872
+284993288,284993289,16,9170466fb9a5836cb38131f630c66e51455fe763,python,broken,0,python,pytest,true,true,51,4,55,0,,,,test_crawl_userinfo[1371731565-Miss]#test_crawl_userinfo[1642591402-\u65b0\u6d6a\u5a31\u4e50]#test_parse_user_info[5576276117-\u5fae\u535a\u8fd0\u52a8]#test_parse_user_info[10503-TimYang],360.32,,2898
+284997536,284997537,18,7123cf47f1fb3180a7c39354d655dbfb194be544,unknown,unknown,,plain,,false,,,,,,,,,,,,2626
+285002880,285002881,20,e1bd19a7ecab71b6d19b966317ef8514ae7d0d3e,python,broken,0,python,pytest,true,true,51,3,54,0,,,,test_crawl_userinfo[1642591402-\u65b0\u6d6a\u5a31\u4e50]#test_parse_user_info[5576276117-\u5fae\u535a\u8fd0\u52a8]#TestMysql.test_user_oper,657.87,,2900
+288209779,288209780,26,39f13649b7834e1d1477fb3bf49d572a14d996da,python,ok,0,python,pytest,true,false,54,0,54,0,,,,,682.92,,3287
+290835418,290835420,28,9bcabf0047aa66ab9372ba3819dd47c0190902e4,python,ok,0,python,pytest,true,false,54,0,54,0,,,,,682.75,,3168
+290838475,290838476,30,e8a1de79cd0b88dffe5d3c09035ffbdceaa77e14,python,ok,0,python,pytest,true,false,54,0,54,0,,,,,700.36,,3168
+291099994,291099995,32,708ecda29dd15e5440a9f2deb7188bb845e0144f,python,broken,1,python,pytest,true,true,53,1,54,0,,,,test_parse_user_info[10503-TimYang],914.73,,3180
+296833401,296833402,34,cf198ed232057285718896287623f746552a433b,python,broken,0,python,pytest,true,false,0,0,0,0,,,,,33.74,,3234
+297048001,297048002,36,8ac3415d1c5c2cc27939c98dfea561da53fa384f,python,ok,0,python,pytest,true,false,54,0,54,0,,,,,704.07,,3234
+323158888,323158890,44,6754f43bb6336d188b6aa776b221585e1211040b,unknown,unknown,,plain,,false,,,,,,,,,,,,3234
+328635850,328635852,46,621d25c136baa9805104b6552c28ef6b9fa83d46,unknown,unknown,,plain,,false,,,,,,,,,,,,3352
+330213871,330213872,48,bbd649629722468e95223504dbcc85a982cf6f46,ruby,broken,0,ruby,,false,,,0,,,,,,,,,3352
