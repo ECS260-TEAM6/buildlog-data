@@ -1,0 +1,8 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+666317363,666317364,3126,6b6029452f038d81da52a51e961af3692b7866e8,go,ok,1,go,gotest,true,false,0,0,,0,42,42,0,,1.6700000000000004,,33638
+668193076,668193081,3137,d35111c7b08d1ef2787e4b87fd4c5d17ad1db616,go,ok,1,go,,false,,,,,,,,,,,,33660
+668992094,668992096,3147,4f26803226b227d95642f3344496770e6753a466,go,unknown,1,go,gotest,true,true,0,2,,0,41,40,1,TestExternalCmdExit_Error#github.com/elves/elvish/pkg/eval,49.73000000000001,,33755
+669084730,669084737,3156,f2ef28f51ca734da487c620a0d12e78c1345d18c,go,ok,1,go,,false,,,,,,,,,,,,33888
+669989730,669989732,3179,8db99be082108a61cfbbf60475a883aa99184f65,go,ok,1,go,gotest,true,false,0,0,,0,42,42,0,,46.07000000000001,,34151
+670385150,670385155,3192,b88b95cc132efecde2ce7826a6eade951e683104,go,ok,1,go,gotest,true,false,0,0,,0,42,42,0,,1.12,,34232
+670394446,670394453,3198,655dee65d62a5db211b26a6008560c76d1ac67e3,go,ok,1,go,,false,,,,,,,,,,,,34322

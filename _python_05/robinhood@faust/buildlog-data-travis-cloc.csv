@@ -1,0 +1,12 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+581377721,581377737,1088,69c7a8e1909f775e0f9e4b1da571fff527825867,python,broken,1,python,pytest,true,true,1010,1,1011,0,,,,test_Collection.test__verify_source_topic_partitions[6-3-True],162.12,,40812
+589629073,589629082,1112,bf6514c130cc05439eb12289fde20baf2870e6af,python,ok,3,python,pytest,true,false,1791,0,1791,0,,,,,203.93,,41009
+592300311,592300313,1136,f6ddb38fc9e12403be940299deb095fb9a077935,python,ok,1,python,,false,,,,,,,,,,,,41179
+604612951,604612956,1204,c831199efeb04ba702c294f5608df0f8a2d62c40,python,ok,1,python,,false,,,,,,,,,,,,41511
+609347159,609347180,1226,620fe976041da61ea1e0b7ad7ad05c6f3e9b4252,python,ok,2,python,,false,,,,,,,,,,,,41519
+623920496,623920506,1249,41cb1a8c1405ddfc597244e77550be4371ce2e64,python,broken,1,python,,false,,,,,,,,,test_App.test_on_partitions_revoked__no_assignment#summary,,,42133
+634460235,634460241,1293,8ab3a758f178701dc729ef7ac5c9714c162a5514,unknown,unknown,,plain,,false,,,,,,,,,,,,43188
+637131642,637131644,1314,76e7ab62b7a5ae0e370895bcf3eeae86113c9525,python,ok,1,python,,false,,,,,,,,,,,,43330
+650205749,650205768,1355,8070c2f79b4e7737be78bf6ba711a771938d3979,python,broken,1,python,,false,,,,,,,,,,,,44304
+655059678,655059680,1377,9cdca6d8741039a0d3d47a3b27d0c155eb185117,unknown,unknown,,plain,,false,,,,,,,,,,,,45477
+729396082,729396097,1486,cc44696f45d05255e3e01f7574ded6f19d6a0fa8,python,ok,8,python,,false,,,,,,,,,,,,46235

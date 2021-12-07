@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+187048019,187048020,100,cc5371f88d9571c94ecdd4c04347bef8b9cd8586,ruby,unknown,2,ruby,,false,,,0,,,,,,,,,5525
+188445593,188445599,110,d017a17a76885d67c2e2cc50c3ced6abb554a491,ruby,unknown,608,ruby,,false,,,0,,,,,,,,,5528
+194489460,194489491,120,0802d8214236a1453309e776623cf5f464fe82de,python,broken,457,python,unittest,true,true,36,1,37,6,,,,skvideo.tests.test_measure.test_measure_STRRED,29.62,,6225
+208024041,208024051,131,87089a9788f0f8ee1913f7e16e2c0c9d0657d4f0,ruby,unknown,802,ruby,,false,,,0,,,,,,,,,6319
+236264107,236264122,141,f1bb3b484ba6723af3572e419cc0a17cd3d21d27,python,ok,517,python,unittest,true,false,39,0,39,7,,,,,28.6,,6242
+240236701,240236710,152,46155bd0623f1417a6e446a3ce438053543d53da,ruby,unknown,925,ruby,,false,,,0,,,,,,,,,6250
+241427204,241427221,162,994f4eebef11fe5f52ea5b51009a1a615869373c,python,ok,527,python,unittest,true,false,39,0,39,7,,,,,28.24,,6252
+314795519,314795531,174,c4826919cf47ac45d4497fc8d0ba5f659d831059,python,ok,615,python,unittest,true,false,41,0,41,7,,,,,37.06,,6295
+412241301,412241309,221,8becde27f11bdb594f61239c73080a2ed665378e,python,broken,577,python,unittest,true,true,43,4,47,12,,,,skvideo.tests.test_measure.test_measure_BRISQUE#skvideo.tests.test_measure.test_measure_Viideo#skvideo.tests.test_measure.test_measure_VideoBliinds#skvideo.tests.test_measure.test_measure_NIQE,38.36,,6386
+119164688,119164700,36,d0d61eb4542dc112c88f233360e299f69a8d9039,python,ok,345,python,unittest,true,false,32,0,32,6,,,,,8.84,,4505
+119628690,119628707,46,f51f66be7de98b2198dadb60d2d9db26f9760092,python,ok,591,python,unittest,true,false,32,0,32,0,,,,,11.63,,4505
+175874394,175874398,57,f1a8f0d7a78946944fda63b5df68f710d2c61252,unknown,unknown,,plain,,false,,,,,,,,,,,,4917
+180621790,180621799,67,147575a2b4910555bbc1cfb0abc29e227a4ddff5,unknown,unknown,,plain,,false,,,,,,,,,,,,5284
+182203877,182203891,77,c90bc7b93425d6f3f30c8e1be3f3e2cba334e4b4,unknown,unknown,,plain,,false,,,,,,,,,,,,5304
+183057614,183057631,89,d4ee4b91bd421b71452bbc51b16034b96078726c,unknown,unknown,,plain,,false,,,,,,,,,,,,5518

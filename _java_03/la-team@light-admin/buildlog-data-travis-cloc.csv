@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+34077795,34077796,100,5b6ad58ba2c877ea78b306c5f5bac9cf5d83ff4a,java,unknown,,java-maven,,false,,,,,,,,,,0,,53797
+34216812,34216813,111,b528f5788cfcdeae89fb7e5f3c8749a5e456b2d7,java,ok,,java-maven,,false,,,,,,,,,,0,7.5,53868
+34366419,34366420,122,81c95656a2d837b536f13c441bebfd12ea319a97,java,ok,,java-maven,,false,,,,,,,,,,0,12.2,53889
+34564511,34564512,134,ec91d583bcf9db4b9b233121bdc46483be23f039,java,ok,,java-maven,,false,,,,,,,,,,0,5.52,53889
+34652543,34652544,146,9d3db58425043c76c995ae05243693e207fc9511,java,ok,,java-maven,,false,,,,,,,,,,0,5.82,163102
+34885291,34885292,158,ec12c4fe23db7d2ed2db18c1b1cef25e56b96785,java,ok,,java-maven,,false,,,,,,,,,,0,9.78,163102
+35036537,35036538,170,d515c1d0bfc8d846146469fc3ef205368fb5aa52,java,ok,,java-maven,,false,,,,,,,,,,0,7.11,53889
+35405825,35405826,183,49a6376b5292967efb3c118ff7914a53d87c52b2,java,ok,,java-maven,,false,,,,,,,,,,0,6.46,53898
+40630771,40630772,195,1dd2d9600d8a7803f4b40af094856a939c1155cc,java,ok,,java-maven,,false,,,,,,,,,,0,7.37,53957
+64742787,64742788,240,5cd7ab11fc8f3e2829f439d90a3fd53f75e4b020,java,ok,1,java-maven,junit,true,false,43,0,43,0,,,,,0.38999999999999996,10.45,53957
+67628445,67628446,264,c64f7056d0bde50a8ebfb4eb9bb8ad365a910d27,java,ok,1,java-maven,junit,true,false,43,0,43,0,,,,,0.37000000000000005,9.79,53957
+78050235,78050242,279,618067bc17251790b7d45b04cb6736df2fc7b429,java,ok,2,java-maven,junit,true,false,43,0,43,0,,,,,0.4,220,53958
+28658576,28658577,79,266e2c36b2541d7d1c32a7276b70653e16a0cd74,java,ok,,java-maven,,false,,,,,,,,,,0,10.36,50857
+18812209,18812210,8,4fc6de4ab4f572b4099997b6783eaf81804b42ca,java,ok,,java-maven,,false,,,,,,,,,,0,0,50856

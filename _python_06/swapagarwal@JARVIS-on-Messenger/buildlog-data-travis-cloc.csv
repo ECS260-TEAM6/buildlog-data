@@ -1,0 +1,8 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+135614202,135614203,138,afde47db1cfe541356bc9d2864abad35212d837b,python,ok,0,python,pytest,true,false,13,0,13,0,,,,,6.64,,611
+124618317,124618319,20,a962a1442b4ba4414cdf6f6129c9ce5d3c3454e9,python,ok,0,python,pytest,true,false,4,0,4,0,,,,,1.31,,168
+188941320,188941321,282,452a54c14361ef8b564fc92ce8ab95d3fe1df2fe,python,ok,0,python,pytest,true,false,23,0,23,0,,,,,31.92,,1163
+244285542,244285543,354,b090cd46e317f2cd827cf39b53f5a2bcad9943c7,python,unknown,1,python,pytest,true,true,9,15,24,0,,,,test_anime#test_bye#test_coin#test_dictionary#test_fact#test_hello#test_help#test_music#test_news#test_quote#test_request#test_time#test_url#test_video#test_xkcd,9.68,,1231
+247811014,247811015,390,15091ff503c0170a67c3b3fc9440573de7d3fa07,python,ok,1,python,pytest,true,false,24,0,24,0,,,,,91.06,,1294
+253312720,253312721,426,2ea5fc0ea5a967fe52969e3fd09f5b6142cc6389,python,ok,1,python,pytest,true,false,24,0,24,0,,,,,91.23,,1294
+301036630,301036631,618,ddf9e4d8e8c3c0433c865a641eeee8c14c233105,python,ok,0,python,pytest,true,false,25,0,25,0,,,,,13.89,,1408

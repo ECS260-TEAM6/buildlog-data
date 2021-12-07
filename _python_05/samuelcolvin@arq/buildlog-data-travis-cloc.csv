@@ -1,0 +1,7 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+611475598,611475599,1009,feb954d2f653b4858fcfd3621be941ad267fd0b4,python,ok,1,python,pytest,true,false,119,0,119,1,,,,,5.65,,2409
+611475649,611475656,1010,feb954d2f653b4858fcfd3621be941ad267fd0b4,python,ok,1,python,pytest,true,false,120,0,120,0,,,,,5.95,,2409
+612577314,612577319,1015,4166fddb994162f9ffe65f1981ec26deaccd51e8,python,broken,1,python,pytest,true,true,46,8,54,0,,,,test_run#test_check#test_redis_timeout#test_redis_sentinel_failure#test_redis_success_log#test_redis_log#test_health_check_direct[pyloop]#test_health_check_fails,12.44,,2410
+627195846,627195848,1022,1c920d404b4772f281e5d4b51b6eed56beaa3773,python,ok,1,python,pytest,true,false,120,0,120,0,,,,,4.33,,2414
+627196639,627196642,1023,7c83a1d2ab90a0a811dabae0f6905788151a0737,python,broken,1,python,pytest,true,false,54,0,54,0,,,,,9.27,,2414
+647458808,647458810,1026,1b6c545d5a9062113b0788b5c7550fa14a9ba946,python,ok,1,python,pytest,true,false,120,0,120,0,,,,,5.35,,2414

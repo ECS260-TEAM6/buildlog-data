@@ -1,0 +1,11 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+1870746,1870747,100,6c9408a62b71b0da0ab31b64cb93572f16b50bfb,unknown,unknown,,plain,,false,,,,,,,,,,,,6514
+3242394,3242395,129,7d9aac68c7021a92555ddd8087aae64bc616d818,unknown,unknown,,plain,,false,,,,,,,,,,,,6471
+4248475,4248476,157,7d53ddc2147032560b097f89159397297c8c93b5,unknown,unknown,,plain,,false,,,,,,,,,,,,6583
+7308345,7308346,212,9b9f3bdae505c85940e233d951e814040856b6be,python,ok,,python,unittest,true,false,283,0,283,30,,,,,55.57000000000001,,7061
+23351325,23351326,297,834cd6787935144e6f8cf9b8adba59fe00ffc582,ruby,broken,,ruby,,false,,,0,,,,,,,,,7286
+25754649,25754650,324,1abd59b284ceb2bfc1b83768a19b9e8e94d6a268,ruby,broken,,ruby,,false,,,0,,,,,,,,,7338
+28176437,28176438,352,2ccf6767fe81cb999f5ad3fc0bf29deb72a39804,ruby,unknown,,ruby,,false,,,0,,,,,,,,,7370
+199205835,199205836,579,ff923f75d1e1211a2e39932dd8ab9c3e59bab1f3,python,ok,1,python,pytest,true,false,2315,0,2315,20,,,,,164.82,,8121
+466047430,466047431,607,d1f3455e383446ca4ab0c644f326ee937e68e809,python,broken,1,python,pytest,true,true,1398,10,1408,25,,,,TestTypeScript.test#TestBabel.test_es2015#TestTypeScript.test#TestBabel.test_es2015#TestTypeScript.test#TestBabel.test_es2015#TestTypeScript.test#TestBabel.test_es2015#TestTypeScript.test#TestBabel.test_es2015,61.39999999999999,,8253
+1519133,1519134,65,bc4e51453348b920021ee9bade3e69eb3ed1ae4d,unknown,unknown,,plain,,false,,,,,,,,,,,,6615

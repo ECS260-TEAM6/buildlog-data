@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+366495232,366495233,10,78dd4b3655605ba927fdac7c2fa7da2144d042cd,python,ok,1,python,pytest,true,false,6,0,6,0,,,,,13.16,,629
+381943188,381943191,12,db16e814ca2ab7ae72dc4467a4a8816fdd266999,python,ok,0,python,pytest,true,false,6,0,6,0,,,,,6.46,,635
+381943425,381943426,14,d4dd84fab98b61bbede224fc4bd23475b9558797,python,ok,0,python,pytest,true,false,6,0,6,0,,,,,6.13,,635
+397421487,397421489,15,ba47ec06e919f7dd186275f59c684bbbe3c33001,python,broken,2,python,pytest,true,true,5,1,6,0,,,,TestEasyquotation.test_stock_code_with_prefix,11.28,,745
+403783697,403783698,18,57cbb6c8a2f0fccb953124d479bdb2b879bf7224,python,broken,1,python,pytest,true,false,0,0,0,0,,,,,0.75,,766
+403784687,403784689,19,1b2905a4fffcb1081ee083f6ed4b4ccfca72ccce,python,broken,0,python,pytest,true,false,0,0,0,0,,,,,0.66,,766
+364151683,364151686,1,00f046f863dcd96c1a44f2235a17aeb350d3412a,python,unknown,3,python,,false,,,,,,,,,,,,662
+517071551,517071552,26,2914b1248e8f303362d3fa1803272d011adf7128,unknown,unknown,,plain,,false,,,,,,,,,,,,842
+555055281,555055282,34,96b30bf0a1a151c000f097d78dee78b128d52aa9,python,broken,1,python,pytest,true,true,0,8,8,0,,,,TestEasyquotation.test_all#TestEasyquotation.test_stock_code_with_prefix#TestHqouteQuotatin.test_format_response_data#TestDayklineQuotatin.test_format_response_data#TestSina.test_extract_stock_name#TestSina.test_skip_empty_quotation_stock#TestTimeklineQuotation.test_fetch_stock_data#TestTimeklineQuotation.test_format_response_data,0.41,,841
+555055920,555055921,38,ca1aed9ba07c9a08465a6fb9031e9d9ea53590af,python,broken,1,python,pytest,true,true,0,8,8,0,,,,TestEasyquotation.test_all#TestEasyquotation.test_stock_code_with_prefix#TestHqouteQuotatin.test_format_response_data#TestDayklineQuotatin.test_format_response_data#TestSina.test_extract_stock_name#TestSina.test_skip_empty_quotation_stock#TestTimeklineQuotation.test_fetch_stock_data#TestTimeklineQuotation.test_format_response_data,0.42,,835
+364152796,364152799,3,2fce6e07295e9db7df15f2bdc43400b06142c919,python,ok,1,python,pytest,true,false,4,0,4,0,,,,,13.57,,662
+364153161,364153163,4,dd246ed221b54722f8a527ab341bda2d241f59f5,python,ok,0,python,pytest,true,false,4,0,4,0,,,,,9.35,,662
+661549767,661549768,52,847656a41daa6d3a803c4147f9ff369dad4f1725,python,ok,1,python,pytest,true,false,8,0,8,0,,,,,44.34,,858
+662250695,662250696,56,01f5d84d11318b5ac47bbd2114fbf96a339c855e,python,ok,1,python,pytest,true,false,8,0,8,0,,,,,11.36,,855

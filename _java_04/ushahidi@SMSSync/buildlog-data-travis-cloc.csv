@@ -1,0 +1,13 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+10108932,10108933,119,07c670b4604e75698e0cd42690b508bd9b76e59f,java,ok,,java-gradle,,false,,,0,,,,,,,,,10859
+39122248,39122249,328,dcf67f1ab4989385b01222c8daad2a7a856cc35d,java,ok,2,java-gradle,,false,,,0,,,,,,,,,14013
+46815933,46815935,367,7f167502e45524b58062d885cfb7944803165c17,android,ok,2,plain,,false,,,,,,,,,,,,13540
+8498878,8498880,39,63c1bd2adbd1901547f107318d4209d648a51112,java,broken,,java-gradle,,false,,,0,,,,,,,,,27211
+65971157,65971158,482,3e35d258a58e9ab249f5ef9589b05eeee6307dc3,android,ok,1,plain,,false,,,,,,,,,,,,14373
+83544938,83544939,660,5e0acbb5be6c8329697b72b6540699a55566b5b0,android,ok,3,plain,,false,,,,,,,,,,,,20018
+85272437,85272438,676,5b7e9ec3024d07faec3fd30f9b591c24ad26c8e2,android,ok,4,plain,,false,,,,,,,,,,,,20758
+90032541,90032542,713,3e1d09a5a5883a1c2696d370be97e75daf904341,android,ok,4,plain,,false,,,,,,,,,,,,20233
+92177659,92177660,729,44725a683905db1fea3a0fbdabb3eb128b41508c,android,ok,3,plain,,false,,,,,,,,,,,,20302
+124913917,124913918,771,639d5d2ba54823ba0c0e9e0c6c5e21f30102590e,android,ok,3,plain,,false,,,,,,,,,,,,20832
+124934807,124934808,783,5ca4405cec3844baa575c0366f559aa0098437c4,android,ok,3,plain,,false,,,,,,,,,,,,20826
+124975138,124975139,796,00ff74dc4464a245260107371e3cfbbe8bb1f192,android,ok,4,plain,,false,,,,,,,,,,,,20792

@@ -1,0 +1,11 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+617880226,617880227,3161,cc7ae8e1dde808fb7de14d1c5e91ca3545eead66,elixir,ok,4,plain,,false,,,,,,,,,,,,75695
+617880273,617880274,3162,cc7ae8e1dde808fb7de14d1c5e91ca3545eead66,elixir,ok,4,plain,,false,,,,,,,,,,,,75695
+619316381,619316382,3167,9fdba1020ecc4ba465292c6c7aa04a9f42fb3e67,elixir,ok,4,plain,,false,,,,,,,,,,,,75692
+619321975,619321976,3168,9fdba1020ecc4ba465292c6c7aa04a9f42fb3e67,elixir,ok,4,plain,,false,,,,,,,,,,,,75692
+661358237,661358238,3181,bcee5f8f1de2b27ce8634bb8dc20f4089795eda2,elixir,ok,4,plain,,false,,,,,,,,,,,,75692
+661363262,661363263,3182,bcee5f8f1de2b27ce8634bb8dc20f4089795eda2,elixir,ok,4,plain,,false,,,,,,,,,,,,75692
+661988245,661988246,3184,8124fc1695f51ddbcc76b4769aca3b30e4321ef0,elixir,ok,4,plain,,false,,,,,,,,,,,,75692
+661991205,661991206,3186,daf77bb560701ec1689a3f69532ec844416d4ed5,elixir,ok,4,plain,,false,,,,,,,,,,,,75692
+661996847,661996848,3187,8124fc1695f51ddbcc76b4769aca3b30e4321ef0,elixir,ok,4,plain,,false,,,,,,,,,,,,75692
+661999696,661999697,3188,daf77bb560701ec1689a3f69532ec844416d4ed5,elixir,ok,4,plain,,false,,,,,,,,,,,,75692

@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+186072578,186072579,102,5a46563e80bd2213c0eee2e7759c8e82c587bf76,python,ok,1,python,unittest,true,false,24,0,24,0,,,,,0.06,,14508
+212181192,212181193,117,207d0701ae212c1d76eb5fafd9c7ff04e7550b12,python,ok,1,python,unittest,true,false,24,0,24,0,,,,,0.07,,14569
+17890449,17890450,14,fa2104de1f06a88293a6027a6873a9dfad21cbc5,ruby,broken,,ruby,,false,,,0,,,,,,,,,15916
+317337425,317337426,186,2918af24a8c6014388bc1629dc4871dab1ecde25,python,ok,1,python,unittest,true,false,25,0,25,0,,,,,0.04,,14796
+337999402,337999403,219,2f49786cc2939699bbcfcfb21751b133d4b65c16,python,ok,1,python,unittest,true,false,25,0,25,0,,,,,0.04,,15025
+345698263,345698264,242,a4e87cd9b9231674080549016b49873d40921440,python,ok,1,python,unittest,true,false,26,0,26,0,,,,,0.04,,15083
+368820078,368820079,265,3d64e671a4fc29a8b3bdae688483b79305f83989,python,unknown,1,python,,false,,,,,,,,,,,,15164
+384304757,384304758,302,92ce200438c6f162f36e8a2a93a4fe332f334b2e,unknown,unknown,,plain,,false,,,,,,,,,,,,15793
+392412806,392412807,336,aae92d1cc8fbf0fe6afeb702fad13c9d1ffb67d8,python,ok,2,python,unittest,true,false,27,0,27,0,,,,,0.04,,15926
+409370995,409370996,356,2e329e29cd03adb4c9acbb1a97d9f046d5c84d54,python,broken,3,python,unittest,true,false,27,0,27,0,,,,,0.04,,16031
+417914203,417914204,379,a668a83ba03bfd6057f11e7020c0ec6cf4d8fab4,python,ok,1,python,unittest,true,false,27,0,27,0,,,,,0.04,,15977
+426413866,426413867,398,b393d448ec9fa19cfe0863586a2c88cd74f8a549,python,broken,1,python,unittest,true,false,27,0,27,0,,,,,0.04,,16144
+492914043,492914044,478,021059962c4292e53a783b93aefa4ebb70997ce6,python,unknown,,python,,false,,,,,,,,,,,,16520
+543399123,543399124,521,80a017e2315fc23e50962b19757c9338ddb61858,python,broken,1,python,unittest,true,true,28,1,29,0,,,,parse_mimetype,0.04,,16661
+160658648,160658652,54,1f67eae4f2b7536318a4b86a1513279575404b04,python,ok,1,python,unittest,true,false,24,0,24,0,,,,,1.71,,14619
+13545036,13545037,5,38e2cf11228bf63671b1969ad2a9768037b17680,ruby,broken,,ruby,,false,,,0,,,,,,,,,15903
