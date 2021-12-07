@@ -1,0 +1,9 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+472436218,472436219,100,ef6a42765e1748d0650a1bc814f0bd9e749669d4,go,ok,17,go,gotest,true,false,25,0,25,0,1,1,0,,6.91,,1313
+567629450,567629451,114,7b1bbc77c4a96316d1220f3fa551df156e57d433,go,ok,16,go,gotest,true,false,27,0,27,0,1,1,0,,5.210000000000001,,1348
+711247098,711247099,128,63742a056f94ae7ec621a2ce3e9ee8402c98c54a,go,unknown,11,go,,false,,,,,,,,,,,,1494
+92481523,92481527,1,4e00fb3b03c97f5f7ff2ed23a24d96e17d20234f,go,unknown,2,go,gotest,true,true,0,6,6,0,0,-5,5,TestArgString#TestVersion#TestNoInput#TestGeneratePDF#TestGeneratePdfFromStdin#github.com/SebastiaanKlippert/go-wkhtmltopdf,0.03,,704
+183438329,183438338,43,b4648d4a2e9cc6926f446cd061de6d9a019984a6,unknown,unknown,,plain,,false,,,,,,,,,,,,760
+283400400,283400405,50,58dba1a224115b823a87834294ea417fd807760f,go,unknown,17,go,gotest,true,true,6,3,9,0,0,-2,2,TestGeneratePDF#TestGeneratePdfFromStdinHtml5#github.com/SebastiaanKlippert/go-wkhtmltopdf,48.7,,783
+320730613,320730624,59,380bca52c086b8eb3921ee894c523e2972eef4de,go,unknown,13,go,gotest,true,true,5,4,9,0,0,-3,3,TestArgString#TestGeneratePDF#TestGeneratePdfFromStdinHtml5#github.com/SebastiaanKlippert/go-wkhtmltopdf,20.93,,787
+343550170,343550171,67,86edf002539a403329baa06f44c5eb1a5026184a,go,ok,16,go,gotest,true,false,14,0,14,0,1,1,0,,5.13,,878

@@ -1,0 +1,11 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+429400001,429400002,100,cc14d2ed60c039b12d7b106bb5269ef21d0add7e,java,ok,1,java-maven,junit,true,false,70,0,70,0,,,,,69.22,,11917
+9005081,9005082,12,366951c5d9a47f0d605b4dac2b6baecc960c1b0c,java,ok,,java-maven,junit,true,false,65,0,65,0,,,,,25.86,,10501
+11006293,11006294,21,ae895f64845195cb5fdd48943f14291dc3841270,java,broken,,java-maven,junit,true,true,64,1,65,0,,,,,31.01,,10470
+15168342,15168343,31,6c80939fe07d69b9f5f6942a4b0e9c4a3bc4d66b,java,ok,,java-maven,junit,true,false,66,0,66,0,,,,,95.46000000000001,,10635
+20997675,20997676,40,9d2d08b30a769a85f5825444f68d01fddfef3878,java,ok,,java-maven,junit,true,false,66,0,66,0,,,,,51.45999999999999,,10680
+6620999,6621000,4,abf6e28d1f3b73db23f37fa4a204aa005426c82b,java,unknown,,java-ant,,false,,,,,,,,,,,,10397
+74392431,74392432,57,ce45a2dd88f80be27f1120188f94a83f89f01d66,java,ok,0,java-maven,junit,true,false,68,0,68,0,,,,,61.94,,11267
+129893376,129893377,67,d3c0bba26657e792780cd94975570b9ba1859a7a,java,ok,2,java-maven,junit,true,false,68,0,68,0,,,,,50.23,,11283
+6628353,6628354,7,156e14bbcfc7c2619b85ae055ea98b72420c48ce,java,broken,,java-maven,junit,true,true,64,1,65,0,,,,testCreateMessageStreams(com.sohu.jafka.consumer.ZookeeperConsumerConnectorTest)#,9.229999999999999,,10439
+225484517,225484518,90,15d5934e99bdf1d06beb739bf36b14e6c16b0c74,java,ok,1,java-maven,junit,true,false,70,0,70,0,,,,,48.879999999999995,,11944

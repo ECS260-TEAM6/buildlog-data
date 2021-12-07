@@ -1,0 +1,6 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+487446230,487446231,155,223a8652664c690cc91a950eba4cbbc579defb71,go,ok,1,go,gotest,true,false,0,0,,0,1,1,0,,5.37,,3956
+632300672,632300673,203,223a8652664c690cc91a950eba4cbbc579defb71,go,ok,1,go,gotest,true,false,0,0,,0,1,1,0,,5.29,,3956
+702399513,702399519,228,223a8652664c690cc91a950eba4cbbc579defb71,go,ok,1,go,gotest,true,false,0,0,,0,1,1,0,,5.27,,3956
+749063981,749063983,252,223a8652664c690cc91a950eba4cbbc579defb71,go,broken,1,go,gotest,true,true,0,1,,0,0,0,0,github.com/uniplaces/carbon,0,,3956
+155993917,155993920,6,e60d8341bf047b3cf7f97bddfb6f6e80148459a5,go,ok,1,go,gotest,true,false,0,0,,0,1,1,0,,0.01,,5175

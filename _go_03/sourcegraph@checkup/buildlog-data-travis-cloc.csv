@@ -1,0 +1,7 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+265795798,265795799,100,99bfc76d3c421efe7cde3c53fc95a5f8bd1830c8,go,ok,1,go,gotest,true,false,20,0,20,0,1,1,0,,0.9800000000000001,,3182
+527459435,527459436,137,8e9e67b077312db09296ca70ea01765a808d91ca,unknown,unknown,,plain,,false,,,,,,,,,,,,3453
+674490720,674490721,157,d7eaa407084cd84cef7b12f35d1ea80a81a1c5f8,go,ok,1,go,gotest,true,false,0,0,,0,10,10,0,,11.19,,3874
+710063674,710063675,205,76fc1142f91603b72b37ea8df7ea5d2b928b77be,go,ok,1,go,gotest,true,false,0,0,,0,11,11,0,,3.02,,5098
+153650514,153650515,27,102711efc28390b0f8687d2b6fb670733b42598b,ruby,broken,0,ruby,,false,,,0,,,,,,,,,2395
+257520154,257520155,64,c2a3feb9fa090bb065a50fa7beb10873ce0bbf74,go,broken,0,go,gotest,true,true,16,5,21,0,0,-4,4,TestDNSCheckerWithTLSNoVerify#TestDNSCheckerWithTLSVerifySuccess#TestTCPCheckerWithTLSNoVerify#TestTCPCheckerWithTLSVerifySuccess#github.com/sourcegraph/checkup,9.120000000000001,,2438

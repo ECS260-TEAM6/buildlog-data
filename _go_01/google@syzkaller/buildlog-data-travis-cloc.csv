@@ -1,0 +1,8 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+618998202,618998205,3716,a76bf83ffac5c0bed0a686f8ebc98c74bfb34a0c,go,ok,24,go,gotest,true,false,0,0,,0,70,70,0,,1541.1599999999996,,681449
+628664399,628664402,3804,be5c2c81971442d623dd1b265dabf4644ceeb35b,go,ok,69,go,,false,,,,,,,,,,,,747278
+643424761,643424762,3893,5ed23f9aa677d71bc60f61df8e05046151868541,go,ok,70,go,gotest,true,false,0,0,,0,70,70,0,,1265.3399999999995,,1050717
+651641924,651641926,3968,1ce142dcc7e25341405592c66bcb7cb0d60d2b3a,go,ok,59,go,gotest,true,false,0,0,,0,70,70,0,,1632.7299999999996,,1053347
+666226717,666226723,4100,68660b21c27c417771037b3f1fe4aa072cfdeef9,go,ok,73,go,,false,,,,,,,,,,,,1068543
+674086240,674086241,4167,17a986e54c507287c078a70fa9eea0be9f191f84,go,broken,65,go,gotest,true,true,0,1,,0,71,71,0,github.com/google/syzkaller/pkg/csource,977.8999999999999,,1069228
+680926597,680926598,4235,49bb6b93d549c8ccb088328cac049d4b11679581,go,ok,46,go,gotest,true,false,0,0,,0,72,72,0,,1952.3699999999994,,1220631
