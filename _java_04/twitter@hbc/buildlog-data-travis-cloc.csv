@@ -1,0 +1,12 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+16678476,16678477,124,42d917c68f2dda8be38e25d4cc3200c6c0470067,java,ok,,java-maven,junit,true,false,135,0,135,0,,,,,4.140000000000001,,6222
+20725729,20725730,136,197d4ba69e159e06d4fce02b241db55047c33561,java,ok,,java-maven,junit,true,false,135,0,135,0,,,,,5.6899999999999995,,6235
+21056521,21056522,148,6ce6b7d12ffcf1203e3909ba592904a0fd62773d,java,ok,,java-maven,junit,true,false,101,0,101,0,,,,,2.74,,4972
+23955952,23955953,169,4ee2088fbf1983fcf222ef5111b0c1a7592292a8,java,ok,,java-maven,junit,true,false,101,0,101,0,,,,,4.18,,4975
+5172137,5172138,19,8926c8426d3652edda19706ed13c2b76fa3bc54f,java,ok,,java-maven,junit,true,false,86,0,86,0,,,,,4.670000000000001,,4320
+28539344,28539345,212,5043d570710b04a6cd4f0a6fd576bd5f94e3b57a,java,ok,,java-maven,junit,true,false,111,0,111,0,,,,,4.05,10.9,5399
+30503960,30503961,223,40e8f29a83f7980cd51de7a69359b4e66021db31,java,ok,,java-maven,junit,true,false,111,0,111,0,,,,,4.359999999999999,12.01,5399
+436605049,436605051,249,57f72b4876bdbca1b2afeaef9d01ee4ff081caa1,unknown,unknown,,plain,,false,,,,,,,,,,,,5417
+5298856,5298857,39,713375b5ecc3d510176033bf4d16c6deedf8e1e4,java,ok,,java-maven,junit,true,false,89,0,89,0,,,,,3.36,,4374
+5402300,5402301,50,246a32403eb3c35df6f599c859cc16ffcf75341b,java,ok,,java-maven,junit,true,false,89,0,89,0,,,,,2.94,,4381
+6138391,6138392,76,68e1d44871bc3cbe7b6fbe85976ab73e5982ecf0,java,ok,,java-maven,junit,true,false,93,0,93,0,,,,,2.81,,4634

@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+395700220,395700221,10,7d3951728086b233382f177837dbd24862723af9,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.01,,976
+395700220,395700222,10,7d3951728086b233382f177837dbd24862723af9,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.02,,976
+395700725,395700726,11,7d3951728086b233382f177837dbd24862723af9,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.01,,976
+395700725,395700727,11,7d3951728086b233382f177837dbd24862723af9,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.01,,976
+395875745,395875746,12,f109f89d2fe555761624b8338bfc57da2c6cf06c,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.01,,977
+395875745,395875747,12,f109f89d2fe555761624b8338bfc57da2c6cf06c,python,broken,3,python,unittest,true,true,0,7,7,0,,,,,0.01,,977
+395875766,395875767,13,f109f89d2fe555761624b8338bfc57da2c6cf06c,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.01,,977
+395875766,395875768,13,f109f89d2fe555761624b8338bfc57da2c6cf06c,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.01,,977
+381240663,381240664,2,c95947e6f452dde358460a29a8d3558848fcad95,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.02,,973
+381240663,381240665,2,c95947e6f452dde358460a29a8d3558848fcad95,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.01,,973
+383816785,383816786,4,6882ca642ad7ac13920bd424c1702392a24512ba,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.01,,974
+383816785,383816787,4,6882ca642ad7ac13920bd424c1702392a24512ba,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.02,,974
+387429075,387429076,5,0ca55353fa74abd47fff393d0c40529b859d7650,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.01,,974
+387429075,387429077,5,0ca55353fa74abd47fff393d0c40529b859d7650,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.02,,974
+387531862,387531863,6,795709b9ace3206430db4c303aa2d57fddfb1e86,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.01,,976
+387531862,387531864,6,795709b9ace3206430db4c303aa2d57fddfb1e86,python,broken,1,python,unittest,true,true,0,7,7,0,,,,,0.01,,976

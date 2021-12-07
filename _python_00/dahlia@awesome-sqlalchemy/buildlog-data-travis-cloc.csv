@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+236562810,236562811,14,29862caf96785e795a92d98b5f662ab9c70eef7c,ruby,ok,1,ruby,,false,,,0,,,,,,,,,0
+431811688,431811689,18,8b436ccc01de0429594a122d1795a46cf42d8614,ruby,ok,1,ruby,,false,,,0,,,,,,,,,0
+665531777,665531778,38,508d893144c7bd5c3933e87b2abc681894557704,ruby,ok,1,ruby,,false,,,0,,,,,,,,,0
+674100054,674100056,41,508d893144c7bd5c3933e87b2abc681894557704,ruby,ok,1,ruby,,false,,,0,,,,,,,,,0
+685352762,685352763,45,508d893144c7bd5c3933e87b2abc681894557704,ruby,ok,1,ruby,,false,,,0,,,,,,,,,0
+693442559,693442560,49,5833054245b1f872cd49e9b0deccc53f40182222,ruby,broken,1,ruby,,false,,,0,,,,,,,,,0
+698242897,698242898,54,5833054245b1f872cd49e9b0deccc53f40182222,ruby,broken,1,ruby,,false,,,0,,,,,,,,,0
+705147352,705147353,58,5833054245b1f872cd49e9b0deccc53f40182222,ruby,broken,1,ruby,,false,,,0,,,,,,,,,0
+711955014,711955015,61,5833054245b1f872cd49e9b0deccc53f40182222,ruby,broken,0,ruby,,false,,,0,,,,,,,,,0
+718386541,718386542,65,5833054245b1f872cd49e9b0deccc53f40182222,ruby,broken,0,ruby,,false,,,0,,,,,,,,,0
+726788162,726788164,69,5833054245b1f872cd49e9b0deccc53f40182222,ruby,broken,1,ruby,,false,,,0,,,,,,,,,0
+732741349,732741350,72,5833054245b1f872cd49e9b0deccc53f40182222,ruby,broken,0,ruby,,false,,,0,,,,,,,,,0
+738747689,738747692,76,5833054245b1f872cd49e9b0deccc53f40182222,ruby,broken,0,ruby,,false,,,0,,,,,,,,,0
+161654544,161654545,7,b0ce6ebb3aea8bea8439557af707123749655d44,ruby,ok,1,ruby,,false,,,0,,,,,,,,,0
+749442067,749442068,83,5833054245b1f872cd49e9b0deccc53f40182222,ruby,broken,1,ruby,,false,,,0,,,,,,,,,0
+753807053,753807054,87,5833054245b1f872cd49e9b0deccc53f40182222,ruby,broken,1,ruby,,false,,,0,,,,,,,,,0

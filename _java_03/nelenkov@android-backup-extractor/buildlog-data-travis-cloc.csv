@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+439000938,439000939,10,6185e0483c1ee5100cb504d2c4ca7fc8ad7abdc0,java,ok,1,java-gradle,,false,,,0,,,,,,,,,419
+439001203,439001204,11,ec706babe5c9b49f68c0a5b06fdf85984a2cc224,java,ok,1,java-gradle,,false,,,0,,,,,,,,,419
+439001720,439001721,12,7032c2ce7d5a24e36eea32296b7e70538cdb371d,java,ok,1,java-gradle,,false,,,0,,,,,,,,,419
+439001747,439001748,13,7032c2ce7d5a24e36eea32296b7e70538cdb371d,java,ok,1,java-gradle,,false,,,0,,,,,,,,,419
+439006100,439006101,14,f2cfd811d0dd23981a30e12307b06496886da6eb,java,ok,1,java-gradle,,false,,,0,,,,,,,,,419
+439006677,439006678,15,f2cfd811d0dd23981a30e12307b06496886da6eb,java,ok,1,java-gradle,,false,,,0,,,,,,,,,419
+439008343,439008344,16,aaac3704ef4265c3774c927771cbcf281e6fcb2f,java,ok,1,java-gradle,,false,,,0,,,,,,,,,419
+439008796,439008797,17,aaac3704ef4265c3774c927771cbcf281e6fcb2f,java,ok,1,java-gradle,,false,,,0,,,,,,,,,419
+440451568,440451569,18,d75089923594fa2209c1762718bce45452a1c130,java,ok,1,java-gradle,,false,,,0,,,,,,,,,419
+440451834,440451835,19,d75089923594fa2209c1762718bce45452a1c130,java,ok,1,java-gradle,,false,,,0,,,,,,,,,419
+438990389,438990390,1,81a70526f0e07922157384632de6701095a1545d,ruby,broken,1,ruby,,false,,,0,,,,,,,,,419
+698788714,698788715,22,2b3af20cde53a4b412fba262deaf1142b9f80674,java,unknown,1,java-gradle,,false,,,0,,,,,,,,,419
+745847140,745847141,26,b7fcf78b3e3f0714465000739fa086be0fe5ae24,java,ok,1,java-gradle,,false,,,0,,,,,,,,,419
+745868847,745868848,27,b7fcf78b3e3f0714465000739fa086be0fe5ae24,java,ok,1,java-gradle,,false,,,0,,,,,,,,,419
+760147429,760147430,28,b7fcf78b3e3f0714465000739fa086be0fe5ae24,java,ok,1,java-gradle,,false,,,0,,,,,,,,,419

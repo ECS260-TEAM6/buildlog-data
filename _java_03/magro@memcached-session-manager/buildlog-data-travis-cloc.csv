@@ -1,0 +1,13 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+353841744,353841745,1,bf0f727ea74195dcd6cdc2aed7ac5e8829c86ccf,java,unknown,1,java-gradle,,false,,,0,,,,,,,,,17952
+354971020,354971021,34,40490c3fd8bb4f704e7d0ae4fb329398985e3846,java,ok,1,java-maven,junit,true,false,474,0,474,0,,,,,369.21000000000004,,17995
+354971065,354971067,36,bd9b0e2d7305acb6cbad14ae4cd650b2a3b53463,java,broken,1,java-maven,junit,true,true,193,1,194,0,,,,de.javakaffee.web.msm.integration.NonStickySessionsIntegrationTC6Test.(de.javakaffee.web.msm.integration.NonStickySessionsIntegrationTC6Test)#Run 1#Run 2#Run 3#Run 4#Run 5#Run 6#Run 7#Run 8#Run 9#Run 10#Run 11#Run 12#Run 13#Run 14#Run 15#Run 16#Run 17#Run 18#Run 19#Run 20#Run 21#Run 22#Run 23#Run 24#Run 25#Run 26#Run 27#Run 28#Run 29#Run 30#Run 31#Run 32#Run 33#Run 34#Run 35#,160.42,,17995
+354033292,354033295,3,5571fe4ec1c1e68c3e335d1a00bfc4cf2701fcbc,java,unknown,4,java-maven,junit,true,false,228,0,228,0,,,,,123.73,,17952
+355138339,355138341,47,f79442c340b7f1101349bc95e05dcb14dde375ea,java,ok,1,java-maven,junit,true,false,594,0,594,0,,,,,490.21000000000004,,18299
+354044969,354044972,4,98154502052c36edd6fb0106149434b7b5262769,java,unknown,1,java-gradle,,false,,,0,,,,,,,,,17952
+355148900,355148901,51,7f6cfad8699fe61fa6e3cb772c439abf895e9bec,java,ok,1,java-maven,junit,true,false,474,0,474,0,,,,,364.68,,18299
+444332511,444332512,58,d8be4c863d3013afc8d087082787a19cb805f9d0,java,broken,1,java-maven,junit,true,true,454,1,455,0,,,,de.javakaffee.web.msm.integration.TomcatFailoverIntegrationTC8Test.(de.javakaffee.web.msm.integration.TomcatFailoverIntegrationTC8Test)#Run 1#Run 2#Run 3#Run 4#Run 5#Run 6#Run 7#Run 8#Run 9#Run 10#Run 11#Run 12#Run 13#,362.19,,18299
+459239554,459239555,73,972aa11abc73afec10c5b83eedca6c503b59bd2a,java,ok,1,java-maven,junit,true,false,474,0,474,0,,,,,361.3,,18300
+459239592,459239594,75,00b6bab01924f68ce827f138fc3074b4a4ae6b48,java,ok,0,java-maven,junit,true,false,594,0,594,0,,,,,495.67,,18300
+461397329,461397330,78,114635d6446da5333e2cf2bbba62c411d5233948,java,ok,1,java-maven,junit,true,false,474,0,474,0,,,,,377.00000000000006,,18300
+470253186,470253188,80,716e147c9840ab10298c4d2b9edd0662058331e6,java,ok,1,java-maven,junit,true,false,594,0,594,0,,,,,480.94000000000005,,18300

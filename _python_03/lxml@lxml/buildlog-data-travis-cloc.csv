@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+397453298,397453299,1000,d4fea19d40a58b27ec6aae9d854bc7f8ae17bde1,python,ok,1,python,unittest,true,false,1811,0,1811,0,,,,,43.05,,24591
+412068471,412068479,1023,54c2fc5b7af9ad5f96f75cc713ddb7fd7ce8a152,python,unknown,,python,,false,,,,,,,,,,,,24617
+444132157,444132169,1064,d5c69a40df483ed60e75ebcb27e493c51e10873d,python,ok,2,python,unittest,true,false,1837,0,1837,0,,,,,20.95,,24562
+475342268,475342277,1090,925a6fb21bdfdd17c1e3fa8d28922b95f19ee8b2,python,ok,1,python,unittest,true,false,1841,0,1841,0,,,,,18.92,,24679
+499995131,499995139,1109,f2981e643b5b5a56089146bd5a093ecf7526dc12,python,ok,2,python,unittest,true,false,1850,0,1850,0,,,,,29.08,,24731
+510510809,510510817,1128,48d51c8e2a5c35e09338f03c44168242cdeb8ad2,python,ok,1,python,unittest,true,false,1854,0,1854,0,,,,,37.77,,24798
+522772553,522772557,1149,bc396552c9997fca71a1a27e3df15f6202622b81,python,broken,1,python,,false,,,,,,,,,,,,25162
+525896938,525896944,1169,3f0db5d57940eebd418fe86bcbdad39ffe23211d,python,ok,1,python,unittest,true,false,1921,0,1921,0,,,,,27.17,,25662
+567085517,567085527,1193,19ac07fa358a0d887f9c01a9eb4ae78675bb20e0,python,ok,1,python,unittest,true,false,1933,0,1933,0,,,,,31.83,,25814
+586632250,586632265,1216,17e8a629b689f3108011d451bac02873e91bd855,python,broken,1,python,unittest,true,true,1828,103,1931,0,,,,txt#test_setslice_negative_steps#test_xmlsyntaxerror_has_info#txt#txt#txt#test_ns_classes#test_build_tree#test_efactory_bool#test_efactory_float#test_efactory_int#test_efactory_nested#test_efactory_none#test_efactory_str#test_efactory_unicode#test_efactory_value_concatenation#test_registered_type_stringify#test_setattr#test_type_bool#test_type_bool_cmp#test_type_float#test_type_float_precision#test_type_float_precision_consistency#test_type_int#test_type_int_cmp#test_type_str#test_type_str_cmp#test_type_str_floatliteral#test_type_str_intliteral#test_type_unregistered#test_type_ustr#test_type_ustr_floatliteral#test_type_ustr_intliteral#txt#txt#txt#txt#txt#test_xslt_access_control_repr#txt,671.12,,25938
+608889334,608889338,1250,f78ea3c0ab0e45a5d99dc7e60040849f6a00c645,python,ok,1,python,unittest,true,false,1921,0,1921,0,,,,,33.34,,25952
+632405771,632405779,1276,b5ac43818b19a521b6a2e6062a6b1f2c34d2aa5f,python,ok,1,python,unittest,true,false,1944,0,1944,0,,,,,26.56,,25939
+685826978,685826992,1299,cfceec54a8d5b684e2572b02addf0adf5e786f2f,python,ok,1,python,unittest,true,false,1948,0,1948,0,,,,,19.55,,25955
+703860747,703860751,1320,4d0e47a1be25fce5b8b3b65dd269a6e714862e4c,python,ok,1,python,unittest,true,false,1940,0,1940,0,,,,,33.23,,26012
+727797124,727797136,1369,e77ab92a1cd65e59db98a00509640b63e37f8b3b,python,ok,1,python,unittest,true,false,1940,0,1940,0,,,,,17.78,,26117
+736871088,736871096,1383,0f80590d7ebe62c61d2bdf2a220a093821dcbab8,unknown,unknown,,plain,,false,,,,,,,,,,,,26254
