@@ -1,0 +1,10 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+128969877,128969878,100,069278f4bfc10a6e70cd01551c694d3600043526,go,broken,4,go,gotest,true,true,0,5,,0,75,72,3,TestDiskpacked#TestDiskpackedAltIndex#TestClose#camlistore.org/pkg/blobserver/diskpacked#camlistore.org/pkg/fs,307.1,,419186
+153419592,153419594,148,e321eb75d57df544cbf193bd4cfc28f45b824f31,go,unknown,5,go,,false,,,,,,,,,,,,456956
+99314626,99314628,20,8d7b3fce62de2ecda31c71af3549bd0ec7632a63,go,broken,2,go,,false,,,,,,,,,,,,323208
+92855759,92855760,2,9868aa0f8d8a93ff0b30ff0de46cc351b6b88b30,go,broken,2,go,gotest,true,true,0,14,,0,71,62,9,camlistore.org/pkg/blobserver/blobpacked#TestRoot#TestMutable#TestDifferentWriteTypes#TestRename#TestXattr#TestSymlink#camlistore.org/pkg/fs#TestCompareResizeToHalveInplace#camlistore.org/pkg/images/resize#TestIntegrationRun#camlistore.org/pkg/importer/pinboard#TestCamgetSymlink#camlistore.org/pkg/test/integration,302.31000000000006,,300161
+303628156,303628157,387,242435461479640d253193539244c781986abfe5,go,ok,4,go,gotest,true,false,0,0,,0,76,76,0,,394.5299999999999,,529135
+324182903,324182904,472,e2deb945a923df43621b3f8d0797e763450ba19f,go,unknown,4,go,,false,,,,,,,,,,,,809199
+344063703,344063704,559,14758c0d1e10fcd791306b52eb4590f1ff8082f4,go,ok,4,go,gotest,true,false,0,0,,0,62,62,0,,344.01,,729798
+374243348,374243349,644,b5793c5e1ed7fb7cf75015e90b484297aa641dd6,go,ok,6,go,gotest,true,false,0,0,,0,64,64,0,,325.06,,731140
+412761768,412761769,740,4866c7c62efc4903e9fcf72f8edfefa2a603abe1,go,ok,6,go,gotest,true,false,0,0,,0,83,83,0,,402.05999999999983,,782709
