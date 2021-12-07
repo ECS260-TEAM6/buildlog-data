@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+18623401,18623402,100,9ec0ef3c6f1c976a2f3b4762e3e7704564675b9c,java,ok,,java-maven,junit,true,false,15,0,15,0,,,,,14.38,,1092
+27815744,27815745,168,c3f86487a9fbec574c337174bcaf6dc425d8d25c,java,ok,,java-maven,junit,true,false,18,0,18,0,,,,,4.8,,1404
+39803032,39803033,235,ec3eb7c8b473554707c32666a80960976d5526d6,java,ok,,java-maven,junit,true,false,25,0,25,0,,,,,3.13,,1520
+48539393,48539394,290,eff9feaf9ad0b3daf435a266847a8b602753890d,java,ok,0,java-maven,junit,true,false,31,0,31,0,,,,,4.21,,1650
+48968930,48968931,308,0b28cbbd49ea0929dfbdff98797f92ced56846e4,java,ok,0,java-maven,junit,true,false,32,0,32,0,,,,,3.56,,1683
+51438756,51438757,326,d9663b60334093ddc62fc694ef546589df5599c7,java,ok,0,java-maven,junit,true,false,36,0,36,0,,,,,4.78,,1805
+77737442,77737448,382,9849fb708056cfb74767531ef892b1e08a706ade,java,ok,0,java-maven,junit,true,false,44,0,44,0,,,,,4.31,,2038
+85051720,85051733,393,f638b259ac9bc03ba1715ec6a56cde73a62637ea,java,unknown,3,java-ant,,false,,,,,,,,,,,,2038
+106813456,106813458,404,fe8074033139f895e181f034787b867d78daf1fc,java,ok,1,java-maven,junit,true,false,44,0,44,0,,,,,6.47,,2046
+106878172,106878174,420,6f3e56e8dae9479f5c8a9f121834ecc99ed5e76d,unknown,unknown,,plain,,false,,,,,,,,,,,,2057
+504310565,504310566,534,9bb8e98e56442a383d6729de5da0d6298e9e9a92,unknown,unknown,,plain,,false,,,,,,,,,,,,6667
+544739174,544739175,672,aba072ae0ae74824964c1a92720ce5e01faefc42,java,ok,1,java-maven,junit,true,false,266,0,266,6,,,,,14.21,28.14,8196
+574353308,574353309,745,94f3fd269b34896e4ff9d4dfdb76b90a0a323e01,java,ok,1,java-maven,junit,true,false,270,0,270,6,,,,,13.559999999999997,,8398

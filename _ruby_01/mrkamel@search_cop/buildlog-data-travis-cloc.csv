@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+31261349,31261350,100,e78887925004ab770380ffea42f39e9774f686ad,ruby,ok,,ruby,testunit,true,false,91,0,91,0,,,,,1.31,,1469
+37944655,37944674,108,db7f529216bbf93af59e8843c8dfd329f9127cba,ruby,ok,,ruby,testunit,true,false,92,0,92,0,,,,,1.47,,1481
+44452102,44452122,118,c3c9d03e77b4953215cac20434ff1aab50fa50ca,ruby,ok,0,ruby,testunit,true,false,107,0,107,0,,,,,1.73,,1531
+44804911,44804958,128,e5cefa8acc2e822b636fa35ec76893c95e682a79,unknown,unknown,,plain,,false,,,,,,,,,,,,1554
+46887592,46887646,134,8f6c76336d178315ccc70db201732b1796f9dece,ruby,ok,0,ruby,,false,,,0,,,,,,,,,1571
+53445214,53445225,141,c2a42c216821b2c99b5227ae124993f9a97e8bbe,ruby,ok,0,ruby,testunit,true,false,112,0,112,0,,,,,1.26,,1584
+174283541,174283586,156,629b92aab97a8347a719d8078b8cc52e5fc7afad,ruby,unknown,0,ruby,,false,,,0,,,,,,,,,1588
+202910775,202910823,162,1f22808e6984243bded868dac27d9cc6f5711e5d,ruby,unknown,1,ruby,,false,,,0,,,,,,,,,1588
+203107273,203107318,170,e66217846eb3e9293cab2a2809d4c9ff20215cc6,ruby,unknown,2,ruby,,false,,,0,,,,,,,,,1599
+229916849,229916892,183,7cb708ed003c159fe03123cbb72900d259307ddb,ruby,broken,0,ruby,testunit,true,true,85,30,115,0,,,,,0.57,,1647
+338582307,338582327,196,5a423b7cff3e84665dae7776351653c01074c721,ruby,ok,0,ruby,testunit,true,false,115,0,115,0,,,,,1.32,,1647
+27932137,27932151,44,ddcd0921d3997df6edd9ca2ab81a5da802280845,ruby,ok,,ruby,,false,,,0,,,,,,,,,1146
+28495257,28495284,52,c240fa3ce18e157f01a88671ac3952764c1f0ee0,ruby,ok,,ruby,testunit,true,false,71,0,71,0,,,,,0.96,,1221
+29673716,29673728,69,6dce603a8fba5c362a6cce78fb2c37fd28fdf37c,ruby,ok,,ruby,testunit,true,false,84,0,84,0,,,,,0.8,,1335
+30643827,30643854,79,b6914c70435da313629379c617cc908abcb5f14d,ruby,ok,,ruby,testunit,true,false,84,0,84,0,,,,,1.01,,1367

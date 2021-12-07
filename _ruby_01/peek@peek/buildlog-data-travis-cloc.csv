@@ -1,0 +1,11 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+6360585,6360586,10,3002c755005473d6c1ee92ab806fe898859fef7a,ruby,ok,,ruby,,false,,,0,,,,,,,,,223
+6488171,6488172,11,7062da67c410c290a4f65b3179eed77fb04cfdb8,ruby,ok,,ruby,,false,,,0,,,,,,,,,223
+121536983,121536997,168,6875309846e1f33d55a42df35dbfc0cacf4f2b93,ruby,unknown,2,ruby,,false,,,0,,,,,,,,,545
+178965400,178965402,177,a2f795c46eaa45302baecc1a6fb820c1e0c3f8bb,unknown,unknown,,plain,,false,,,,,,,,,,,,545
+220636639,220636643,179,b5a03f52d17e6e3c79b935499de384ec1bb34f57,java,broken,,java-ant,,false,,,,,,,,,,,,545
+220638397,220638399,182,b1c819c5df161747d482c9e36bf9d111faaa9748,ruby,broken,1,ruby,testunit,true,true,12,1,13,0,,,,,0.64,,545
+220785970,220785975,184,d9651fdfc28c63d835051f2c8a9c22a7b9f58bee,ruby,ok,1,ruby,testunit,true,false,13,0,13,0,,,,,0.44,,545
+7082895,7082896,51,b72948a8f23acc07b08ca227827c73827fb828c9,ruby,ok,,ruby,,false,,,0,,,,,,,,,471
+8063869,8063870,60,b36588c6cebd35b59ec5c6e550b485fa8f8e9712,ruby,ok,,ruby,,false,,,0,,,,,,,,,476
+6089855,6089856,7,56cbefb97aa5b1e8c017242cf63923fd522b3a4e,ruby,ok,,ruby,,false,,,0,,,,,,,,,220

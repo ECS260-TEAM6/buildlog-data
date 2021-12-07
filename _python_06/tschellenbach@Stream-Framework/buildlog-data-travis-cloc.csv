@@ -1,0 +1,12 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+9944585,9944586,189,10aaa5ca6b91f1ac6397ee410120dd39e009ee17,python,ok,,python,pytest#unittest,true,false,11,0,11,187,,,,,33.55,,4314
+11053382,11053383,309,a76a2e9de92f39da1c258f934089d6472b876036,python,ok,,python,pytest#unittest,true,false,13,0,13,233,,,,,37.83,,4772
+11390788,11390789,419,73342a99464220974fc3b0065bae643c5fc8d798,python,ok,,python,pytest#unittest,true,false,12,0,12,226,,,,,44.22,,4497
+18994091,18994092,564,5ea4f15c7228ab41fefea437a9aeca6f1791e55b,python,ok,,python,pytest#unittest,true,false,12,0,12,210,,,,,47.15,,7400
+35945447,35945448,706,1bcc18eac66252d02b36ee1af6d4a1f7528cbe6a,python,ok,8,python,pytest,true,false,397,0,397,224,,,,,41.97,,4922
+55874788,55874789,816,7d76e03da253c6638e2d3fc1c5291234b1323da2,python,broken,19,python,pytest,true,true,413,5,418,233,,,,TestCassandraAggregatedFeed.test_partially_remove_activity#TestCassandraCustomAggregatedFeed.test_partially_remove_activity#TestNotificationFeed.test_partially_remove_activity#TestRedisAggregatedFeed.test_partially_remove_activity#TestRedisCustomAggregatedFeed.test_partially_remove_activity,42.96,,9260
+110475174,110475175,874,e9b49d193bc1aeae5216456e59e5653d5680396b,python,ok,7,python,pytest,true,false,462,0,462,316,,,,,35.02,,5112
+121645619,121645622,905,224ec80cd380d2747dc69fdca40b983c2a1155eb,python,broken,6,python,pytest,true,true,459,1,460,316,,,,TestCustomRedisFeed.test_feed_indexof_large,29.68,,5038
+187228383,187228399,952,a2bb56866e498cd4dc93379d27a11f7b5286829a,python,ok,2,python,pytest,true,false,460,0,460,316,,,,,38.85,,5037
+329662511,329662529,966,065abf1acc7877ff2246d0c8ff56d882078591ea,unknown,unknown,,plain,,false,,,,,,,,,,,,5048
+708312329,708312335,982,0d604d92f01329dad67b957ff53a894879fe7060,python,unknown,2,python,,false,,,,,,,,,,,,5048

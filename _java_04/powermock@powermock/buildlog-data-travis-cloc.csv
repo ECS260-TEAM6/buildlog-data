@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+72575094,72575095,100,3e618706ef4acb8fc3d2a4cb67871a4b6ab6c5ad,java,ok,0,java-maven,junit,true,false,1252,0,1252,22,,,,,145.91,215,42135
+83261845,83261846,120,ae40424f020ae7432bc3213debad4ca0c1a03b80,java,ok,1,java-maven,junit,true,false,1263,0,1263,23,,,,,170.70999999999998,247,42411
+96209340,96209341,140,46b9ae8592217fbe5024c8b0d7a3e4e669e71053,java,ok,1,java-maven,junit,true,false,1263,0,1263,23,,,,,177.15,257,42435
+112514335,112514336,179,aa8e72f3551f81dc6f8f1756d11afe1a0073a967,java,ok,1,java-maven,junit,true,false,2564,0,2564,48,,,,,235.60999999999999,,68969
+114846999,114847000,203,4d57d3cd481e3cc7d13d6e0741cfbe54463f02b9,java,ok,1,java-maven,junit,true,false,2582,0,2582,48,,,,,234.46999999999989,,69615
+124954297,124954298,256,00b5058257134faa806152241679167432aa917a,java,ok,1,java-maven,junit,true,false,3765,0,3765,70,,,,,477.18999999999966,,71965
+134351832,134351833,288,a2a6dbb613e8a075ec5ead1fcd24de2401e6d4da,java,ok,2,java-maven,junit,true,false,5156,0,5156,94,,,,,631.5099999999996,,72822
+171919520,171919521,344,7959f0c620d9e2cb4cd55734d73e56072a2c9997,java,ok,2,java-maven,junit,true,false,5327,0,5327,94,,,,,637.1499999999999,,70759
+46746930,46746931,36,3423f10cf0700814252b340c8f363bf633ae9485,java,ok,0,java-maven,junit,true,false,1232,0,1232,22,,,,,161.01999999999998,230,41309
+193025781,193025782,392,9e1f0b172f4c021b010075dad1970ac1ca09d415,java,ok,1,java-maven,junit,true,false,2555,0,2555,46,,,,,320.69,,67011
+197931060,197931061,437,34db8ff5204a5443bacbad9fc718623c5c8ae1b1,java,ok,2,java-gradle,junit,true,false,,0,,,,,,,,245,67537
+212402830,212402831,457,152ba612e176b33a751d956d27d8388858276144,java,ok,2,java-gradle,junit,true,false,,0,,,,,,,,293,67814
+244146954,244146955,530,a31d0fcfb6f35126140ecf46731cae7f509a149d,java,ok,8,java-gradle,junit,true,false,,0,,,,,,,,360,45341
+54536008,54536009,59,d7c412cb95a6f0f5a72bb496d401e9644d8694fa,java,ok,0,java-maven,junit,true,false,1250,0,1250,22,,,,,178.89,256,42097
+68302626,68302627,79,173010d1315ed22246184a4d65e7b6c19f9df51a,java,ok,1,java-maven,junit,true,false,1252,0,1252,22,,,,,175.69000000000003,355,42135

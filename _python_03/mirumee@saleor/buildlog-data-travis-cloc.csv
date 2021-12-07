@@ -1,0 +1,6 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+576753000,576753001,11985,1ac9086f38296b2986c2a884e780b20ff5be3355,python,ok,4,python,,false,,,,,,,,,,,,74873
+581592879,581592892,12100,2058378abb48cf1034bbbb554f62f2cd24b08dc6,python,ok,5,python,,false,,,,,,,,,,,,75448
+592428358,592428363,12293,5f2dde844f806219e385175c58366da1c157090b,python,ok,3,python,,false,,,,,,,,,,,,81406
+596513669,596513671,12409,658caab48a4b1d3f590087e5b7f016f8034c9ab7,unknown,unknown,,plain,,false,,,,,,,,,,,,81854
+602218993,602219001,12524,ce121f8a81616768c2f81a8df4e70460007e9b90,python,broken,2,python,,true,true,0,0,0,0,,,,py36-django_master: commands failed,0,,83672

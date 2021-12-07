@@ -1,0 +1,5 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+142690868,142690878,166,9ad80f0309cf003d54850f8d77de1cdc3a45fff9,ruby,ok,2,ruby,,false,,,0,,,,,,,,,3578
+173466836,173466846,199,e3ab100aaf37bd508d1838fd96e0f905979984a5,ruby,broken,2,ruby,,true,false,,0,,,,,,,,,3635
+756909624,756909647,422,c2315e6c1c0d93b33276c09fba2c379a6b58a089,unknown,unknown,,plain,,false,,,,,,,,,,,,3821
+129550199,129550215,81,c0df203f0308347ffb3288ba701f06dece0cc329,ruby,ok,3,ruby,,false,,,0,,,,,,,,,4692

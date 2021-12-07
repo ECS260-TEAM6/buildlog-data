@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+552341072,552341073,12230,81b0feeea95dbcf8bbeaf3f987700c863a7216eb,java,ok,1,java-gradle,,false,,,0,,,,,,,,,35987
+556246913,556246914,12290,c3fc1d2755cea39ba91230f6fc4eaaa3753ab92b,java,ok,1,java-gradle,,false,,,0,,,,,,,,,36064
+564354044,564354047,12370,2a1f328d58de8d12861cdcf4be1c9f8902687e8d,java,unknown,1,java-gradle,,false,,,0,,,,,,,,,36152
+570793606,570793607,12390,1994136a24942dcd6066738f425dcb736e49f43d,java,ok,1,java-gradle,,false,,,0,,,,,,,,,36255
+579407943,579407944,12410,e0e191bb883de64c806d0488b1fe2d0d748356b2,java,ok,1,java-gradle,,false,,,0,,,,,,,,,36318
+587819022,587819023,12430,4b5615c3323d8abdb875f34a6cd9292825308faf,java,broken,1,java-gradle,,false,,,0,,,,,,,,,36641
+596563371,596563372,12450,8ec8ae5f98798ff729f3a79c03319002b4bec7c7,java,unknown,1,java-gradle,,false,,,0,,,,,,,,,36722
+605466594,605466595,12470,d813d570295887780df6ae7d33eaee1e89fd7f2f,java,unknown,1,java-gradle,,false,,,0,,,,,,,,,36714
+619591464,619591465,12510,7e4870537e33e2f0c4ea39f97b3a7d41a6ba0711,java,ok,1,java-gradle,,false,,,0,,,,,,,,,36750
+628350280,628350281,12530,13b9ae5e8e8ee1ddb148ba396e3b53282d0d8427,java,ok,1,java-gradle,,false,,,0,,,,,,,,,36780
+635661627,635661629,12550,04b4fbb6b5842121690dd87f19531e13c25a0ce4,java,ok,1,java-gradle,,false,,,0,,,,,,,,,36639
+644339857,644339858,12570,672e765cc8770ac4cb6f2919eb177e0cfeaafdbf,java,ok,1,java-gradle,,false,,,0,,,,,,,,,36717
+652978108,652978109,12590,733a58a247d734eb17bf600e43048eb9b6be3dd3,java,ok,1,java-gradle,,false,,,0,,,,,,,,,36864
+661075308,661075310,12610,97a5e7a9e0cdafd2bb7cbc9a8bb1931082aaa0e4,java,ok,1,java-gradle,,false,,,0,,,,,,,,,36855

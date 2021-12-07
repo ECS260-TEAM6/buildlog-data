@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+11885331,11885332,100,2bf4f8ab882a5ffd99c07d9730f25540ff1560b4,ruby,ok,,ruby,rspec,true,false,235,0,235,3,,,,,36.2,,3172
+17409245,17409249,138,f6b22dbdec3eb2ed16590df29e44cf6f0ad67804,ruby,ok,,ruby,rspec,true,false,245,0,245,3,,,,,50.1,,3390
+53787678,53787680,208,208dd2f54f89ad3a074a2b07adc427a75f7e826f,ruby,broken,1,ruby,rspec,true,true,280,3,283,2,,,,,14.2,,4080
+56248346,56248349,242,5838cef2d15051befaf53e6deb94a3b12df09039,ruby,ok,0,ruby,rspec,true,false,302,0,302,2,,,,,55.1,,4559
+82049190,82049192,274,7f29c73b70a9b3e2aeacd62f56d9f7d434491a09,ruby,broken,1,ruby,rspec,true,true,330,2,332,2,,,,,33.1,,4741
+90604869,90604872,302,05c69737f924c627e15041d0a9e28cd967b5f81a,ruby,ok,0,ruby,rspec,true,false,343,0,343,2,,,,,49.2,,4884
+127705427,127705429,354,041be54619cd92e3aadb5cd54c537e3062cdbfa2,ruby,ok,0,ruby,rspec,true,false,354,0,354,2,,,,,31.8,,5008
+172151046,172151049,378,ac5ca92f8b4711f4613d256a2549d448e49aa129,ruby,ok,0,ruby,rspec,true,false,367,0,367,2,,,,,39.6,,5144
+182194842,182194844,401,3575e29b8630c091cd25e932b98f539c9dbb0508,unknown,unknown,,plain,,false,,,,,,,,,,,,5294
+202019180,202019185,424,1eb162db312ff9539748e07afa8065d76ae5f756,ruby,ok,0,ruby,rspec,true,false,386,0,386,2,,,,,14.1,,5410
+373731381,373731382,470,3a0672c59573639627f51a7f17018b1ef6afabc7,ruby,ok,0,ruby,rspec,true,false,260,0,260,2,,,,,1.4,,3647
+519008343,519008350,513,cf7fcc5617d9af797f3955d85c38698b16b1e5c5,ruby,ok,1,ruby,rspec,true,false,272,0,272,2,,,,,20.6,,3753
+730272171,730272179,530,a684facba5202d09007e2ed3513b4a1038869ee6,ruby,ok,1,ruby,rspec,true,false,285,0,285,2,,,,,19.4,,3898
+10954106,10954111,71,ea8c492d91bd4302f335765c2ba2362d53caaf47,java,ok,,java-ant,,false,,,,,,,,,,,,2973

@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+48985239,48985240,100,52239e65351fd634dca2e43893b995fbaadc807e,python,ok,0,python,pytest,true,false,372,0,372,0,,,,,1.97,,2976
+52525687,52525693,127,34c8ddb5d404b0490a0a3108a66f07446c26de17,python,ok,0,python,,false,,,,,,,,,,,,3490
+60433551,60433560,157,932c843d3df3eb8fe4c86bab523e66b211868f62,python,ok,0,python,pytest,true,false,71,0,71,0,,,,,0.27,,4348
+77050449,77050458,185,9863c87addcace8739de7497fbfaa1b447fed390,python,ok,0,python,pytest,true,false,509,0,509,0,,,,,2.94,,4551
+83143161,83143179,215,4f582f1937cfc8551e1838ee6c84014cceb9e192,python,ok,1,python,,false,,,,,,,,,,,,4838
+106314878,106314884,244,d34289c3d88398dcfb2c51c6c647339a61355dfe,python,ok,0,python,,false,,,,,,,,,,,,5067
+205553668,205553671,271,885bf1e4032f5e37853761c1df2f7079b3a43ff6,python,ok,0,python,pytest,true,false,574,0,574,1,,,,,13.9,,5149
+270785537,270785546,294,83bd69440e9e62c6d93b14578f29770ac3f5759a,python,ok,1,python,,false,,,,,,,,,,,,5322
+524649799,524649813,393,d79a5fa50d4e0499b52c90cbb4094150fdc61ef9,python,ok,1,python,,false,,,,,,,,,,,,5633
+554392993,554392994,419,058ccde77c4a20ce5934c9031327e955d2b797c5,python,ok,1,python,pytest,true,false,616,0,616,1,,,,,5.85,,5678
+38970850,38970857,46,7e321a291252802349e6a64e727aed93442f21e7,python,ok,,python,pytest,true,false,41,0,41,0,,,,,0.39,,2035
+725039619,725039628,484,b05a77acb1369cad836232c9f0cbbabcb4d2c1b0,generic,unknown,1,plain,,false,,,,,,,,,,,,5663
+738789910,738789921,513,1037768d5b06bd3aa05f359aa7853ab78f4970b2,python,ok,1,python,,false,,,,,,,,,,,,5715
+45273912,45273917,70,219f4a66821ae33067a7e55946bb252addbec450,python,ok,0,python,pytest,true,false,238,0,238,76,,,,,4.95,,2380

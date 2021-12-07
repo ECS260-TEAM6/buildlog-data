@@ -1,0 +1,12 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+397049715,397049716,100,c77ac24db978dcfe8252064d4abc559b2803f2dc,python,broken,17,python,unittest,true,true,0,7,7,0,,,,,0.39,,2127
+429030728,429030730,151,882720a25a60f78056205cdec84fc220d1ffcf38,python,ok,24,python,unittest,true,false,20,0,20,0,,,,,29.31,,2381
+105512928,105512929,15,fb6eb6c9eefbb7a5110d4e0c38f7a0db01b478ac,python,ok,6,python,unittest,true,false,22,0,22,0,,,,,100.54,,2552
+105516240,105516243,16,10f865dae35f13aeb2b8d6bfb30a48814d96bbfb,python,ok,9,python,unittest,true,false,22,0,22,0,,,,,112.82,,2552
+114365937,114365938,19,8526ad935fb93c668bdd5097a1f9305d251cd133,python,broken,15,python,unittest,true,true,19,3,22,0,,,,test_nuclear_norm_minimization.test_rank1_convex_solver#test_nuclear_norm_minimization.test_rank1_symmetric_convex_solver#test_nuclear_norm_minimization.test_nuclear_norm_minimization_with_low_rank_random_matrix,76.81,,2552
+124587892,124587894,25,29b9fb4e751219157f7c7856970dac1d86a20696,python,broken,8,python,,false,,,,,,,,,,,,2552
+126723118,126723119,31,4c36ba5913c74dc13a60709183eb10631cafc72c,python,ok,12,python,unittest,true,false,22,0,22,0,,,,,70.91,,2551
+131821225,131821227,38,76fbf1c72e0911a35d300f0e1fd040b718adeb52,python,ok,7,python,unittest,true,false,22,0,22,0,,,,,72.07,,2553
+144222550,144222551,44,4739953c07d96370c415f41177fd50d640d264e4,python,ok,17,python,unittest,true,false,18,0,18,0,,,,,89.83,,2255
+105489256,105489260,4,e347be87a0dedab1efc2ba556922bb2abe740406,python,unknown,8,python,,false,,,,,,,,,,,,2520
+201305651,201305655,69,542eec69cec1b01a1393a369a5815dfa3033622e,python,ok,17,python,unittest,true,false,17,0,17,0,,,,,49.67,,2015

@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+2326337,2326338,102,e336313e4aa37d96e66c8f67ec2e7341e531e848,unknown,unknown,,plain,,false,,,,,,,,,,,,10175
+3076303,3076305,132,f77404c0c449b0007919c103ec32851d098e8aed,unknown,unknown,,plain,,false,,,,,,,,,,,,9014
+5865969,5865971,156,70c1371e52714ddd0f8ceda988ba7fdeca1f7119,ruby,ok,,ruby,rspec,true,false,460,0,460,0,,,,,2.71,,9481
+9314843,9314845,189,1cd184274cb2a17ef87d41fdf078b6b2805dc69d,ruby,ok,,ruby,rspec,true,false,480,0,480,0,,,,,1.83,,9703
+17586048,17586049,235,3cbb61cc66b86ac5cad25ba439a4977d336c1349,ruby,ok,,ruby,rspec,true,false,530,0,530,0,,,,,4.31,,10450
+24990212,24990213,268,0a44a455d57075dfe8b31a1f15d5b1857b166a84,ruby,ok,,ruby,rspec,true,false,547,0,547,0,,,,,4.88,,10635
+45517901,45517903,284,7b3a478ce4937316fd6350490d450c23bcf16d95,ruby,ok,0,ruby,rspec,true,false,548,0,548,0,,,,,1.54,,10671
+55165433,55165434,300,3c31e91579272d20c233d06d981fb834435f8a36,ruby,ok,0,ruby,rspec,true,false,548,0,548,0,,,,,2.79,,10670
+91954027,91954030,324,99618bcf9745aae3a0040189953ddd3f6a6cf561,ruby,ok,0,ruby,rspec,true,false,559,0,559,0,,,,,1.33,,10897
+121585894,121585897,336,dd026a3a29f69c3b4b6e74f053d36835ff879780,ruby,ok,0,ruby,rspec,true,false,560,0,560,0,,,,,1.33,,10928
+353155533,353155536,434,fafd4fcdf03b58039b7fb1b5b02c62dfc47bb911,ruby,ok,1,ruby,rspec,true,false,496,0,496,0,,,,,1.15,,10216
+406808517,406808520,486,5cdc269ca4ad67e6187ae6858b73d1ad253aeba9,ruby,ok,1,ruby,rspec,true,false,497,0,497,0,,,,,1.32,,10237
+630271039,630271040,532,f6104e9a85cd0a8b4513bdf739d20a7b7a2360d9,ruby,ok,1,ruby,rspec,true,false,497,0,497,0,,,,,0.75,,10262
+672429354,672429355,587,88f59831de4cf3b89a53c59526d5f1057023808d,ruby,ok,1,ruby,rspec,true,false,497,0,497,0,,,,,0.79,,10667
+1643835,1643836,72,1a74b36fefcc8c04711b79d368ba9926a7109a81,unknown,unknown,,plain,,false,,,,,,,,,,,,10038

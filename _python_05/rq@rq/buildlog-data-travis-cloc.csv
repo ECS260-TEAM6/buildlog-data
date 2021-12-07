@@ -1,0 +1,10 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+271906425,271906426,1073,0c0b9f98f2e8674d96cc3301b767543c47740123,python,ok,1,python,pytest,true,false,191,0,191,0,,,,,23.24,,5080
+325006548,325006551,1167,995492878df5f6b7a32614a6050af0f3a4033e2c,python,ok,1,python,pytest,true,false,207,0,207,0,,,,,22.73,,5439
+375415764,375415771,1227,3133d94b58e59cb86e8f4677492d48b2addcf5f8,python,broken,1,python,pytest,true,true,212,1,213,1,,,,HerokuWorkerShutdownTestCase.test_1_sec_shutdown,88.02,,5538
+443984812,443984813,1311,47d291771ffec8481508c869d9c659c09b2dd0c7,python,ok,1,python,pytest,true,false,216,0,216,0,,,,,39.88,,5583
+497385727,497385728,1404,1f3c9f6e59916a3548ce8407c9ee4d07a46a839f,python,ok,1,python,pytest,true,false,219,0,219,0,,,,,39.89,,5593
+546322813,546322820,1501,b52bad3ad034293185e72090a23817a2d23bc957,python,ok,1,python,pytest,true,false,208,0,208,6,,,,,63.33,,5799
+582288949,582288951,1536,0a669f1f33b7e4f64ba7b40264e7eccf3eccd455,python,ok,1,python,pytest,true,false,215,0,215,0,,,,,61.17,,5810
+639931039,639931040,1655,ccfd4a02cbc9130c845b64ca6b5b7510c99fadde,python,ok,1,python,pytest,true,false,246,0,246,0,,,,,69.41,,6536
+694875721,694875727,1782,29222ea12f822e29307ee7ba674166d5031b3ae4,python,ok,1,python,pytest,true,false,253,0,253,6,,,,,88.22,,6828

@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+58897908,58897909,100,8fce706f312c69a144db4195b1a51b3dbd779559,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,655
+59384951,59384952,137,ff17b1d857352a78ab3b722a9e7db6b25ed571b3,java,ok,0,java-gradle,junit,true,false,,0,,,,,,,,,755
+61157039,61157040,174,cef474955e27c8b635189304c4adf1932bf33555,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,944
+50636634,50636635,20,b472bf97bb81a5fb9ec9493b8d887e6cbb45aafb,ruby,unknown,0,ruby,,false,,,0,,,,,,,,,637
+78242875,78242877,247,88df748451e8ed490731be6d94a593913d5918a5,java,ok,0,java-gradle,junit,true,false,,0,,,,,,,,,1170
+110411509,110411510,326,329756d6648d0ed5082202be18856e36afdad873,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,2325
+112036176,112036177,363,d058a99874b266e96b31fd6774af61e4701384f3,java,ok,7,java-gradle,junit,true,false,,0,,,,,,,,,3238
+116071030,116071031,456,d48b9c217b2c8581eab2212f2cbe5b1e8737bde8,java,ok,10,java-gradle,junit,true,true,,0,,,,,,io.github.swagger2markup.GeneralConverterTest#io.github.swagger2markup.GeneralConverterTest,,,3623
+120008369,120008370,499,6fc474ac090f95be4152a8ab044cc01488599610,java,unknown,2,java-gradle,,false,,,0,,,,,,,,,3941
+120841119,120841122,542,9c6111da3ed13c3787f0fb0e916d7ccc363768fa,java,ok,0,java-gradle,junit,true,false,,0,,,,,,,,,4229
+122510391,122510392,579,b7ef781fdad2aa0c4d7f0a496ab186ed75643140,java,ok,1,java-gradle,junit,true,true,,0,,,,,,io.github.swagger2markup.AsciidocConverterTest#io.github.swagger2markup.AsciidocConverterTest,,,4214
+133062232,133062233,614,836719531572eed3513749bc22adb344d96909af,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,4356
+149407720,149407721,655,2367d86eb79d050c17230fd5beafb26ae6865c86,java,ok,2,java-gradle,junit,true,false,,0,,,,,,,,,4530
+172221823,172221824,695,35ae68ceeecca1be0c847446af5d4f763b1cc3e0,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,4646
+203349093,203349094,775,63b5cd3bfb37ec374594af572150b6e02a164cdf,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,7162

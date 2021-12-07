@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+132114993,132114995,10,68ff5f4ebfb336e968130a02e1d173a489bbbe81,java,ok,9,java-gradle,junit,true,false,,0,,,,,,,,,5014
+140375221,140375222,14,bf081e6b48112d8341196e07e0b018c6287e9f0d,java,ok,0,java-gradle,junit,true,false,,0,,,,,,,,,5046
+140376921,140376922,18,acdb15d6fe12ec25e5e0a15dba1c0f5c20db5588,java,ok,0,java-gradle,junit,true,false,,0,,,,,,,,,5046
+145859090,145859091,21,6bbe0a9167d383f186908bb657061ca98ded4a3e,java,ok,2,java-gradle,junit,true,false,,0,,,,,,,,,5082
+154663267,154663268,25,f635543679869365eb8ef0905c0b22f6e2afc020,java,ok,0,java-gradle,junit,true,false,,0,,,,,,,,,5177
+154701339,154701340,29,61ca9fc9842a44139a662a3ab4865aaedf5bca40,java,ok,0,java-gradle,junit,true,false,,0,,,,,,,,,5262
+132086893,132086894,3,bc6e873a5e74d9941a7027b883a9abec5fe472ba,java,ok,0,java-gradle,junit,true,false,,0,,,,,,,,,5014
+231496812,231496813,43,4f0cfaf75b6b97156854beb2d8b9c010920077cb,java,ok,0,java-gradle,junit,true,false,,0,,,,,,,,,5305
+242873759,242873760,55,90322a7339a524990ea5ea812359a66ef80763a7,java,ok,0,java-gradle,junit,true,false,,0,,,,,,,,,5420
+243848743,243848744,59,5e5440119d504c8a2d9bd1374b9a1e25ea02e2bf,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,5426
+243868841,243868842,62,840198f97c9c978cb1e3159eae7e798505181e5b,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,5446
+248657000,248657001,66,e7343fd15569df7121e8a9da715de57ccedca557,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,5490
+132087354,132087358,6,43b6b3ad17ff7a30eb4a25caf9f06d9bc84a76e5,java,ok,0,java-gradle,junit,true,false,,0,,,,,,,,,5014
+291052953,291052954,80,da85915b8ddff9a74041ee6f9c58bcba095a36c8,java,ok,0,java-gradle,junit,true,false,,0,,,,,,,,,5535

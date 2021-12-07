@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+1888823,1888824,100,d6e6d210d921e6f9ea7c5880e2b1d2292738e4dd,unknown,unknown,,plain,,false,,,,,,,,,,,,2459
+4674117,4674118,155,faef48ca976dad960d5036106753569564a610a7,ruby,unknown,,ruby,rspec#cucumber,true,false,407,0,407,0,,,,,10.76,,2871
+13743906,13743909,207,e0172cd52a96178a8134f9096a123bad90d2f436,ruby,ok,,ruby,rspec#cucumber,true,false,378,0,378,0,,,,,13.780000000000001,,2847
+21528759,21528763,252,9206099da4dd6b80b86f3244e27fbc8363b5b8d9,ruby,ok,,ruby,rspec,true,false,333,0,333,0,,,,,0.22,,2706
+46734683,46734687,290,6e563db9954c209c6d03df7239b61ce6fa1fca4a,ruby,ok,1,ruby,rspec,true,false,336,0,336,0,,,,,0.16,,2768
+72465209,72465234,319,30b0ac38370d22844196e23b7864f8507a1ab5a1,ruby,unknown,1,ruby,,false,,,0,,,,,,,,,2798
+79350815,79350838,327,946303926fd5c2776a2ac6c0c58a348ff0071284,ruby,ok,1,ruby,rspec,true,false,338,0,338,160,,,,,0.17,,2799
+115617567,115617576,339,17c9f3f54fa39122344291486284b860884ebd0c,ruby,unknown,1,ruby,,false,,,0,,,,,,,,,2856
+130278178,130278215,343,f5f5234cb2129d65bf72f11199882ed461c985d6,ruby,ok,1,ruby,rspec,true,false,345,0,345,103,,,,,12.64,,2856
+171269167,171269180,356,761b0d5152d9daec02e93796cb8031f47c6ca9ff,ruby,ok,1,ruby,rspec,true,false,347,0,347,135,,,,,0.31,,2933
+258784393,258784402,366,d870ffd7f11bd1f55ca2473763d0eebec6994362,ruby,ok,1,ruby,rspec,true,false,347,0,347,103,,,,,0.63,,2934
+284196649,284196662,377,f9600b5ed86751c6b7474806856e6a341e98e440,ruby,unknown,0,ruby,,false,,,0,,,,,,,,,2885
+285595701,285595704,395,a1496a9ec4adc55a59792f5ff404a4bf82f391be,ruby,ok,0,ruby,rspec,true,false,348,0,348,121,,,,,0.56,,2944
+664866,664868,44,548fab745caf3524839b65421944293e8b3fe983,unknown,unknown,,plain,,false,,,,,,,,,,,,2108

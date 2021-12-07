@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+73064607,73064608,100,74bb14f8cf19750300e8b33f4eedf1b7cdaa12d5,ruby,broken,0,ruby,testunit,true,true,73,1,74,0,,,,Cron,1.56,,1330
+10615603,10615606,11,1ba22c112c137a812006f89bfe042346479dc69f,ruby,broken,,ruby,,false,,,0,,,,,,,,,1105
+10747456,10747457,13,c99b8ba5b093be9eeebbc171e819869e75985f13,ruby,ok,,ruby,,false,,,0,,,,,,,,,1110
+97970407,97970410,159,93805572ea27441cdb00cca7ec22ae03d48a788c,ruby,ok,1,ruby,testunit,true,false,87,0,87,0,,,,,0.43,,1563
+181312883,181312891,198,1e59f4da68c9b0673320f3113e8bae70c2aeb485,unknown,unknown,,plain,,false,,,,,,,,,,,,1652
+12493494,12493497,24,f92fbfb9e155ee93698a2839a3163012fa808a48,ruby,broken,,ruby,,false,,,0,,,,,,,,,1167
+352346442,352346444,279,40f179f6aa87c7d52034b3cf781b80929e5d72a8,ruby,broken,1,ruby,testunit,true,true,48,46,94,0,,,,Cron#Cron#Cron#Cron#Cron#Perfromance#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron#Cron,25.17,,1766
+416291906,416291908,317,5f86d7461f74a3c12888558831a2d4fa358c56ff,ruby,ok,1,ruby,testunit,true,false,97,0,97,0,,,,,47.02,,1792
+480587452,480587456,336,8824572743ae8a44cb199e17fe47f8c44c59e41b,unknown,unknown,,plain,,false,,,,,,,,,,,,1860
+670572577,670572582,381,6b7efeaa74e3febee92ca06337360b63089aab73,ruby,ok,1,ruby,testunit,true,false,102,0,102,0,,,,,59.19,,1895
+25668227,25668230,53,3eb2221cc82147ab0447c6d4972c755b30821843,unknown,unknown,,plain,,false,,,,,,,,,,,,1195
+10601006,10601009,6,f9f76550e03edf529d8d5bee70fc5dacfdbfe19e,ruby,broken,,ruby,,false,,,0,,,,,,,,,1109
+10601432,10601435,7,762e0ec01cd6381adcac904cef62672d776caae0,ruby,broken,,ruby,,false,,,0,,,,,,,,,1103

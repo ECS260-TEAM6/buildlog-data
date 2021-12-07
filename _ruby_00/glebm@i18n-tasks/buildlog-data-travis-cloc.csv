@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+279114867,279114868,1002,ac56cf8b2f6d42e4afe80cd26e99508c2411607b,ruby,ok,0,ruby,rspec,true,false,152,0,152,1,,,,,49.36,,5848
+330597939,330597940,1023,532be0d36d3fcfffa788ec240080cd7fa5c79d88,ruby,ok,0,ruby,rspec,true,false,155,0,155,1,,,,,59.22,,5871
+407275819,407275820,1045,0f940e56008d09654fcfc63cfe05ca5e87c0b41f,ruby,ok,0,ruby,rspec,true,false,155,0,155,1,,,,,7.99,,5880
+411735847,411735848,1064,e64263f1a26db89e0ebb4e1ba1f6625671c7f3f1,ruby,ok,1,ruby,rspec,true,false,156,0,156,1,,,,,0.97,,6050
+428252749,428252751,1080,3582b9adf1218e19587fd005b406a9415d0a8c74,ruby,ok,1,ruby,rspec,true,false,155,0,155,2,,,,,47.91,,5974
+444982009,444982011,1099,99eb41390d3819eb99d04063d53d6365f295a61e,ruby,ok,1,ruby,rspec,true,false,155,0,155,2,,,,,51.85,,6029
+446668385,446668387,1119,27716c59da619b913f7f1632f010258cb84f7ec6,ruby,broken,0,ruby,rspec,true,false,159,0,159,2,,,,,3.02,,6176
+471858772,471858777,1147,b59b1fbe8719f639b320e9b0fc5ad1934ab7bf79,ruby,broken,1,ruby,rspec,true,true,124,39,163,3,,,,,15.21,,6239
+495615329,495615333,1157,23379c5b3d1d4fa06316b0014643094d3b12900e,ruby,ok,32,ruby,rspec,true,false,163,0,163,3,,,,,21.44,,6243
+585725265,585725266,1172,4fd3251f6096b5763becefbc93ed849e9c7a92bf,ruby,broken,5,ruby,rspec,true,true,163,1,164,2,,,,,6.57,,6274
+634906442,634906446,1182,0a15310d498092724718dfb072a8496b28f38d25,ruby,ok,31,ruby,rspec,true,false,164,0,164,3,,,,,20.82,,6260
+660485151,660485154,1199,6228a065941d21570ee642a3a4e7598e7fd5a74a,ruby,ok,5,ruby,rspec,true,false,164,0,164,2,,,,,5.15,,6309
+750826820,750826826,1222,e8b3cc66a848cfb56adacffaf271f0aca6db386b,ruby,unknown,27,ruby,,false,,,0,,,,,,,,,6395

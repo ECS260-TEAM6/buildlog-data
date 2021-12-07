@@ -1,0 +1,9 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+22235791,22235796,1,e78b353f3f54716cffe124efc0a53da907e74a2d,python,broken,,python,unittest,true,true,40,22,62,0,,,,Returns a dictionary listing all the functions on the class that,0.03,,774
+26421667,26421670,41,07466a5b773078c5b473d4a8b4529f7be529f054,python,ok,,python,unittest,true,false,66,0,66,0,,,,,0.07,,1340
+22236701,22236703,4,c11b4d523f75f46788e931f82a0f7a5f93b7a4df,python,ok,,python,unittest,true,false,62,0,62,0,,,,,0.02,,779
+22237164,22237168,6,cb5b9ecffc1978da30031cf10368103334c953d6,python,ok,,python,unittest,true,false,62,0,62,0,,,,,0.03,,780
+42303399,42303402,76,fafdda5ec945f19e225ecb3c1530272f82b98ebe,python,ok,0,python,unittest,true,false,69,0,69,0,,,,,0.06,,1431
+45378260,45378264,81,4a2555d8bb5c0a0a8fa44f1fac2d36ef0b5b20dd,python,ok,0,python,unittest,true,false,69,0,69,0,,,,,0.03,,1431
+49527514,49527515,87,adc040548415632b336e5ff854e1951401bbb235,python,ok,0,python,unittest,true,false,72,0,72,0,,,,,0.03,,1453
+65907535,65907542,91,adc040548415632b336e5ff854e1951401bbb235,python,ok,0,python,unittest,true,false,72,0,72,0,,,,,0.04,,1453

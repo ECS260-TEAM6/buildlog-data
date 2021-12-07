@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+7697623,7697624,100,237fe0f189624e7491fdf8722fc0b5ca0466248c,ruby,ok,,ruby,rspec,true,false,160,0,160,5,,,,,6.36,,2794
+39127153,39127154,198,c0685bbfecce3bf231bea9a29c241eb92b70938d,ruby,ok,,ruby,rspec,true,false,178,0,178,13,,,,,8.65,,3487
+41993497,41993498,229,e729cada99c8e106179ac91c880abf8f9d809f73,ruby,ok,0,ruby,rspec,true,false,183,0,183,11,,,,,11.3,,3914
+42597603,42597604,260,97a50f45d2bebe194e20c533de0c27f5970f3a83,ruby,ok,0,ruby,rspec,true,false,189,0,189,13,,,,,14.06,,4259
+43391268,43391269,286,e77265d0b6d3b17436213134dc91dce5209b8abe,ruby,ok,1,ruby,rspec,true,false,194,0,194,13,,,,,16.62,,4381
+43977449,43977450,320,b02bb1ea603e8d4aeaaf038e9c96b78a10707462,ruby,ok,0,ruby,rspec,true,false,194,0,194,13,,,,,10.16,,4410
+44135823,44135824,337,52118616a4323e27a5e0d2080067d6aaf483d1e9,ruby,ok,0,ruby,rspec,true,false,197,0,197,12,,,,,12.98,,4474
+44773619,44773621,353,3fcb46a4de234f9ddb3eb885d1f5ed897fa7c97e,ruby,broken,0,ruby,rspec,true,true,194,1,195,0,,,,,8.05,,4589
+46684053,46684054,380,4140df8ab180c17d96d84598e0f9b42e200a5c0b,ruby,broken,0,ruby,rspec,true,true,266,1,267,0,,,,,13.3,,4905
+50307170,50307171,411,ca5a5737e2242518181ad1c3a055fd7a4dc75d49,ruby,ok,0,ruby,rspec,true,false,275,0,275,1,,,,,18.6,,5030
+6456411,6456412,47,de46a9eaf67a5347e95982520ff97731f82e8bf0,ruby,ok,,ruby,rspec,true,false,121,0,121,3,,,,,30.45,,2256
+384533680,384533681,510,854cc1a9ff93e74d85e792d4163b4000940556b5,ruby,ok,0,ruby,rspec,true,false,302,0,302,1,,,,,10.43,,5453
+423541232,423541233,587,52df0f54a55a2380c181d3633a056f88ae2fb6bf,ruby,ok,1,ruby,rspec,true,false,286,0,286,1,,,,,8.22,,5227
+719488858,719488859,672,0024f335ad34eb2a9931fa8708944c12b00f9923,ruby,ok,5,ruby,rspec,true,false,492,0,492,0,,,,,11.29,,9201
+727925546,727925547,709,95bcf1bb97ad7f9cfc072808a21f457f377ed439,ruby,ok,5,ruby,rspec,true,false,507,0,507,0,,,,,13.46,,9806
+741556475,741556476,750,e1318ef88d35fbe1614a73bc4fde265cb464ed0c,ruby,ok,5,ruby,rspec,true,false,510,0,510,0,,,,,12.44,,10288

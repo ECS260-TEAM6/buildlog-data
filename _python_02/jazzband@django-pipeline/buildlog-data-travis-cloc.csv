@@ -1,0 +1,13 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+575490961,575490964,1000,3cd2f93bb47bf8d34447e13ff691f7027e7b07a2,python,ok,8,python,unittest,true,false,96,0,96,0,,,,,8.87,,2717
+627504749,627504762,1014,3086bde1cc34040a04f036087a54488ab8adfcbf,python,broken,5,python,,false,,,,,,,,,,,,2707
+630287642,630287650,1028,15b4eb64c1f7cf504a5802bb5f83ac205a5623eb,python,ok,5,python,unittest,true,false,99,0,99,0,,,,,7.68,,2742
+653890239,653890249,1038,95418a993293ee06702e0809a9e6ef5c13458d33,python,ok,6,python,unittest,true,false,99,0,99,0,,,,,8.73,,2742
+665585124,665585155,1041,2a942cd9fd3645c2cbc542fe4311b579cd979f46,python,broken,6,python,,true,true,0,0,0,0,,,,py36-django-master: commands failed,0,,2742
+686610584,686610593,1049,07cfee8ba6ea4c87cd0d9c15e76c7f6d79cf981e,python,ok,6,python,,false,,,,,,,,,,,,2647
+690156946,690156959,1053,83b9de6469beafe949fe332a6e7ea192dfe05c51,python,broken,5,python,,true,true,0,0,0,0,,,,py37-django-master: commands failed,0,,2649
+690309735,690309736,1058,07cfee8ba6ea4c87cd0d9c15e76c7f6d79cf981e,python,ok,5,python,unittest,true,false,99,0,99,0,,,,,20.09,,2647
+692647235,692647238,1069,d767ac3661363785c54468fb64a14c980159fea7,python,ok,7,python,unittest,true,false,99,0,99,0,,,,,8.9,,2662
+710862664,710862669,1073,ce19344ef414770753b2d8ae310e6d778dc3599e,python,ok,6,python,unittest,true,false,100,0,100,0,,,,,23.95,,2666
+718433178,718433181,1079,f00418175dda800460d4afbe09ae9d6c2769aa6e,python,ok,7,python,unittest,true,false,100,0,100,0,,,,,9.51,,2675
+738119987,738120006,1087,f00418175dda800460d4afbe09ae9d6c2769aa6e,python,ok,7,python,unittest,true,false,100,0,100,0,,,,,9.2,,2675

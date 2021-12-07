@@ -1,0 +1,7 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+20067867,20067868,12,fe5424c516f37c5f743ea1cdddd71e3d243a0f71,python,ok,,python,unittest,true,false,5,0,5,0,,,,,0.93,,390
+46471585,46471587,23,82392136b5f5617c51ba8d7b44a6759bce6f8020,python,ok,0,python,unittest,true,false,5,0,5,0,,,,,0.83,,432
+161747296,161747299,42,90031edb390072e53ad70aaa58e9c9648186cf35,python,broken,1,python,unittest,true,true,7,1,8,0,,,,InvocationError: could not find executable 'pip6:'#InvocationError: could not find executable 'pip7:'#InvocationError: could not find executable 'pip8:'#test_requirements_txt_with_aggressive_normalization,2.66,,566
+212711918,212711919,49,6f24cec93344fdc133e97ead5f81224e7eb4a249,python,ok,1,python,unittest,true,false,8,0,8,0,,,,,2.85,,580
+453484706,453484707,70,7d0d09f3db7f4ed91a24ae0973203e41484d63b0,python,ok,0,python,unittest,true,false,8,0,8,0,,,,,1.71,,601
+590926982,590926987,89,19abe52e7f63b2f9555907407bd88eeaa27fe783,python,ok,1,python,unittest,true,false,8,0,8,0,,,,,2.99,,602

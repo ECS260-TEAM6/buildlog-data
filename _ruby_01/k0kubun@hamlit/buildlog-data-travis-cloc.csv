@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+463170793,463170802,1135,34797159a2d033244f069bc5fa1c261507772945,ruby,ok,1,ruby,,false,,,0,,,,,,,,,10735
+502425375,502425387,1234,f9951f02dccd3a921552850b4bf9be76a91ff2de,ruby,ok,1,ruby,,false,,,0,,,,,,,,,10735
+522942180,522942201,1284,94b14839cd42e8b70715ba7c0caf18c2c47ec67a,ruby,ok,1,ruby,,false,,,0,,,,,,,,,10736
+544092368,544092370,1334,94b14839cd42e8b70715ba7c0caf18c2c47ec67a,ruby,ok,2,ruby,testunit,true,false,1066,0,1066,204,,,,,2.59,,10736
+564862776,564862786,1383,05fcd8c848e8c463c87ba70c956fef30d44f595b,ruby,ok,1,ruby,,false,,,0,,,,,,,,,10736
+579398490,579398495,1433,12ebfb52cbe009e37f7bb1df7a98e286aca1a9eb,ruby,ok,1,ruby,testunit,true,false,1058,0,1058,208,,,,,11.43,,10739
+587787086,587787087,1480,4a1dd7807f38d1d94205d96e22b1abcfedd886a1,ruby,ok,1,ruby,testunit,true,false,1079,0,1079,204,,,,,2.9,,10851
+608083782,608083784,1526,4a1dd7807f38d1d94205d96e22b1abcfedd886a1,ruby,broken,1,ruby,testunit,true,true,1078,2,1080,204,,,,,2.64,,10851
+625584286,625584289,1572,e7a6685178aac95fabc525a9bee65647748c9345,ruby,ok,1,ruby,testunit,true,false,1080,0,1080,203,,,,,2.2,,10859
+641276491,641276505,1615,ad83da5156ce9484ebe59f08ba6c37ae9154c746,ruby,ok,1,ruby,,false,,,0,,,,,,,,,10859
+659487683,659487706,1658,ad83da5156ce9484ebe59f08ba6c37ae9154c746,ruby,ok,1,ruby,,false,,,0,,,,,,,,,10859
+676873012,676873026,1701,ad83da5156ce9484ebe59f08ba6c37ae9154c746,ruby,ok,1,ruby,,false,,,0,,,,,,,,,10859
+693455587,693455609,1744,ad83da5156ce9484ebe59f08ba6c37ae9154c746,ruby,ok,1,ruby,,false,,,0,,,,,,,,,10859
+707994607,707994639,1787,ad83da5156ce9484ebe59f08ba6c37ae9154c746,ruby,ok,1,ruby,,false,,,0,,,,,,,,,10859
+721213050,721213064,1830,8ed9bc622c06c09a23f2dfe71a72200a9698d27e,ruby,ok,1,ruby,,false,,,0,,,,,,,,,10952
+744199059,744199076,1955,dd922d1a5d65f86dc4a2cc0fbcb9c776ba40f11c,ruby,ok,1,ruby,,false,,,0,,,,,,,,,10712

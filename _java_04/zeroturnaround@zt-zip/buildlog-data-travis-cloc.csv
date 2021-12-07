@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+45331828,45331829,100,1abe49ebfef2073cd9004af83a1e7d902bf44f49,java,ok,0,java-maven,junit,true,false,96,0,96,0,,,,,1.58,,5674
+65544041,65544042,110,824c954f31ba6211f27bdf6b575e3fae047db136,java,ok,0,java-maven,junit,true,false,101,0,101,0,,,,,1.9100000000000001,,5841
+82133381,82133382,123,28ab0134871ecf7eba1be80050504afe03379dbb,java,ok,1,java-maven,junit,true,false,104,0,104,0,,,,,1.57,,6044
+93901206,93901214,136,5a8bb72cb2d94c9e51e2ebbfb5aeaf6d5c2d1588,java,ok,1,java-maven,junit,true,false,105,0,105,0,,,,,2.0999999999999996,,6044
+171328130,171328131,188,7e39f2576f980ffb7b637fb46da09318fe1c63af,java,ok,1,java-maven,junit,true,false,112,0,112,0,,,,,1.7500000000000002,,6519
+6854914,6854916,1,148f03b37c13fe22af0c4cf14f47094c8d4453a8,java,ok,,java-maven,junit,true,false,32,0,32,0,,,,,0.75,,2112
+370655097,370655098,222,efa56f1af9facba60a1ffe78aa7e614aac82f305,java,ok,1,java-maven,junit,true,false,117,0,117,0,,,,,2.03,,6650
+467971190,467971191,256,cbfc0f8daded110d6b4e53f738e86df688850a1c,java,ok,2,java-ant,,false,,,,,,,,,,,3.92,6827
+10164436,10164439,26,c4c35d8a4b94f05186f242c980bfe852db8a8307,java,ok,,java-maven,junit,true,false,70,0,70,0,,,,,0.8599999999999999,,3427
+727965875,727965877,286,01f2dcb408a039f982386a6a5128df017673ca68,java,broken,1,java-ant,,false,,,,,,,,,,,3.97,6840
+14504932,14504935,38,af5b11a4967b6b94c6401ca815acd7252a90f5f1,java,ok,,java-maven,junit,true,false,72,0,72,0,,,,,0.61,,3497
+16706380,16706381,51,468138f1598c5531409d394b585c400a3a94c014,java,ok,,java-maven,junit,true,false,156,0,156,0,,,,,3.7399999999999993,,3808
+19405096,19405100,61,aec053929688db33d29784f0c2ad780b729afeaa,java,broken,,java-maven,junit,true,true,79,3,82,0,,,,testZipFileGetEntriesWithCharset(org.zeroturnaround.zip.UmlautTest)#testIterateWithCharset(org.zeroturnaround.zip.UmlautTest)#testIterateWithEntryNamesAndCharset(org.zeroturnaround.zip.UmlautTest)#,1.5300000000000002,,3919
+28526557,28526561,71,19b050d0b13bc7ef23ee6f31eba5ca4a844f9b43,java,broken,,java-maven,junit,true,true,88,1,89,0,,,,testCharsetEntry(org.zeroturnaround.zip.ZipsTest)#,1.98,,4060
+29398731,29398735,85,d2cbf211db5000fbc15bee78faea7bc1ad3e023e,java,ok,,java-maven,junit,true,false,92,0,92,0,,,,,1.85,,4774

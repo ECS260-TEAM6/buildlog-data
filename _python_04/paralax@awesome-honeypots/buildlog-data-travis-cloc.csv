@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+522330718,522330719,100,19c5b4d3a01da19632e4374957f593d1382deb4c,ruby,broken,1,ruby,,false,,,0,,,,,,,,,16
+563568060,563568061,106,e237ccc53a2d5060976bee8f184a5a2ac9daceab,unknown,unknown,,plain,,false,,,,,,,,,,,,16
+599603015,599603016,111,51efd59cc569bf4d7ad6660dd7c833d8c6856bfc,ruby,broken,1,ruby,,false,,,0,,,,,,,,,16
+722746820,722746821,117,e4e7b88cd82e5407fb0cf2343162334f3727cdcf,ruby,broken,0,ruby,,false,,,0,,,,,,,,,16
+296466847,296466850,16,0bdf576eb868b8e383853e99238abb3cffa995f6,ruby,broken,3,ruby,,false,,,0,,,,,,,,,16
+309512758,309512759,21,caaf233e6b55cca893f705877ef504ca5b89e065,ruby,ok,0,ruby,,false,,,0,,,,,,,,,16
+338525094,338525095,27,b2394c106d0e3d312846fd3cfae83387a46c6dee,ruby,broken,0,ruby,,false,,,0,,,,,,,,,16
+365109171,365109172,39,f9a6a056b585f092c4c732bfe6e1b9d586ff1aed,ruby,ok,1,ruby,,false,,,0,,,,,,,,,16
+372710484,372710485,44,c54b8e3ba882b7e4b9af24fe1bb954366d487715,ruby,broken,0,ruby,,false,,,0,,,,,,,,,16
+387900066,387900067,51,2f9647627c65648e08c78899263fc54bdbbc7fa0,ruby,broken,1,ruby,,false,,,0,,,,,,,,,16
+387923820,387923821,57,b1859e1b58f3b1442f182a10505e0dae3fe87941,ruby,ok,0,ruby,,false,,,0,,,,,,,,,16
+399563629,399563632,62,92b6e64d38d0805e3fd27937622479e81feb5b07,ruby,ok,0,ruby,,false,,,0,,,,,,,,,16
+400555632,400555633,68,663dfbe6ab4a0181019c58486f994670fe5f582e,ruby,ok,2,ruby,,false,,,0,,,,,,,,,16
+410493034,410493035,79,2fd654a266990dabbac384669858b660e6494a7f,ruby,broken,0,ruby,,false,,,0,,,,,,,,,16
+423971372,423971373,84,2b73cf73ee16b225f7f575e68f74c6afb6464c1d,ruby,broken,0,ruby,,false,,,0,,,,,,,,,16
+259407557,259407558,8,5f5e794d0258defe9e830084630aa96d5da6d680,ruby,ok,1,ruby,,false,,,0,,,,,,,,,16

@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+29339049,29339050,101,217bad8aaf8b3a974941af31353d1d8d01e4db18,java,ok,,java-maven,,false,,,,,,,,,,0,,5214
+30364967,30364969,113,9d4477547e5ada6980ad07f43ed0451544b8b012,java,unknown,,java-ant,,false,,,,,,,,,,,,5264
+15119597,15119598,12,8333293ab669abc353aa28210ae0448c55ede71d,java,ok,,java-maven,junit,true,false,24,0,24,0,,,,,65.99,,4052
+38307341,38307342,153,8d9cfad063cca48e22275694032d79d3f418cee0,java,ok,,java-ant,junit,true,false,19,0,19,0,,,,,53.0,69,13313
+44915502,44915503,191,965d996fc42a6858306a6161bb1b8f0116770196,java,ok,0,java-ant,junit,true,false,19,0,19,0,,,,,45.87,55.07,13378
+54131894,54131895,226,b0ea78a715514748ae8db2766c36624858894087,java,ok,0,java-ant,junit,true,false,19,0,19,0,,,,,55.64,63,13472
+66111583,66111585,244,de7ffaa4d92496e22e947eb1700b1d19d65dae73,java,ok,1,java-ant,junit,true,false,19,0,19,0,,,,,151.95,161,11697
+72510944,72510946,261,43d1ff982cc24463130bf0fce6d59b5795523524,java,ok,0,java-ant,junit,true,false,19,0,19,0,,,,,132.67,140,10897
+98412952,98412953,326,3a3b240e30d6bb3bd7777f13e0af1684c5fe6654,java,ok,1,java-ant,junit,true,false,19,0,19,0,,,,,82.86,98,9216
+121914900,121914901,355,82547048c9409e3bcb4ca159611ee9edac80d637,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,9056
+18011729,18011730,39,d4f6bc12e6d31174ddfbf1091127c79981508e4d,java,ok,,java-maven,junit,true,false,29,0,29,0,,,,,139.97,,5962
+24888185,24888187,56,9de2af7b1fef447bd0220ba0ede461c7343d8398,java,unknown,,java-ant,,false,,,,,,,,,,,,4639
+25493554,25493555,68,bb23da55f17e36153de8569afb292125e3fd6920,java,ok,,java-maven,,false,,,,,,,,,,0,,5026
+26255892,26255893,80,cf341a99723ebf007f567738e046f99624f467cf,java,unknown,,java-ant,,false,,,,,,,,,,,,5048

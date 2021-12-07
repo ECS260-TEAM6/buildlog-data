@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+52573908,52573910,103,34356a5204aee8e09d72eee1ce3966dc3347d851,ruby,ok,0,ruby,rspec,true,false,11,0,11,0,,,,,11.52,,336
+52672493,52672496,113,c2bdbd6c506f3d13d7893c0c3696191ad98d0370,ruby,ok,0,ruby,rspec,true,false,11,0,11,0,,,,,9.95,,316
+27747488,27747489,11,e4970c0f66dc9e828c9881bb923b1e4df8cec66b,ruby,ok,,ruby,rspec,true,false,5,0,5,0,,,,,10.16,,243
+414158850,414158851,145,3aadff9e20ab7e91efdfded3b9a198fc13573820,unknown,unknown,,plain,,false,,,,,,,,,,,,334
+417377251,417377252,157,d55005d34b5f267effef2f771485a0600e701958,ruby,ok,1,ruby,rspec,true,false,18,0,18,0,,,,,13.68,,386
+28198469,28198470,23,008313454244c5a6bad8d5e4973871bece09fb67,ruby,ok,,ruby,rspec,true,false,8,0,8,0,,,,,11.66,,252
+28263934,28263935,37,cc5c9f1b1c79b375a8c6c3c7ce84b14d0e302044,ruby,broken,,ruby,,true,false,,0,,,,,,,,,267
+27712886,27712887,4,12b576fdb1daec070c1af113c6504cddf6607744,unknown,unknown,,plain,,false,,,,,,,,,,,,209
+48563714,48563715,64,59d0730714ffacca7123d979321991b3e8dad87a,ruby,unknown,0,ruby,,false,,,0,,,,,,,,,282
+48565892,48565897,70,37472add11a7cd9cd7528bd801e5f5210fbd7f91,ruby,ok,0,ruby,rspec,true,false,9,0,9,0,,,,,9.02,,282
+49121118,49121120,78,b46b5159654e6d8f5cc009b10a13ee10766c1a51,ruby,ok,0,ruby,rspec,true,false,9,0,9,0,,,,,9.5,,296
+49249880,49249881,81,fdce30e9ffa9c684d24e1668d33cb4896fdb9609,ruby,ok,0,ruby,rspec,true,false,9,0,9,0,,,,,10.66,,296
+49262277,49262279,84,7737d0882f187e6ed85ecd8377b677730722ddec,ruby,ok,0,ruby,rspec,true,false,9,0,9,0,,,,,9.39,,303
+51023570,51023573,90,dcd847f74ca37a374dd621da37109b1b3bd427d5,ruby,ok,0,ruby,rspec,true,false,9,0,9,0,,,,,6.48,,303

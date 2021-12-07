@@ -1,0 +1,6 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+717172747,717172748,7704,b6922084efae3519f590c4489caad28f01d7283a,java,ok,1,java-maven,junit,true,false,3878,0,3878,14,,,,,65.36,488,52886
+721237738,721237739,7751,80a9220a94d3eebd8feefba7ac0849b7d2996266,java,unknown,1,java-maven,junit,true,false,3878,0,3878,14,,,,,63.52,478,52886
+722980381,722980382,7776,8c7a131e269367a77d8acc30bd34d3a81b4e8dcc,java,unknown,1,java-maven,junit,true,false,3884,0,3884,14,,,,,63.150000000000006,469,53005
+724545291,724545292,7791,d214f2aa43594b6ae550151f52e55d4d28c783f6,java,unknown,1,java-maven,junit,true,false,3884,0,3884,14,,,,,64.28,471,53005
+726989891,726989892,7809,4e467e6f4de50dab897586727627e02ef0793788,java,unknown,1,java-maven,junit,true,false,3884,0,3884,14,,,,,66.33,510,53005
