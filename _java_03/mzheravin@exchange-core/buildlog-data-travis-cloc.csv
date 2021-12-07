@@ -1,0 +1,12 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+615465568,615465569,133,32d0cb999af4e4bffc7f2ebb456be2570a710219,java,ok,1,java-ant,,false,,,,,,,,,,,40.31,9285
+462200724,462200726,15,d4182d344b29bdec0cf6dcf311088690136d8130,java,ok,4,java-ant,,false,,,,,,,,,,,35.36,8989
+628497883,628497884,169,6a5efbb17c4c10ae08c5b89fd76d5cbc1a131c62,java,ok,1,java-ant,,false,,,,,,,,,,,49.92,13090
+639239783,639239784,201,0bb94617cfee91e5ae48fd428a2e0213cc5aaab6,java,ok,1,java-ant,,false,,,,,,,,,,,78,12766
+662714160,662714161,213,3da43401f1cd58a431dd4095fc1119d93e82aec1,java,ok,1,java-ant,,false,,,,,,,,,,,87,13816
+462553124,462553125,23,8d2a8f066ee95e286110bacb66f1273aa490fba3,java,ok,0,java-ant,,false,,,,,,,,,,,32.77,9010
+446361557,446361558,2,bffb63196266c3350b6f6c53a5edfb5d74466028,java,ok,0,java-ant,,false,,,,,,,,,,,35.32,8905
+513440609,513440610,44,1e797a35263cb9aea6709c050487be0ca38f2646,java,ok,1,java-ant,,false,,,,,,,,,,,34.88,5384
+528310609,528310610,66,23ecc7b0dae5c951d9a0b131d43a2863828ae6b2,java,ok,1,java-ant,,false,,,,,,,,,,,35.76,5580
+543246381,543246382,76,6b711fcb53b7997a6bc0ada073d180697a382e7b,java,ok,1,java-ant,,false,,,,,,,,,,,39.84,6832
+549458635,549458636,89,aaf1c68d2aaf6a6618e80695bc76a9a299184960,java,ok,1,java-ant,,false,,,,,,,,,,,35.41,7034

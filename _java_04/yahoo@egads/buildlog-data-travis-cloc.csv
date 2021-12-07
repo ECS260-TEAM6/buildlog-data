@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+119625393,119625394,10,adf94d0129dd013fdee516971df335208256f02b,java,ok,0,java-maven,junit,true,false,21,0,21,0,,,,,7.91,,5319
+171253364,171253365,14,595e9cf871000279146b71015a5ff138e3d026e2,java,ok,0,java-maven,junit,true,false,21,0,21,0,,,,,8.61,,5319
+215770058,215770059,18,c5fa8fdafd6da487c54b0ef8c1e9e678974a7761,java,ok,0,java-maven,junit,true,false,21,0,21,0,,,,,3.51,,5319
+95478903,95478904,1,821e01ba3e99fd0028aa2160a8521ed1d5ca3178,java,unknown,1,java-ant,,false,,,,,,,,,,,,5293
+220336064,220336065,21,c850d623b027d7fd11d1061cda600cf327438d48,java,ok,1,java-maven,junit,true,false,42,0,42,0,,,,,4.96,,6915
+220428674,220428675,23,3fee94280d5f02f387736ca7a0d36b717a57ff15,java,ok,0,java-maven,junit,true,false,42,0,42,0,,,,,3.78,,6915
+220433720,220433721,25,f28be6505566faaab848094f780c9815532ed1c1,java,ok,0,java-maven,junit,true,false,42,0,42,0,,,,,4.82,,6915
+266066240,266066241,29,b401dcf94327f795538175b96eed4848553a6897,java,ok,1,java-maven,junit,true,false,45,0,45,0,,,,,5.29,,7007
+269727942,269727943,30,c7f8b5b535db16be1278ceddb7628e8b99324688,java,ok,1,java-maven,junit,true,false,45,0,45,0,,,,,4.43,,7007
+308714515,308714518,34,89830921dc7c2c15ea26c699dffdd6b5a630f175,java,ok,0,java-maven,junit,true,false,45,0,45,0,,,,,4.0,,7028
+95479867,95479868,3,b3ae5360c209282d0079abf8ea58ed27b8c3721d,java,ok,3,java-maven,junit,true,false,19,0,19,0,,,,,7.52,,5293
+624886311,624886312,43,692ec4e3b92b5057327dbb0bc5ac1093e5e31cfb,java,ok,1,java-maven,junit,true,false,45,0,45,0,,,,,4.43,,7067
+624887196,624887197,45,2d5604708233aa8647cf524bd04db5f7e09d9fe1,java,ok,1,java-maven,junit,true,false,45,0,45,0,,,,,4.94,,7067

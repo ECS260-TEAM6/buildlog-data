@@ -1,0 +1,8 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+569233151,569233152,100,4d3c8fb6c47ef56098e8bef41fd2476a3e3dede5,go,ok,1,go,gotest,true,false,83,0,83,0,3,3,0,,23.499999999999993,,5550
+587420253,587420255,195,71093bbe1b77023eddb82437e424ec8a6c1a76d3,go,unknown,0,go,gotest,true,false,118,0,118,0,3,3,0,,30.159999999999993,,9123
+610460864,610460866,235,2221d3307a2fcd159eaceeca90c5e2c4e360979c,go,unknown,1,go,gotest,true,false,132,0,132,0,3,3,0,,36.42999999999999,,10791
+654855425,654855426,356,c516780289509513f62fda88f081caf6348aed92,go,broken,1,go,gotest,true,true,214,2,216,0,2,1,1,TestLoginInvalidFs#github.com/drakkan/sftpgo/sftpd,77.04000000000008,,20584
+659519285,659519289,397,4fe51f7ccef11c1ab7edeeafe156cab12b8c4c4a,go,unknown,1,go,gotest,true,false,223,0,223,0,3,3,0,,43.74,,21484
+684021824,684021833,473,0c6e2b566bde66413da743b70feaf30e56aed152,go,unknown,1,go,gotest,true,false,458,0,458,0,6,6,0,,104.83000000000003,,21641
+699078302,699078304,505,3ceba7a147b6bbd557fa5fc053e151bf10980b49,go,ok,1,go,gotest,true,false,267,0,267,0,3,3,0,,61.26000000000005,,28044

@@ -1,0 +1,6 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+112788145,112788146,15,a12c1316b7fe2be7695d9c83cacb4f866e1b6500,clojure,broken,1,plain,,false,,,,,,,,,,,,5986
+113025790,113025792,19,0de3bf530ae2ea5789e2e4d558cff4fe4681e9df,clojure,ok,1,plain,,false,,,,,,,,,,,,5986
+113041248,113041249,24,3d0c7f08234b09cc883d35690c9cc67d0686401d,clojure,broken,1,plain,,false,,,,,,,,,,,,5988
+113045538,113045539,26,48cfe99aa7558a230b164550c5b55b803cea0b2c,clojure,ok,1,plain,,false,,,,,,,,,,,,5988
+113347171,113347172,36,17ba342623a379fd3465ef72dad64e778b25482c,clojure,ok,1,plain,,false,,,,,,,,,,,,5992

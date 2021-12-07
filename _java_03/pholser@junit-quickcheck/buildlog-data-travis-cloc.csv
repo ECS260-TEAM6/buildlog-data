@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+162846588,162846589,100,3ffe40bedea443f4d3c962e3b98e717eb8c5ebc7,java,ok,9,java-maven,junit,true,false,910,0,910,1,,,,,65.31999999999995,87,18727
+178708873,178708874,130,6f08e7959e4188422c135ecf6ed6350ad4192726,unknown,unknown,,plain,,false,,,,,,,,,,,,18817
+200502926,200502927,171,ad2e9f9e1eb9461f1804cf01891149df87b770f5,java,ok,26,java-maven,junit,true,false,922,0,922,1,,,,,58.86999999999999,82,20100
+227785054,227785055,206,b79bcc63624afa5e47bc37ea5e6c7bda6fc3f9d8,java,ok,23,java-maven,junit,true,false,926,0,926,1,,,,,63.219999999999985,88,20226
+293839994,293839995,289,ec20bcb44b08bb1f44e229a30951060f1fd23eda,java,ok,24,java-maven,junit,true,false,1042,0,1042,2,,,,,66.02999999999999,,23073
+536293993,536293994,418,ce52790e5a0874ca8735ce2ec2f57e49fd3bae52,java,ok,5,java-maven,junit,true,false,1096,0,1096,3,,,,,70.55999999999992,,25498
+142564484,142564488,48,f33345e70ecc5baff50e75b99030d399a48a3e12,java,ok,24,java-maven,junit,true,false,897,0,897,3,,,,,49.629999999999924,74,18328
+734386314,734386316,547,1524129e222dd9d56cabcc8aff814f51a8c54046,java,ok,12,java-ant,,false,,,,,,,,,,,104,27382
+745147390,745147392,567,a238b138561bd7e613d95f434da3286d74bc550c,unknown,unknown,,plain,,false,,,,,,,,,,,,28441
+748563516,748563519,576,e0e8aa7e2a3cf433320b9b976dbac762e8f4ee58,unknown,unknown,,plain,,false,,,,,,,,,,,,28451
+749827457,749827459,586,f5564b549d12539bcfa2d61e86f30ec000483d20,java,broken,15,java-ant,,false,,,,,,,,,,,59.22,28488
+757095403,757095404,596,c14ad5ccc244ed2ea744e9b2ffd32038b96e7629,java,broken,13,java-ant,,false,,,,,,,,,,,44.61,28489
+757637769,757637772,610,e12d4d399344a2b3411c209a468490d3720fd973,unknown,unknown,,plain,,false,,,,,,,,,,,,28502
+758150134,758150136,626,470d5473d891ee82a07c167c83707d304f881cfd,unknown,unknown,,plain,,false,,,,,,,,,,,,28502
+759521975,759521976,641,75ff5b3be506bb422ec260482f7bb4504a3442ea,unknown,unknown,,plain,,false,,,,,,,,,,,,28502

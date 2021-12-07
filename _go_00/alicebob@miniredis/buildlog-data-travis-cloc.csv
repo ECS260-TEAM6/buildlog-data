@@ -1,0 +1,7 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+134436450,134436451,100,6d8723bb1840a0348dbceb64824de7624a0538b3,go,ok,0,go,gotest,true,false,0,0,,0,1,1,0,,0.1,,10137
+34712076,34712077,1,86703607ecbde515e7076bbdd6624b74ea1d41fc,unknown,broken,,plain,,false,,,,,,,,,,,,2383
+563029516,563029517,352,278e5f13242369add0aab70889b0b167dbf18adb,go,broken,1,go,gotest,true,true,0,1,,0,4,4,0,github.com/alicebob/miniredis/integration,607.4,,17186
+623584063,623584065,432,fe15c5ec764fc876ae96cd5ac9633c9322d75e19,go,ok,1,go,gotest,true,false,0,0,,0,5,5,0,,17.92,,19915
+739513798,739513799,706,f8e53b60a3a4de054a404c785a2aac15467f6ef2,go,ok,2,go,gotest,true,false,0,0,,0,7,7,0,,17.240000000000002,,26206
+759309625,759309629,728,d3406422b4de888081d6d1be88b45cd9cc2aa6b7,go,ok,1,go,gotest,true,false,0,0,,0,7,7,0,,16.1,,26279

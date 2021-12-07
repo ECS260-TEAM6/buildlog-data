@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+481755450,481755451,10,8adc1cda5c52bfe60d167d636ed35054b9a0dbc8,android,ok,7,plain,,false,,,,,,,,,,,,19592
+481756163,481756164,11,8239767718d6bebbf1408fb99ac51c4ae3b1730e,android,ok,6,plain,,false,,,,,,,,,,,,19592
+528475206,528475207,131,5486e3350c78fc7e9b41682251ce84905482c55e,android,broken,8,plain,,false,,,,,,,,,,,,18315
+536497543,536497544,140,90aed83e5de14836ca8ecba23a331bf251f2304d,android,broken,8,plain,,false,,,,,,,,,,,,18315
+483538157,483538158,14,1a3657a8f9f04394bb23cd6a69ceec7cfd069749,android,broken,6,plain,,false,,,,,,,,,,,,19608
+485091329,485091331,15,44694103ce30e2d31491b441fc95eb8af62a44be,android,broken,7,plain,,false,,,,,,,,,,,,19608
+485126982,485126983,16,c95d06f60e99dafc1b54d32c697f566061e3b40a,android,broken,12,plain,,false,,,,,,,,,,,,19611
+485134366,485134367,17,c95d06f60e99dafc1b54d32c697f566061e3b40a,android,broken,6,plain,,false,,,,,,,,,,,,19611
+550129829,550129830,191,818c17e91065f1c40960bd79482e7b3fffbeb99a,android,unknown,8,plain,,false,,,,,,,,,,,,18387
+486148345,486148346,20,e29816a91667052623b8da17bf51919a594a2bda,android,broken,7,plain,,false,,,,,,,,,,,,19611
+487899336,487899337,28,4723c86ea5ba41f1ccf5529615f041c6e7ee34a5,android,broken,7,plain,,false,,,,,,,,,,,,19611
+491089190,491089191,40,400951f6d82ba6a6a36e6f06c8e28385f446e309,android,ok,6,plain,,false,,,,,,,,,,,,19616
+481567194,481567196,4,6169a40f6fab96c156fb92d21dcc7c98eb1541d7,android,unknown,12,plain,,false,,,,,,,,,,,,19592
+481596992,481596993,5,b37ca06288bcaf75e7577a9899e94ee33fb6a490,android,unknown,12,plain,,false,,,,,,,,,,,,19592
+497620827,497620828,78,25507653bffd6a6447aff6bb914dfe0e4e29b74c,android,ok,8,plain,,false,,,,,,,,,,,,19515
+509864702,509864703,89,2818780d9d981dc748a1f6f61fb51745fd44b144,android,ok,6,plain,,false,,,,,,,,,,,,19515

@@ -1,0 +1,10 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+62149786,62149789,101,8304c5934db5ce83afd4aa118dd804257c0100dd,clojure,ok,1,plain,,false,,,,,,,,,,,,36788
+62429582,62429583,134,811b813613f15d3fe0f5866b78eaa22bda91a32f,clojure,ok,1,plain,,false,,,,,,,,,,,,36843
+62533331,62533332,147,65786665f2fdfdb842b147ee3261853fdb368f6a,clojure,ok,1,plain,,false,,,,,,,,,,,,36850
+59924084,59924085,17,d56742bd82c2aef965673cee7b0bb8507c256296,clojure,ok,1,plain,,false,,,,,,,,,,,,36788
+59991593,59991594,19,e3d27febdbecf9b24f16d80d7c213ca189c09c74,clojure,ok,2,plain,,false,,,,,,,,,,,,36788
+71070310,71070311,217,a85922f9a38fcc4fc0751b85d3e156f07d4f2727,clojure,broken,1,plain,,false,,,,,,,,,,,,36933
+60113285,60113286,33,df0fc8b40552be4d443464e86bd14cade185be9b,clojure,ok,1,plain,,false,,,,,,,,,,,,36788
+60557009,60557015,44,3811806d73bb655a4e99facb12e9e370f189025a,clojure,ok,1,plain,,false,,,,,,,,,,,,36788
+61464391,61464392,68,f3d7daba462b8f6c8805f6e316f7bffc069cbf6a,clojure,ok,1,plain,,false,,,,,,,,,,,,36788

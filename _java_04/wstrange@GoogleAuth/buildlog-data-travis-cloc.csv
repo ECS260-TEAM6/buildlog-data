@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+670808864,670808865,100,d6dfa1191137aa6c9bf7398058830eaf8ee5eb01,java,ok,0,java-ant,,false,,,,,,,,,,,3.48,1060
+729673977,729673978,107,5cc0970ed6a269468c5552bbe0268c64012fae8b,java,ok,1,java-ant,,false,,,,,,,,,,,3.12,1093
+130547705,130547706,18,93b9b8865e7aa81e2a0394d9af5e1ad5fda24519,java,ok,0,java-maven,junit,true,false,7,0,7,0,,,,,0.34,,718
+130548144,130548146,21,4fcfa2841c937c443f0b0140864f4d3dd32de75d,java,ok,0,java-maven,junit,true,false,7,0,7,0,,,,,0.34,,718
+143213455,143213457,32,a3bfdeacb2f43255af226a1019d4e060b9efeec4,java,ok,0,java-maven,junit,true,false,8,0,8,0,,,,,0.34,,767
+265933088,265933090,40,5a10a299bfe79baed3e297de74f0f71af926d864,java,ok,0,java-maven,junit,true,false,10,0,10,0,,,,,0.26,,821
+274518885,274518886,46,743645759f7322c49a00f71325065212080042df,java,unknown,1,java-gradle,,false,,,0,,,,,,,,,821
+297667519,297667523,48,fc6ad95fee25cf863bd6f377a99e6e6b86913f60,java,ok,1,java-maven,junit,true,false,10,0,10,0,,,,,0.88,,821
+297819786,297819787,50,0228e277861b3e3fff45272cfd806d911df1bffa,java,ok,0,java-maven,junit,true,false,10,0,10,0,,,,,0.5,,821
+301240825,301240826,55,5d03c3c23e5d62e8bdea80ee4d1078012b7c4075,java,ok,0,java-maven,junit,true,false,10,0,10,0,,,,,0.6900000000000001,,865
+303237650,303237651,60,d946dd66b3e1fdba56ce6e45655d198cfc6bbb0d,java,ok,0,java-maven,junit,true,false,10,0,10,0,,,,,0.75,,937
+407838468,407838469,66,b33a5e02930f483dc1e225c37422a4d6fdc4569c,java,ok,1,java-maven,junit,true,false,10,0,10,0,,,,,0.58,,976
+601199362,601199363,81,ef2acebc8f659de5df35437c0f0d785b2eb1e5a2,java,unknown,,java-ant,,false,,,,,,,,,,,,1047
+601700664,601700665,86,895efb93cc473769bf85655e7968d69bc055c382,java,ok,1,java-ant,,false,,,,,,,,,,,3.33,1064
+601723104,601723105,91,443719fdd57be59b6e297563f9e76c55e02c8473,java,ok,1,java-ant,,false,,,,,,,,,,,3.46,1064
