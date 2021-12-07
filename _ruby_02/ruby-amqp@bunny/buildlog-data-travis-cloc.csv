@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+196306268,196306269,1009,40a40f0ce7dad8bfd85b0c372a3f4db23b53f885,ruby,unknown,3,ruby,,false,,,0,,,,,,,,,9379
+207123806,207123809,1038,387cd85e7ffad624f544cc9784efbb4ef0d49d4c,ruby,ok,3,ruby,rspec,true,false,194,0,194,0,,,,,0.24,,9488
+260417774,260417777,1095,77e27217f5ba7cd51b9eb8f1d806a5b24b413080,ruby,ok,3,ruby,rspec,true,false,194,0,194,0,,,,,52.2,,9509
+318116962,318116963,1125,086afb1fa1727764f295b3ab602f665822ebf088,ruby,ok,6,ruby,rspec,true,false,197,0,197,0,,,,,0.7,,9598
+323796125,323796129,1139,a934f568f2122f447df3e97486afc83eead483de,ruby,ok,6,ruby,rspec,true,false,197,0,197,0,,,,,0.28,,9634
+388479501,388479502,1169,5c1bcc2b09dec7c4449bcd4467cf3fd6b08b70d1,ruby,ok,7,ruby,rspec,true,false,197,0,197,0,,,,,58.6,,9625
+424124068,424124071,1204,62d5588a0d91c188c02037465f6926c19fda7b0f,ruby,ok,7,ruby,rspec,true,false,199,0,199,0,,,,,57.5,,9762
+460522418,460522420,1216,66699e564edbb698da7bc6bcbf29fb67bd796542,ruby,ok,8,ruby,rspec,true,false,200,0,200,0,,,,,1.1,,9790
+483344366,483344369,1228,a29506ca1ed4297f816f2a2299aa24096d4bf477,ruby,ok,6,ruby,rspec,true,false,199,0,199,0,,,,,26.7,,9728
+495693552,495693553,1241,4139a883e367b879128356f7a8ad6596c783c5be,ruby,ok,14,ruby,rspec,true,false,202,0,202,0,,,,,26.6,,9839
+506038613,506038618,1256,56e40c5a0fbbc4b09c3be5c4e4fcf0011cb58590,ruby,broken,2,ruby,rspec,true,true,201,1,202,0,,,,,24.7,,9842
+554159898,554159902,1268,abb5cd456d5e4aff061151b02e95fc1005af0df9,ruby,ok,2,ruby,rspec,true,false,202,0,202,0,,,,,26.4,,9860
+726327375,726327378,1301,fff31ebb5c4940f09b8d16c679e08fcef2b1b734,ruby,ok,2,ruby,rspec,true,false,206,0,206,0,,,,,0.26,,9887

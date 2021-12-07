@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+230277048,230277055,1115,18bcabf605bc956f33d3a7d754a741c1b3c1507b,ruby,ok,1,ruby,testunit,true,false,875,0,875,4,,,,,40.57,,12289
+279885989,279885999,1153,341fed4f91e0dfd75f9740ee77885488db58aecd,ruby,broken,0,ruby,testunit,true,true,260,1,261,0,,,,TestClosureCompressor,14.39,,12352
+318532325,318532331,1245,9d945fbe1342136edd80888eba1c22f3d99d4ff9,ruby,ok,0,ruby,testunit,true,false,882,0,882,3,,,,,50.84,,12472
+352992458,352992460,1282,f333f08694d4a99e01088f8bde38b5d2f4ba2c24,ruby,ok,1,ruby,testunit,true,false,885,0,885,3,,,,,53.29,,12537
+402140641,402140652,1319,0cb3314368f9f9e84343ebedcc09c7137e920bc4,ruby,broken,2,ruby,testunit,true,true,838,2,840,2,,,,TestSasscSourceMaps#TestSasscSourceMaps,68.44000000000001,,12546
+478055379,478055383,1392,771de7e7f808fbe7c6269ddc2e4d91173e970601,ruby,ok,2,ruby,testunit,true,false,888,0,888,4,,,,,47.24,,12591
+504833687,504833694,1411,9f766ccc68945755262c1e708a2c10c8342a3513,ruby,unknown,1,ruby,testunit,true,false,844,0,844,4,,,,,358.78,,12591
+535037150,535037156,1442,179bed11e214849680e55b019462d9c08cb0f332,ruby,ok,4,ruby,testunit,true,false,888,0,888,4,,,,,51.36,,12690
+556387173,556387176,1474,e27d2ff0303acfd56b54105ab92795e6f96032e6,ruby,ok,4,ruby,,false,,,0,,,,,,,,,12725
+588889232,588889239,1500,d9e7037b75e8bf881ffc40a0209b6b7529462ff4,ruby,broken,2,ruby,,false,,,0,,,,,,,,,12726
+603522687,603522690,1527,c4b191e70d89e9d70f19ade5faf0692054a3bd1b,ruby,ok,2,ruby,,false,,,0,,,,,,,,,12727
+654839371,654839387,1553,9909da64595ddcfa1e7ee40ed1d99738961288ec,ruby,ok,2,ruby,testunit,true,false,890,0,890,4,,,,,40.45,,12727
+695165963,695165969,1605,8fc492abde6b20afbe6fa5d5aa7d1085aafd3527,ruby,unknown,10,ruby,,false,,,0,,,,,,,,,12838
+716873101,716873110,1625,dba2802f8d6b9f54e3a057350cadd149316d0da5,ruby,ok,2,ruby,,false,,,0,,,,,,,,,12829
+745618312,745618316,1645,dba2802f8d6b9f54e3a057350cadd149316d0da5,ruby,ok,2,ruby,testunit,true,false,900,0,900,4,,,,,41.42000000000001,,12829

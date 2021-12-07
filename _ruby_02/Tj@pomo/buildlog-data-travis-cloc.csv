@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+4557209,4557210,10,7c7496f8caa68ed69ae734b4569fc780152c81e4,ruby,unknown,,ruby,rspec#cucumber,true,false,29,0,29,2,,,,,31.54,,926
+4557279,4557281,11,b9302f51e505ebead9c21e3e43119a40a304d4c3,ruby,unknown,,ruby,rspec#cucumber,true,false,29,0,29,2,,,,,23.74,,926
+4681633,4681635,12,f5b114142acfb7df6e1b8b2945a50752c7e5ee9a,ruby,unknown,,ruby,rspec#cucumber,true,false,29,0,29,2,,,,,25.36,,925
+4776760,4776762,13,f208f9079079ba524a1b346ab5f7ac389f7829be,ruby,unknown,,ruby,rspec#cucumber,true,false,29,0,29,2,,,,,20.94,,925
+5120893,5120895,15,673ce84c47bf40dd20df755e3245135a29a586e0,ruby,ok,,ruby,rspec#cucumber,true,false,29,0,29,2,,,,,27.68,,927
+5120919,5120921,16,e1e28608b8f9d9872e51f437039ddefc0e8de43d,ruby,ok,,ruby,rspec#cucumber,true,false,29,0,29,2,,,,,27.16,,927
+5121012,5121014,17,5e3ae4481abb77e887963343125ed78467c7eeef,ruby,ok,,ruby,rspec#cucumber,true,false,29,0,29,2,,,,,19.65,,927
+5164499,5164501,18,d68ff4a71e077ef7ebb26edc6fb9565c4c02653f,ruby,ok,,ruby,rspec#cucumber,true,false,29,0,29,2,,,,,21.95,,927
+4415534,4415536,1,cfa5569e7b7b225d677a279dfd7fd3856124c4b2,ruby,unknown,,ruby,,true,false,,0,,,,,,,,,921
+4419088,4419090,2,665917d70612374df8bcf51c857a0b8ba9c7f95e,ruby,unknown,,ruby,rspec#cucumber,true,true,24,5,29,2,,,,features/manage_list.feature#features/manage_tasks.feature#features/manage_tasks.feature#features/manage_tasks.feature#features/manage_tasks.feature,24.43,,921
+4420197,4420199,3,db6d4478b64d7c2f2e62bec13ed849cecd06a7f5,ruby,unknown,,ruby,,false,,,0,,,,,,,,,921
+4420396,4420398,4,991d954f83730a7e0c3763d0092e1e047cbbc51e,ruby,unknown,,ruby,,false,,,0,,,,,,,,,921
+4420416,4420418,5,b8a31be1d2ed89d116d9c10d02213d7496f30ff9,ruby,unknown,,ruby,,false,,,0,,,,,,,,,921
+4420776,4420778,6,e12c283c489a87068a199c00201431e7dd6f6936,ruby,unknown,,ruby,rspec#cucumber,true,false,29,0,29,2,,,,,24.83,,921
+4421136,4421138,7,229ca52e89471d50b5d1315d2e315ee1908d6173,ruby,unknown,,ruby,rspec#cucumber,true,false,29,0,29,2,,,,,24.09,,922

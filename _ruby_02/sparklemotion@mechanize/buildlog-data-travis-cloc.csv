@@ -1,0 +1,9 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+7352908,7352912,117,dba994ffcdf8a3747bea48b74ba06b5ba95b81b3,ruby,ok,,ruby,testunit,true,false,671,0,671,0,,,,,1.6,,10686
+10233762,10233763,148,2405c0d923473d9cf49196166f5fd3a9f1c53b0e,ruby,ok,,ruby,testunit,true,false,674,0,674,0,,,,,2.2,,10749
+15596759,15596765,175,9c801f2436c9e17a76ebd929c72cfde36526662c,unknown,unknown,,plain,,false,,,,,,,,,,,,10890
+38410858,38410864,232,5b016874ecbfd619aba9a4051aa36a3c1c7eef9b,ruby,broken,,ruby,testunit,true,true,25,95,120,0,,,,TestMechanize#TestMechanize#TestMechanize#TestMechanize#TestMechanize,0,,10972
+91559455,91559459,283,390fdea71a183a21cab24a2af2dd0f73ed8393c5,ruby,ok,0,ruby,testunit,true,false,693,0,693,0,,,,,0,,11041
+386970419,386970421,447,bbb83b7868f66c89e1f99440c724203d2f302f02,ruby,ok,0,ruby,testunit,true,false,707,0,707,0,,,,,0,,11270
+386998658,386998660,464,9812840f5dc198421d89b156fca98593bb5f02f7,unknown,unknown,,plain,,false,,,,,,,,,,,,11352
+4924875,4924878,62,1af855a30c91b818c679b72ede83a293c5bd9b67,ruby,ok,,ruby,,false,,,0,,,,,,,,,10708

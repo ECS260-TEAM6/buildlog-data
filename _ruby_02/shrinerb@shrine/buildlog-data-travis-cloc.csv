@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+590749247,590749251,1056,35f5af9a7dc8ad90f7a2c59e5511c6fc105baf7a,ruby,unknown,3,ruby,testunit,true,false,1380,0,1380,0,,,,,0,,16486
+592179141,592179148,1070,6952eaa5b8f12cb0c46fd0c85b72a38ae4f8f475,ruby,ok,10,ruby,testunit,true,false,1384,0,1384,0,,,,,0,,16598
+599125555,599125561,1112,6c5ce28dabc75910190796b656bdd302b0b6cdd9,ruby,unknown,3,ruby,testunit,true,true,1389,9,1398,0,,,,Shrine::Plugins::Validation::Attacher::#Shrine::Plugins::RefreshMetadata::UploadedFile::,0,,16676
+607552043,607552048,1125,7951b9514f0513a31a04f6f62c9a9b8e3f20dd60,ruby,ok,3,ruby,testunit,true,false,1399,0,1399,0,,,,,0,,16688
+612407643,612407648,1137,66108b05ca84dbc963158a55683673adb5cf4018,ruby,ok,12,ruby,testunit,true,false,1402,0,1402,0,,,,,0,,16725
+618100510,618100512,1156,81c31820c784d361647b51adc4f50f948de80aee,ruby,ok,3,ruby,testunit,true,false,1413,0,1413,0,,,,,0,,16785
+623215853,623215857,1174,15bd63223ec35003b644720d47f752b123876830,ruby,ok,3,ruby,testunit,true,false,1450,0,1450,0,,,,,0,,17119
+645480197,645480203,1219,3301e9fefa74fef6b52de05f90e1de1121264736,ruby,broken,3,ruby,,false,,,0,,,,,,,,,17285
+679821339,679821344,1243,b5fc2e1432e51e6fde87c120bc6cf6abeb286c68,ruby,ok,4,ruby,testunit,true,false,1459,0,1459,0,,,,,0,,17285
+690803214,690803217,1269,333a0a422f3a4712b17fee0f7842e350d2e88e4f,ruby,ok,3,ruby,testunit,true,false,1461,0,1461,0,,,,,0,,17311
+701023581,701023583,1281,c9090e1aacade094a6a0aa33ce5e9ba1b994c40c,ruby,ok,3,ruby,testunit,true,false,1461,0,1461,0,,,,,0,,17311
+732555129,732555137,1304,28378d92fe2efe4ba6d053973e39e14d2560e5c9,ruby,broken,12,ruby,,true,false,,0,,,,,,,,,17373
+740582133,740582139,1316,f498052b3591b8d3d3921f2932d4f5445e566d24,ruby,ok,11,ruby,testunit,true,false,1471,0,1471,0,,,,,0,,17457

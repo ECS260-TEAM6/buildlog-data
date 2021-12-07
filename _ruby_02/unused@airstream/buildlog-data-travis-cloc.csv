@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+11119095,11119096,10,139abb9b17ce553d93cdaf26f029afcd5c2a306c,ruby,broken,,ruby,testunit,true,true,8,3,11,0,,,,,0,,580
+11119372,11119374,12,e748cb0bc797aa6ff2f50184b354114206150c27,ruby,ok,,ruby,testunit#cucumber,true,false,12,0,12,0,,,,,0.82,,580
+11623087,11623090,16,838746b5e11d8ce6fcac0e2722c3d08bdd7a86a4,ruby,ok,,ruby,testunit#cucumber,true,false,12,0,12,0,,,,,0.61,,594
+15879830,15879831,19,e3ba0542f9f24b0c294ee5c49548d563931c1296,ruby,ok,,ruby,testunit#cucumber,true,false,12,0,12,0,,,,,1.14,,594
+15879875,15879877,20,777a929ccde93c99649e599803e522c28e594291,ruby,ok,,ruby,testunit#cucumber,true,false,12,0,12,0,,,,,0.72,,594
+15895170,15895172,27,7637561867edaf54c9a296e80f2f856891dbddc6,ruby,ok,,ruby,testunit#cucumber,true,false,12,0,12,0,,,,,1.45,,600
+18985799,18985802,29,a26027339de21ac56bf32b77ccfafff8bb92671d,ruby,broken,,ruby,,false,,,0,,,,,,,,,601
+18996831,18996832,31,0fba50413821047791b40cebf844f0d4eff10954,ruby,ok,,ruby,testunit#cucumber,true,false,12,0,12,0,,,,,1.23,,601
+26954007,26954011,33,06f3e90fcfb8140772ce5a30363b448988f8030b,ruby,ok,,ruby,testunit#cucumber,true,false,12,0,12,0,,,,,1.14,,604
+31143388,31143391,35,45af5ce9b33077b90b9ac0139a636fd3cbb67bd1,ruby,ok,,ruby,testunit#cucumber,true,false,12,0,12,0,,,,,1.14,,604
+54608830,54608831,38,a05702729a7ba8a220dfb3d79f5730047618f818,ruby,ok,10,ruby,testunit#cucumber,true,false,12,0,12,0,,,,,1.42,,604
+9829965,9829967,3,6da42da7f41e8e2208b14326a34260c193baecae,ruby,unknown,,ruby,,false,,,0,,,,,,,,,555
+127010583,127010588,44,050672c534d53d2cce9840864f9fa054fec6c73c,ruby,ok,12,ruby,testunit#cucumber,true,false,12,0,12,0,,,,,1.02,,605
+127018527,127018531,46,050672c534d53d2cce9840864f9fa054fec6c73c,ruby,unknown,12,ruby,,false,,,0,,,,,,,,,605
+754758785,754758787,54,62300fb6abae354af294b16fb83764195feb97e0,ruby,ok,7,ruby,testunit#cucumber,true,false,12,0,12,0,,,,,0.41,,605
