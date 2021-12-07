@@ -1,0 +1,7 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+247976432,247976433,110,155210b786c67d144cfdbbc8e3dc8967d71d5e5b,java,unknown,11,java-ant,,false,,,,,,,,,,,148,19005
+619053734,619053735,276,f442bf55539472c45d37761344270b3877177c54,java,ok,3,java-ant,,false,,,,,,,,,,,103,22107
+619053734,619053738,276,f442bf55539472c45d37761344270b3877177c54,java,broken,3,java-ant,,false,,,,,,,,,,,180,22107
+619053734,619053741,276,f442bf55539472c45d37761344270b3877177c54,java,ok,4,java-ant,,false,,,,,,,,,,,101,22107
+619054649,619054652,277,b583416534c542983e3c7e29fa5fb1f2c9d616b6,java,ok,3,java-ant,,false,,,,,,,,,,,54.02,22107
+619054649,619054655,277,b583416534c542983e3c7e29fa5fb1f2c9d616b6,java,ok,3,java-ant,,false,,,,,,,,,,,51.31,22107
