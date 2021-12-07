@@ -1,0 +1,6 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+91602068,91602074,5525,bc585b8d914793aa6d4cd57ec6af7dd7d76bd203,ruby,ok,3,ruby,testunit#rspec,true,false,461,0,461,10,,,,,2.2,,135730
+94867203,94867205,5547,253b6777edeaedb019782193c4c39cbba7d4ade0,ruby,ok,2,ruby,testunit#rspec,true,false,473,0,473,10,,,,,4.3100000000000005,,136626
+103708282,103708292,5633,c5a01d9667262d44971dba555a3d0ab0e840bdeb,ruby,ok,9,ruby,testunit#rspec,true,false,472,0,472,10,,,,,8.649999999999999,,136092
+141103058,141103065,5720,c33cf7e026d21e2520764aefabbdfa4cc6c917a8,ruby,broken,4,ruby,testunit,true,true,423,4,427,1,,,,Fog::Storage::when#Fog::Compute::when#Fog::Compute::when,0.78,,70205
+338537700,338537709,5847,592fb9ed23ea38108f4d12c3b6d82420b55979e3,ruby,unknown,3,ruby,,false,,,0,,,,,,,,,54211

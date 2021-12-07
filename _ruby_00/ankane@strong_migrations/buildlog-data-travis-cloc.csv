@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+338390178,338390180,121,2fb3bea0d98b56badb0fc8e3451c310675af97c6,ruby,ok,0,ruby,testunit,true,false,24,0,24,0,,,,,0,,516
+398107754,398107756,142,dc1ed9f9321b977ddea0d37669794aeb67af9d45,ruby,ok,0,ruby,testunit,true,false,26,0,26,0,,,,,0,,580
+111673198,111673200,15,fcfbcb4b1bef6a1ed9ec4808268ed0e684ec4389,ruby,ok,0,ruby,testunit,true,false,13,0,13,0,,,,,0,,281
+442821773,442821777,177,fbb8278737bdac965bde38ea3cb3e51813565fbd,ruby,ok,1,ruby,testunit,true,false,34,0,34,0,,,,,0,,730
+523247925,523247927,194,ad7434b37cca1871bdc2e2912881ea7540aec8b9,ruby,ok,4,ruby,testunit,true,false,34,0,34,0,,,,,0,,739
+538368153,538368157,224,875ae84b01af65a6917f3dd9fcafcef5232c9c26,ruby,ok,4,ruby,testunit,true,false,36,0,36,1,,,,,0,,810
+575973242,575973246,241,987d64d22dc2baba589280596b875079bc18c356,ruby,ok,4,ruby,testunit,true,false,37,0,37,0,,,,,0,,844
+627825624,627825628,277,3ba7e177dcb2df3fce9ba30dbaace226f3c8912f,ruby,ok,0,ruby,testunit,true,false,43,0,43,1,,,,,0,,1095
+632811075,632811080,293,b35bd1d09d9f355f941a25f4ba359683df5657fc,ruby,ok,0,ruby,testunit,true,false,43,0,43,1,,,,,0,,1165
+641252125,641252126,302,d279e3d3c41f3dffe5c07975dfac5c311ece7978,ruby,ok,0,ruby,testunit,true,false,42,0,42,4,,,,,0,,1169
+641554663,641554665,318,24407dbe017e93b62293094d1efa2f2a50f48143,ruby,ok,0,ruby,testunit,true,false,42,0,42,4,,,,,0,,1255
+670873117,670873120,332,24532d04ed77fbb4b3f2a84c9895e249cea76f32,ruby,ok,0,ruby,testunit,true,false,48,0,48,4,,,,,0,,1333
+686025948,686025951,347,866a7969741fa18e2cba85451110aa8c4e95b454,ruby,ok,0,ruby,testunit,true,false,52,0,52,0,,,,,0,,1389
+694469960,694469964,361,d21420e61742548a572ab8c5ee351b3d5c074fc4,ruby,ok,0,ruby,testunit,true,false,59,0,59,0,,,,,0,,1508
+706215436,706215440,376,138c343e06efc662da36ecd4e4afe6487b58bb46,ruby,ok,0,ruby,testunit,true,false,65,0,65,2,,,,,0,,1607
+172224329,172224332,52,89cb798a39a8631f1eff1fa9c1f80ab39e74b6f2,ruby,ok,0,ruby,,false,,,0,,,,,,,,,340

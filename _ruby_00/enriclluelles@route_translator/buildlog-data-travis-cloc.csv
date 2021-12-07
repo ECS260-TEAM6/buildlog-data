@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+14575643,14575644,100,5d54ec99966abe588356a644b357e74dd49a4d4f,ruby,ok,,ruby,,false,,,0,,,,,,,,,622
+2272266,2272275,11,b29f1ec08a21bba6b433efceb1cc327ec546d295,unknown,unknown,,plain,,false,,,,,,,,,,,,589
+43895724,43895726,178,9533117660e45f61cb5c4e19beeb6aebfb3d7f91,ruby,ok,0,ruby,,false,,,0,,,,,,,,,1112
+54503060,54503069,191,cf459f554429eee938c1348fc75530ef1e908bc1,ruby,ok,0,ruby,testunit,true,false,61,0,61,0,,,,,2.76,,1145
+97023360,97023380,245,0580563a936177cf3aff8a3b09c891b8561b4412,unknown,unknown,,plain,,false,,,,,,,,,,,,1246
+104151851,104151855,291,607b0dc6ff373bba074cbbbc4c16198fa41aafd2,ruby,ok,2,ruby,testunit,true,false,69,0,69,0,,,,,1.16,,1232
+107564429,107564445,321,70c169f773ace69f6db2b35fd51f704ef25d934f,ruby,ok,3,ruby,testunit,true,false,69,0,69,0,,,,,1.22,,1250
+144996225,144996226,441,182415e9823879786461248711dcc2c0177b6950,ruby,ok,1,ruby,testunit,true,false,78,0,78,0,,,,,1.19,,1394
+364081269,364081271,633,ada7a4fccd7b9142d1855c42216c8a73216d1e33,ruby,ok,7,ruby,testunit,true,false,90,0,90,0,,,,,1.85,,1630
+506442131,506442148,674,d367a59ebbb608300c1a3bbc4e2533e02546d5ea,ruby,ok,1,ruby,testunit,true,false,90,0,90,0,,,,,1.37,,1630
+593222106,593222124,740,d74e66115594c3e1e7d7f24b01af49aa2a7e9910,ruby,ok,1,ruby,testunit,true,false,93,0,93,0,,,,,1.53,,1635
+629757687,629757702,772,1ef494b27fda4a9eb26010e1a84116389bdec7dc,ruby,ok,1,ruby,testunit,true,false,94,0,94,0,,,,,1.24,,1665
+671198699,671198721,792,a19719c01bab453ab5e1e531806227bde579fcda,ruby,ok,1,ruby,testunit,true,false,96,0,96,0,,,,,1.2,,1694
+697968768,697968785,823,00d8ad8f61f2ce65a147e1cb40f2079c4c52305c,ruby,ok,0,ruby,testunit,true,false,96,0,96,0,,,,,1.25,,1694
+6831582,6831586,85,5730cf63605cfdc3a43ac6330ea37249dd9a7291,ruby,ok,,ruby,,false,,,0,,,,,,,,,578
+6834853,6834865,88,720c6b8e444ecadcf39f6c9de3820ac1fef9d079,java,broken,,java-ant,,false,,,,,,,,,,,,587

@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+306716286,306716287,1014,889b671ea7b8be7498fddca0209a0f0b351d0bf2,ruby,ok,1,ruby,,false,,,0,,,,,,,,,11960
+320096143,320096148,1024,80456eb9f1d87be31117009b11a9918daae59291,ruby,ok,1,ruby,,false,,,0,,,,,,,,,12051
+420963590,420963592,1057,25a834854ec3238a49518f1cf006c9cdfa289c0c,ruby,ok,1,ruby,,false,,,0,,,,,,,,,12100
+455986059,455986060,1068,4d0e89351f9e6354ff96e1b0a2a146a62e1d8eb0,unknown,unknown,,plain,,false,,,,,,,,,,,,12265
+468405412,468405417,1078,50afad2716214bf76af52916e3c3031aa8e18f8d,ruby,ok,1,ruby,,false,,,0,,,,,,,,,12295
+489725557,489725561,1089,5a520661c1394967c7ea0ad4d637c6703b2cbc2e,ruby,ok,1,ruby,,true,false,,0,,,,,,,,,12316
+513988696,513988697,1100,dc723139a0ea56ee3522fa64130d46213c7b86d9,ruby,ok,1,ruby,,false,,,0,,,,,,,,,12332
+526064808,526064812,1121,b98c37e2a3d9952536e8ff574660cd4f039869a7,ruby,ok,1,ruby,,false,,,0,,,,,,,,,12417
+551693357,551693360,1132,986ead12a0620cbc3ee8d7bc02dda6696c5e23e5,ruby,ok,1,ruby,,false,,,0,,,,,,,,,12422
+583685636,583685638,1144,ef6b4c5352ac7d47a544d4f1cc55e935423b24b3,ruby,ok,1,ruby,,false,,,0,,,,,,,,,12743
+625344570,625344571,1155,c9a12d6380879f7b3df1442c62d614ebd1e700ad,ruby,ok,1,ruby,,false,,,0,,,,,,,,,12763
+625354925,625354931,1163,0876f345317ebe4e5fe270269854561d271aa3b9,ruby,ok,1,ruby,,false,,,0,,,,,,,,,12763
+674010934,674010938,1172,37c079a9376fcdb445f1c49820b19d4e820c6d4d,ruby,ok,1,ruby,,false,,,0,,,,,,,,,12764
+703636577,703636584,1187,1c082c4fbbb883560db80381872305168b14c419,ruby,ok,1,ruby,,false,,,0,,,,,,,,,12791
+713724327,713724332,1195,e2ba55d8560d668e38e79e107888a5e3ca798f78,unknown,unknown,,plain,,false,,,,,,,,,,,,12794
+747158688,747158691,1203,d24bec8bef6b378c416e80dfba11208ab1268be9,unknown,unknown,,plain,,false,,,,,,,,,,,,12787

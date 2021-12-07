@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+1391826,1391827,100,8a0187f1b4d4442085f351fcf00e4da30d47a3b3,unknown,unknown,,plain,,false,,,,,,,,,,,,1035
+3735188,3735194,147,8888c8cc706fbe4566e34440379a06dbbec3018d,unknown,unknown,,plain,,false,,,,,,,,,,,,1163
+5443862,5443867,169,664fe698dd409a4b2e3e11f131b7db1ca589be1d,ruby,ok,,ruby,rspec,true,false,105,0,105,0,,,,,2.23,,1291
+6967502,6967512,189,d572e58b265e9dedd21480466b481769cb4acd6c,ruby,ok,,ruby,,true,false,,0,,,,,,,,,1417
+11163430,11163442,206,59fe1966c9dc41ca65c4c758f146fba2a0c73ee3,unknown,unknown,,plain,,false,,,,,,,,,,,,1485
+13620649,13620653,242,5bd09d1a95fa8b4b8e9fcbe2469d227142d986ea,ruby,ok,,ruby,rspec,true,false,69,0,69,0,,,,,1.77,,745
+16002167,16002170,288,e8739f0c01b3502eae47238790b3d11db2bca7d6,ruby,ok,,ruby,rspec,true,false,99,0,99,0,,,,,0.76,,1103
+22939448,22939453,323,2e697dc8a0e8dc037e9e130145e500df7e9e7984,ruby,ok,,ruby,rspec,true,false,106,0,106,0,,,,,0.16,,1219
+30693045,30693054,343,d1662cf5dc0897236a05e0c732637ef572c45f66,unknown,unknown,,plain,,false,,,,,,,,,,,,1256
+43093180,43093191,387,d6b80c7ef27127d3634fa8e73b6474c141c29e7d,ruby,broken,0,ruby,rspec,true,true,100,21,121,0,,,,,1.61,,1760
+54574080,54574085,416,cd0cba12378ba5154c99ec93015cb96d7b856102,ruby,ok,0,ruby,rspec,true,false,122,0,122,0,,,,,0.4,,1836
+65303283,65303294,431,36e7424ab659f69a4439f9ee4257ca43f9c9b175,ruby,ok,0,ruby,rspec,true,false,129,0,129,0,,,,,0.34,,1959
+68460776,68460780,448,55d3bc32ca36d6dc1496cd4135b05615821a4aca,ruby,ok,0,ruby,rspec,true,false,131,0,131,0,,,,,0.53,,1985
+70926413,70926418,473,07eb68e29d0078ff71f4c11fe9e018d61bec5e75,ruby,ok,0,ruby,rspec,true,false,147,0,147,0,,,,,2.4,,2231
+120304410,120304415,509,33fd884864d51f142c5b468fc4ee2232cffc0aed,ruby,unknown,0,ruby,,true,false,,0,,,,,,,,,2279

@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+28125847,28125848,100,82ad13d04b0a080e850b7fecb818e66d25c9e958,ruby,ok,,ruby,rspec,true,false,41,0,41,0,,,,,0.43,,839
+34034561,34034579,106,ef13ef64c26f33469d470628c2c2c767f03c0635,ruby,ok,8,ruby,rspec,true,false,36,0,36,0,,,,,1.24,,854
+61778131,61778135,118,35960ef30d2da02fe4884801a253baeb9beb7e26,ruby,ok,8,ruby,rspec,true,false,41,0,41,0,,,,,0.57,,866
+6021604,6021611,12,ae648077734589a037a5b200da104dd94b689133,ruby,ok,,ruby,rspec,true,false,32,0,32,0,,,,,1.45,,660
+99447788,99447802,140,64c72d19542cf483f9004781697e9526bb3a717b,ruby,ok,1,ruby,rspec,true,false,44,0,44,0,,,,,1.73,,935
+117442357,117442369,151,6008b631ced7ca5010dbdbe93739270a693c7dcf,ruby,unknown,5,ruby,,false,,,0,,,,,,,,,960
+136945555,136945557,167,68d1d939ec58d43e4ff0ac8bd3bbad4d0af777ed,ruby,ok,0,ruby,rspec,true,false,51,0,51,0,,,,,0.36,,976
+137095630,137095642,178,4803be18485526bb234a8724cdba4917547a5351,ruby,unknown,0,ruby,,false,,,0,,,,,,,,,989
+142701450,142701453,190,c1b6db4f889fd6437fe7a9dc43f00257f23f5504,ruby,broken,0,ruby,,true,false,,0,,,,,,,,,1030
+463436098,463436101,275,c492eb814691ebcd9ca595d2666bf9a519a04b43,ruby,ok,0,ruby,rspec,true,false,53,0,53,0,,,,,0.46,,1082
+12307842,12307846,35,71fed5b6891db968a9310843f0827c55f59ba35d,ruby,ok,,ruby,rspec,true,false,29,0,29,0,,,,,3.47,,715
+14238551,14238552,73,2cc033797df7861e9353563f4bad8d876f4a043d,ruby,ok,,ruby,rspec,true,false,36,0,36,0,,,,,0.37,,764
+14397897,14397908,81,cd9bdb6962d8a92cd1db3d65d1e4fcbe5fbde23f,ruby,ok,,ruby,rspec,true,false,36,0,36,0,,,,,0.32,,765
+18436787,18436801,95,f5732b3e1ccaff069f9c308ae2775679c8bebe8c,ruby,ok,,ruby,rspec,true,false,41,0,41,0,,,,,0.36,,831

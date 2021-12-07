@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+33423829,33423830,107,b212689165353040110a5c51e4ed59946c7a92c6,ruby,ok,,ruby,rspec,true,false,36,0,36,1,,,,,0.34,,581
+13037863,13037865,11,d0c1d82519e3cdff7298446cb0b2d01271c2e5ff,ruby,ok,,ruby,rspec,true,false,34,0,34,1,,,,,0.22,,489
+54357424,54357427,127,876627520f8657e658552e855dfde65ccea9dc6f,ruby,broken,1,ruby,,true,false,,0,,,,,,,,,582
+70516503,70516504,134,93802aa0997f51196ca89a519a7e55235ba3ae75,ruby,ok,0,ruby,rspec,true,false,36,0,36,1,,,,,0.41,,580
+13037987,13037988,13,b89206efec339b89c09648625dd34b6084823006,ruby,ok,,ruby,rspec,true,false,34,0,34,1,,,,,0.34,,489
+154445454,154445457,154,484bcdd8b31b0f4ab4053b3de4154fd75e733874,ruby,ok,1,ruby,rspec,true,false,36,0,36,1,,,,,0.09,,587
+192864451,192864454,162,d39baaf28a5f839b633c2d6fc24047a371eb8634,ruby,ok,1,ruby,rspec,true,false,34,0,34,1,,,,,0.12,,583
+366495215,366495218,169,6f60db3fc78c04caa7b3a6891874787061ae6637,ruby,broken,1,ruby,rspec,true,true,31,4,35,1,,,,,0.1,,599
+12901722,12901725,2,a92db0609036947ca9dd67b52867d1948d6b19f6,ruby,ok,,ruby,rspec,true,false,31,0,31,1,,,,,0.26,,479
+12918873,12918874,3,b2afbe6de4a2c6d1362b6e11ec0673ee0fb70d55,ruby,ok,,ruby,rspec,true,false,31,0,31,1,,,,,0.23,,479
+14995186,14995188,49,51e64b3166e979e6f02f9506447bcd1093889aaf,ruby,ok,,ruby,rspec,true,false,34,0,34,1,,,,,0.22,,545
+15120090,15120091,59,46cb2d474aca833c2f094dceb35a3dd51216ceb6,ruby,ok,,ruby,rspec,true,false,34,0,34,1,,,,,0.33,,545
+12997968,12997970,6,61ffa16255edb8e6e1e993932230cea47d4fbdfe,ruby,ok,,ruby,rspec,true,false,34,0,34,1,,,,,0.42,,486
+25646461,25646464,87,f2dbcd2e2444285533a1cdffe921e40fc2336d75,ruby,broken,,ruby,,true,false,,0,,,,,,,,,557
+28666183,28666184,94,eec230268cf4b159e1711dceec496cbc086d8ae5,ruby,ok,,ruby,rspec,true,false,35,0,35,1,,,,,0.32,,559

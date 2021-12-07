@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+271150419,271150420,1083,a173e56dbbf3536d44ab40dbaf26b2d43a933f5d,ruby,unknown,1,ruby,,false,,,0,,,,,,,,,5673
+275343731,275343732,1086,eba24abb27de85d66580207a46e8fd8c6e7fe231,ruby,ok,1,ruby,rspec,true,false,330,0,330,3,,,,,8.42,,5673
+277913382,277913383,1089,74b27d36da8a5e4f7b5d534c072036cb352b6323,ruby,ok,0,ruby,rspec,true,false,330,0,330,3,,,,,9.15,,5228
+278093978,278093980,1092,bf5ab8fcd64fdfb934625370340e8dcbad8ed60c,elixir,broken,2,plain,,false,,,,,,,,,,,,5150
+278105771,278105772,1095,23f4b2aff1a8ce2aeabc775c38d0777e68b7efd5,elixir,broken,9,plain,,false,,,,,,,,,,,,5150
+278737011,278737012,1098,053126a897df4bcbac135f0f124bb37e8b627754,elixir,ok,11,plain,,false,,,,,,,,,,,,5150
+297536136,297536137,1128,2eb452cd3ce04fee60322eeb346c2bbc93904437,elixir,ok,10,plain,,false,,,,,,,,,,,,4795
+337030985,337030986,1150,a1ed24feda406cdab9c07953602b9496d27ddfa8,elixir,ok,9,plain,,false,,,,,,,,,,,,4498
+339835369,339835370,1156,bcdb54917c1cf56a9e4668985f530912e6d44273,elixir,ok,11,plain,,false,,,,,,,,,,,,4498
+348579955,348579956,1162,744850d13c5fedfacaeb4d3eaeff298e9ada5b6a,elixir,ok,9,plain,,false,,,,,,,,,,,,4498
+379373964,379373965,1219,30f51f04ea2c360f2cb0be7f31990f820e115c2f,elixir,ok,8,plain,,false,,,,,,,,,,,,3858
+396072376,396072377,1234,124dc698b30ac4617a02853931d05888ff8cc602,elixir,ok,10,plain,,false,,,,,,,,,,,,3883
+444030957,444030958,1270,e6bdbbdc22c99c7318a7b199c411a90fbf9ba800,elixir,ok,9,plain,,false,,,,,,,,,,,,3282
