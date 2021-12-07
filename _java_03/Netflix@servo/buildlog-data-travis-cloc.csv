@@ -1,0 +1,8 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+149861962,149861963,100,7c3368d895ed718360f5a690ed8d92271d547e63,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,13121
+195385646,195385647,116,9ee600261592941e37dff9f721e6d934ffaaf5f8,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,13131
+211879543,211879544,131,798176f4d09e6b89110252dd6cde3f8c612f0edb,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,13318
+329901473,329901474,173,41def004d16333596cf648e5b20b528db86dd253,java,ok,2,java-gradle,junit,true,false,,0,,,,,,,,,13470
+380012593,380012594,196,c616eb9d49f14ebede073e31e55626ac3101fcec,java,ok,2,java-gradle,junit,true,false,,0,,,,,,,,,14074
+521725181,521725183,223,d67b5afce8c50bd9e9e31c288dbf4b78fb2ac815,java,ok,1,java-gradle,,false,,,0,,,,,,,,,14606
+674497288,674497291,234,0a3c21dc7b49c8ae7ed9549e23cc09cc470e95d0,java,ok,1,java-gradle,,false,,,0,,,,,,,,,14642

@@ -1,0 +1,13 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+666422060,666422061,1027,2bd3bf67dd7690c9554a89f46e18e92ef867a510,java,ok,1,java-maven,junit,true,false,6472,0,6472,16,,,,,21.450000000000003,30.11,9792
+666761608,666761609,1033,c3ee7a167cdad72875f36eaf645db3f9a68b0d88,java,ok,1,java-maven,junit,true,false,6484,0,6484,16,,,,,25.360000000000003,44.55,9792
+667384739,667384740,1039,c73127fdef8dface1e6dfb8cdea17d382476caf7,java,ok,1,java-maven,junit,true,false,6484,0,6484,16,,,,,24.630000000000003,43.74,9792
+670162220,670162221,1045,adec1e7648c93048ab08366e883cfda596283edf,java,ok,1,java-maven,junit,true,false,6508,0,6508,16,,,,,26.23,47.13,9811
+683006086,683006087,1051,26af5b79cbf8512d326b918c207a6dfb68a54945,java,broken,1,java-maven,junit,true,true,5474,2,5476,14,,,,,18.84,41.07,9828
+698226373,698226374,1057,3b6bdb06cc257085cfb2eca987afcf6c5206dd61,java,ok,1,java-maven,junit,true,false,6556,0,6556,16,,,,,23.990000000000002,43.31,9871
+699957657,699957658,1064,fba4c65341510764258fcf0e62dee75b7f66d40d,java,ok,1,java-maven,junit,true,false,6628,0,6628,16,,,,,23.47,41.95,9909
+699963337,699963338,1070,cb66d028c9d040e113601abe210b2a76b63f7720,java,ok,1,java-maven,junit,true,false,6664,0,6664,16,,,,,22.36,39.48,9934
+700590854,700590855,1089,4d50476c479eedb136dcf7feb52f7caca5d2ff07,unknown,unknown,,plain,,false,,,,,,,,,,,,9934
+700761807,700761808,1106,c5bb27443c058c15e49a0fff24bcf1602ac3d1c8,unknown,unknown,,plain,,false,,,,,,,,,,,,9934
+707203308,707203309,1133,a94163a308121c4e3a51353ad3cdc65361c1616d,java,ok,1,java-maven,junit,true,false,6664,0,6664,16,,,,,21.799999999999997,40.28,9934
+721586239,721586240,1165,19016d53fdea21a644491f0c9fd89e673d6046c8,unknown,unknown,,plain,,false,,,,,,,,,,,,9934

@@ -1,0 +1,18 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+109453631,109453636,3265,842076a9781a041f8936d43e6156ab6a7fda2fdc,python,ok,22,python,,false,,,,,,,,,,,,22491
+109455062,109455066,3268,842076a9781a041f8936d43e6156ab6a7fda2fdc,python,ok,22,python,,false,,,,,,,,,,,,22491
+151891229,151891233,3382,7018c03e307aa1c3c628c7efe4885b16c38bbe20,python,ok,23,python,pytest,true,false,24,0,24,0,,,,,0.88,,22667
+170257704,170257706,3413,092f009292a565705f6d1533b7f05a5abf52800d,python,ok,23,python,pytest,true,false,20,0,20,0,,,,,0.84,,22667
+188385715,188385717,3436,4c1e2960b69df149e6aaf9e3dc872b1d96297bf9,python,ok,22,python,pytest,true,false,24,0,24,0,,,,,0.83,,23445
+189694024,189694028,3440,2b7f12b8542d04190a85ed890edac1ce9192d9e8,python,ok,21,python,,false,,,,,,,,,,,,23445
+200632032,200632034,3454,1f92c5bd529ac0df3dce49e073f40bb48aeb45f7,python,ok,23,python,pytest,true,false,24,0,24,0,,,,,0.81,,23445
+289247116,289247118,3507,b3fb7b3ffe7f70dd0fb10d70a7100de1e65dc062,python,ok,19,python,pytest,true,false,24,0,24,0,,,,,0.88,,23445
+293871282,293871289,3512,f35bd06ada4942fa196f202e465385b5523008fc,python,broken,18,python,,true,true,0,0,0,0,,,,InvocationError: '/home/travis/build/mopidy/mopidy/.tox/flake8/bin/flake8 --show-source --statistics mopidy tests'#flake8: commands failed,0,,23446
+359728122,359728126,3537,caa60f33f5815d5da63b255450d14e1fff03714b,python,broken,17,python,,false,,,,,,,,,,,,23446
+387566684,387566686,3591,99f6ae2a5c2277a2f6e234bdc590093cda26244c,python,ok,22,python,pytest,true,false,24,0,24,0,,,,,0.91,,23446
+435107991,435107993,3627,e025f0416083de61f1f8f65e73e8e5a019854ae6,python,ok,17,python,,false,,,,,,,,,,,,23780
+438875943,438875945,3654,0bc458cadea30c3006993b9c9f79fa4337440a28,python,ok,949,python,pytest,true,false,2271,0,2271,0,,,,,38.1,,23780
+447740750,447740753,3680,2a8375a947a50e0d0f50a630f10ceb2b24bb301d,python,broken,20,python,,true,true,0,0,0,0,,,,flake8: commands failed,0,,23856
+473354483,473354485,3707,e9f8245e32896b8e96d46309df55593bb12d5958,python,ok,29,python,,false,,,,,,,,,,,,23865
+543505364,543505365,3786,fb77f0c307a26359a90c4242880111bcf3cb0209,python,broken,20,python,,false,,,,,,,,,ServerTest.test_number_of_connections#summary,,,23866
+547970053,547970056,3802,bc3efdbfc156172cef816e222920d2c517f50fe7,python,ok,21,python,,false,,,,,,,,,,,,23867

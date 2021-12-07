@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+190529137,190529138,100,512c1177bd753b33f7f504084b276158f846dc49,java,ok,0,java-ant,junit,true,false,1,0,1,0,,,,,0.09,28.0,6360
+198511113,198511114,126,d0b380bcddca85035fb539c32eff70861f06962a,java,ok,0,java-ant,junit,true,false,1,0,1,0,,,,,0.07,25.0,6915
+205462243,205462244,142,31ec9976386f19eb9bbcb0149df49a73fdd61ac7,java,ok,0,java-ant,junit,true,false,1,0,1,0,,,,,0.08,31.0,7093
+95159772,95159776,14,950a4f1f8b0d87eacaccb5f838639f85d2028232,java,ok,0,java-ant,junit,true,false,4,0,4,0,,,,,0.15,27.0,4690
+220246259,220246260,168,889da2f6340beea42a046c88b1e54c46cd5ca812,java,ok,0,java-ant,junit,true,false,5,0,5,0,,,,,0.82,27.0,7376
+323542904,323542905,228,c4d34228ce2f7ca6e8ab33b4edb5a5b49ac591fa,java,ok,1,java-gradle,,false,,,0,,,,,,,,,8163
+437493560,437493562,244,06c9402f24572d7e3063de8ddef92df8e3a3c88a,java,ok,0,java-gradle,junit,true,false,,0,,,,,,,,,8155
+513711775,513711779,257,6be778e1d1f0712dc6e4af4d63bbc286e3326395,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,8161
+95870445,95870446,33,fea81a12ea7afa5159ea0615196d69742a5ba829,java,ok,0,java-ant,junit,true,false,4,0,4,0,,,,,0.15,32.0,5425
+138555893,138555894,50,f6188be29dea3011751cdb2fa08c99c01d66a831,java,ok,2,java-ant,junit,true,false,4,0,4,0,,,,,0.14,45.0,5480
+157295154,157295155,67,9d87341be1e4f3315d69ef0dc22876ebf330a4a2,java,broken,0,java-ant,junit,true,false,2,0,2,0,,,,,0.77,55.0,5497
+187753145,187753147,82,33a989cabf767158485e4c732aec3bb282b60618,java,ok,0,java-ant,junit,true,false,1,0,1,0,,,,,0.04,42.0,5584
+188027502,188027503,90,3846d8859a50ef388076d25b4d73c7d81c051153,java,ok,0,java-ant,junit,true,false,1,0,1,0,,,,,0.09,29.0,6099

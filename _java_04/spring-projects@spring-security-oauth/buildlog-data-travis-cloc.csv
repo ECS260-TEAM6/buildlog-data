@@ -1,0 +1,5 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+110615756,110615757,100,a39a0944451f091cfa5c962482dd7e2c87571edc,java,broken,1,java-ant,,false,,,,,,,,,,,54.92,39756
+65882798,65882804,14,4a0574fde141d2e3eda0e95258db19b709ec6783,java,ok,1,java-ant,,false,,,,,,,,,,,469,38430
+661596880,661596888,812,d72922e395aa9c2fd0fd5b2de2e557790c2b92c5,java,ok,1,java-maven,junit,true,false,3579,0,3579,30,,,,,272.81999999999965,,44993
+675560541,675560542,844,f4bbfc5ba73a3d6dde61c6d685057d95604e1fbc,java,broken,1,java-maven,junit,true,true,3373,1,3374,1,,,,ClientCredentialsProviderTests.testCheckToken#,35.85000000000005,,45564

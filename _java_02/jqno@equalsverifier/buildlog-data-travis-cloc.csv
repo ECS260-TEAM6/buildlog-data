@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+80584976,80584979,114,75ecd0ceb977cb3c1309b8dca455a26fe27064a1,java,ok,21,java-maven,junit,true,false,632,0,632,1,,,,,19.430000000000014,,13490
+56527267,56527282,2,2ca082f51d3a9dff55bc39d0674171ff74614b72,java,ok,27,java-maven,junit,true,false,579,0,579,1,,,,,7.669999999999994,,12629
+145343708,145343710,343,8de8fa5ee69c5a3ae2dbbf520f0fb176ed8fa885,java,ok,0,java-ant,,false,,,,,,,,,,,65,16193
+191687147,191687156,383,90448649de3571e4985b13c3e3a6dd7093aeb2f7,java,ok,1,java-ant,,false,,,,,,,,,,,41.91,16450
+249569959,249569960,431,8c283b096f68ad82461293435b43d7da9211e664,java,ok,1,java-ant,,false,,,,,,,,,,,159,16729
+300595321,300595323,464,d6a70dd0ba335d2060602ac1a8e7df2ffd488ce0,java,ok,0,java-gradle,,false,,,0,,,,,,,,,16850
+352461371,352461375,526,1b5491c14bd9dd8268b1e3bf3e100d21e525d504,java,ok,1,java-gradle,,false,,,0,,,,,,,,,17082
+400093824,400093827,676,fc32501980e8a79df67bd9b5c377f831afd9e28b,java,ok,0,java-gradle,,false,,,0,,,,,,,,,17353
+412303654,412303660,697,61adaa57d7f72ec6d5b59638d8ffb82bce11f8af,java,ok,1,java-gradle,,false,,,0,,,,,,,,,17487
+455910236,455910241,819,3037cc4db6befe6bff96c595bc7e0ec4d83dc69b,java,broken,1,java-ant,,false,,,,,,,,,,,37.08,17501
+471953242,471953244,878,e91dbb11907bd61cce5aecb95f0f76be936edcd3,java,ok,1,java-ant,,false,,,,,,,,,,,74,18241
+473305272,473305279,892,95dc529ac8ba96092be460c55ee8369257c4de31,java,ok,1,java-ant,,false,,,,,,,,,,,71,18270
+506621481,506621483,907,f6e460ef3a1ad9216856f8a46903812e70ad1452,java,ok,1,java-ant,,false,,,,,,,,,,,81,18414
+517088008,517088013,919,25d73c9cb801c8b20b257d1d1283ac6e0585ef1d,java,ok,1,java-ant,,false,,,,,,,,,,,75,18420

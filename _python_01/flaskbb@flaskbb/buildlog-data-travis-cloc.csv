@@ -1,0 +1,5 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+395282178,395282179,1031,cf14339ea09833be979294abe3b484987dd846bf,python,ok,1,python,pytest,true,false,253,0,253,0,,,,,145.51,,12757
+407712936,407712941,1058,01f310ce9a5bfaa260bd64fd994d21ff51d7981e,python,ok,1,python,pytest,true,false,260,0,260,0,,,,,72.88,,12936
+417135414,417135429,1081,da03c017314d906fd5d6ee16567a93b0f79fbc41,python,ok,1,python,,false,,,,,,,,,,,,14209
+495662323,495662331,1119,510af6ff2d907a0cf6b57a21f64a9c1c0682e051,python,broken,1,python,,true,true,0,0,0,0,,,,flake8: commands failed,0,,14339

@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+648410460,648410461,1010,3b1dae44125e2eba55f28ed56e7de59bdfe2e896,java,broken,32,java-maven,junit,true,false,2584,0,2584,1,,,,,668.9099999999999,,218921
+653452221,653452222,1018,7d95c0fb0476fa6c37b8423743f42b7b38eca742,java,ok,35,java-maven,junit,true,false,2585,0,2585,1,,,,,703.4,,219183
+654775003,654775004,1026,9daba6e5a6b1bcc52f4c42df4f001dfaafcd88f3,java,ok,34,java-maven,junit,true,false,2585,0,2585,1,,,,,660.0500000000001,,219232
+655755709,655755710,1042,150a613709f7433e5186c3a37e3d8d2b3a8f161e,java,ok,37,java-maven,junit,true,false,2585,0,2585,1,,,,,683.2499999999999,,219259
+657297946,657297947,1058,ea1134d66b5b3ba8e65e3b44f7bdd63febb59e1f,java,broken,23,java-maven,junit,true,false,2617,0,2617,1,,,,,235.14999999999995,,220217
+658174474,658174475,1066,a152a28a2d2cac454e63bf6b0cdd1d3c72b1dc54,java,ok,37,java-maven,junit,true,false,2617,0,2617,1,,,,,220.29999999999998,,221002
+669781468,669781469,1082,e0fc5d834b0782548b52c3d0651b332b30c3fad6,java,ok,36,java-maven,junit,true,false,2631,0,2631,1,,,,,244.59999999999994,,221572
+681487426,681487427,1090,7313b2bb62be47a0d778670278186738b3fd6dcb,java,ok,21,java-maven,junit,true,false,2631,0,2631,1,,,,,221.39000000000004,,222463
+687484388,687484389,1098,333ee95604ec4ce31d35b98b83c7c865cfcdb727,java,ok,40,java-maven,junit,true,false,2631,0,2631,1,,,,,226.27999999999992,,222560
+698995051,698995052,1123,9cf21825fcf13c5f2817d07aa2f18c9cad54cbf7,java,ok,25,java-maven,junit,true,false,2635,0,2635,1,,,,,227.78000000000006,,222832
+734912026,734912027,1147,e95092fd435ee8d12836b7930c348063baaadc58,java,ok,23,java-maven,junit,true,false,2612,0,2612,1,,,,,221.53000000000023,,223879
+738924481,738924482,1155,dfef5ffd24cc502b35730665fa10749a1c578852,unknown,unknown,,plain,,false,,,,,,,,,,,,223883
+745365490,745365491,1163,bec0f4486910ca6c7a9f5f239c8365aa11c1c758,unknown,unknown,,plain,,false,,,,,,,,,,,,223997

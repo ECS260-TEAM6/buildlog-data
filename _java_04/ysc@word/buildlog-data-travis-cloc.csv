@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+201151866,201151867,10,201f5f3c1b0ac5ad25e09e75912c7f877de9082d,java,ok,12,java-ant,,false,,,,,,,,,,,47.6,10083
+232279003,232279004,12,1c489f9569338bdab074f8285255d16ae0c9a44e,java,ok,10,java-ant,,false,,,,,,,,,,,40.83,10083
+256128589,256128590,13,66647fdb409af1c6584e4b29e30f51d783d5ec98,java,ok,10,java-ant,,false,,,,,,,,,,,45.98,10102
+287639237,287639240,15,ac6ad2f28964bf2f76c8f3a43edac6d7b15c3450,java,ok,13,java-gradle,,false,,,0,,,,,,,,,10105
+292680286,292680288,16,75cc81098d648b848d974939ce737612fde913c6,java,ok,14,java-gradle,,false,,,0,,,,,,,,,9994
+292688697,292688698,17,4358b508015279f2dd6f17e4dc5ab2b0f23abf56,java,ok,11,java-gradle,,false,,,0,,,,,,,,,9994
+293194146,293194147,18,5b1ff25ee60aa3ac6e75d4b738f551c9c0faa6d8,java,ok,10,java-gradle,,false,,,0,,,,,,,,,9994
+293763341,293763342,19,df3f1a3568e5f2054ee9faf40b03358a09aea4d7,java,ok,11,java-gradle,,false,,,0,,,,,,,,,9994
+196296643,196296644,1,c393ad3ad180d49b06adc7f02fa30705cc560811,java,unknown,12,java-gradle,,false,,,0,,,,,,,,,10060
+301911499,301911505,20,75738c77f29331cea63fca394f5b9e7147d2bb11,java,ok,12,java-gradle,,false,,,0,,,,,,,,,9994
+303851429,303851430,21,843742b1180d0a5e220fdb2f44800eace4c2164e,java,ok,14,java-gradle,,false,,,0,,,,,,,,,9994
+383641922,383641923,22,a43cea6994b8c857495e1c9d27517a8ab7356d8a,java,ok,14,java-ant,,false,,,,,,,,,,,55.78,9997
+410664800,410664801,25,7f056c8f1be935119ecca61533c52e0d8d072105,java,ok,10,java-gradle,,false,,,0,,,,,,,,,9994
+434656644,434656645,26,5e45607f4e97207f55d1e3bc561abda6b34f7c54,java,ok,11,java-ant,,false,,,,,,,,,,,42.81,10000
+753640735,753640736,28,258a7fdd125b31ad4de639466e5d243d71bb4037,java,unknown,,java-ant,,false,,,,,,,,,,,,10000
+196297129,196297130,2,c51d4fff20d6603eb18b073e8c4f19ba92cd6528,unknown,unknown,,plain,,false,,,,,,,,,,,,10060

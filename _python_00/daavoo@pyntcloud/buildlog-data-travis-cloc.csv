@@ -1,0 +1,10 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+227419064,227419065,207,a9ba7e3c61d9c119025199f2178eaa48823ef42d,python,ok,1,python,pytest,true,false,22,0,22,0,,,,,7.16,,2475
+233728255,233728256,289,8bcce96083f1a292f0b32e1684696e3fe527a24b,python,broken,1,python,pytest,true,true,22,2,24,0,,,,test_read_off#test_read_color_off,2.99,,2390
+240447039,240447040,314,3a262698d1dbb2c813f0c71db2081d1f95faba47,python,ok,1,python,pytest,true,false,25,0,25,0,,,,,2.44,,2433
+213821612,213821613,41,fba72e4116cfd9f71ed432e042f7ffc4a3d88a5f,python,broken,1,python,pytest,true,true,0,18,18,0,,,,test_kdtree_filters#test_xyz_filters#test_read_ply_bin#test_read_ply_ascii#test_write_ply#test_read_npz#test_write_npz#test_read_obj#test_write_obj#test_read_mat#test_voxelgrid_sampling#test_mesh_sampling#test_points_sampling#test_eigenvalues#test_k_neighbors#test_normals_sf#test_rgb_sf#test_voxelgrid_sf,5.57,,1718
+313611276,313611279,485,d993370bab59134c07bb1e6852238fb633e7ff6c,python,ok,1,python,pytest,true,false,31,0,31,0,,,,,2.34,,2826
+359798603,359798604,516,6e663045495180581ddc77d604901e408c0a0247,python,ok,1,python,pytest,true,false,34,0,34,0,,,,,0.16,,3088
+384145325,384145326,556,f6370cbaac3edb334947d34e1a7b8563aa65abe2,python,ok,1,python,pytest,true,false,197,0,197,0,,,,,1.6600000000000001,,4178
+395803623,395803624,583,21d8fdb30a73090b806dc53db0807d7c1daf4535,python,ok,1,python,pytest,true,false,212,0,212,0,,,,,2.19,,4317
+558475284,558475285,684,94c47a0de6ab31926bfe776af9a6a25cdb8055de,python,broken,1,python,pytest,true,true,223,5,228,0,,,,test_voxelgrid_sampler_return_points_in_the_same_voxel#test_from_file[.obj-False-True]#test_obj_issue_221#test_obj_issue_226#test_to_file[.obj-False-True],4.78,,4650
