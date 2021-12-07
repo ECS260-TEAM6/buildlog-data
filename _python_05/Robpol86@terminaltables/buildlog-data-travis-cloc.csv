@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+34879902,34879903,10,a4c387dd150f8e47e0fe80c4784b64961d656112,python,ok,,python,pytest,true,false,78,0,78,0,,,,,0.63,,656
+78689463,78689464,194,a0db52ded175520aa194e21c4b65b2095ad45358,python,ok,0,python,pytest,true,false,300,0,300,0,,,,,37.24,,945
+133654050,133654051,431,c1d1e95a828eb8124da058400f8e01d593136742,python,ok,0,python,pytest,true,false,4921,0,4921,3,,,,,65.8,,1900
+168140148,168140156,593,6a989ec01d4a200d54ccb300bbf9097aad001992,python,ok,0,python,,false,,,,,,,,,,,,2904
+34459728,34459733,5,4d39c8b16c7dd90278a82daf22660472212462c4,python,ok,,python,pytest,true,false,66,0,66,0,,,,,0.42,,408
+210771860,210771862,610,935f952b26399cd13547cd2bf31c0e342af24718,python,ok,2,python,pytest,true,false,793,0,793,8,,,,,6.46,,2905
+221590172,221590180,627,4866c894bc0ba4d8e3f2834fc8de7f336ba972d4,python,ok,0,python,,false,,,,,,,,,,,,2905
+242263604,242263615,633,4866c894bc0ba4d8e3f2834fc8de7f336ba972d4,python,unknown,1,python,pytest,true,false,793,0,793,8,,,,,53.91,,2905
+274875693,274875695,669,ad8f46e50afdbaea377fc1f713bc0e7a31c4fccc,python,ok,0,python,pytest,true,false,793,0,793,8,,,,,3.0,,2905
+340788401,340788408,686,ad8f46e50afdbaea377fc1f713bc0e7a31c4fccc,python,ok,0,python,pytest,true,false,793,0,793,8,,,,,2.57,,2905
+391567178,391567182,692,ad8f46e50afdbaea377fc1f713bc0e7a31c4fccc,python,ok,1,python,pytest,true,false,793,0,793,8,,,,,34.16,,2905
+467324117,467324126,698,ad8f46e50afdbaea377fc1f713bc0e7a31c4fccc,python,ok,1,python,pytest,true,false,793,0,793,8,,,,,3.25,,2905
+519538358,519538365,703,ad8f46e50afdbaea377fc1f713bc0e7a31c4fccc,python,ok,1,python,pytest,true,false,793,0,793,8,,,,,2.29,,2905
+597159598,597159607,709,ad8f46e50afdbaea377fc1f713bc0e7a31c4fccc,python,ok,1,python,,false,,,,,,,,,,,,2905
+674248183,674248185,716,ad8f46e50afdbaea377fc1f713bc0e7a31c4fccc,python,broken,1,python,pytest,true,true,790,3,793,8,,,,test[ascii-False]#test[unicode-False]#test[bytes-False],3.17,,2905
+735240872,735240876,722,ad8f46e50afdbaea377fc1f713bc0e7a31c4fccc,python,broken,1,python,,true,true,0,0,0,0,,,,py: commands failed#test[ascii-False]#test[unicode-False]#test[bytes-False]#summary,0,,2905

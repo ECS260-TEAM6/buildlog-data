@@ -1,0 +1,11 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+48470369,48470370,100,d75dc132031c0c1395f94acba5d58515b7ed43c8,python,ok,0,python,unittest,true,false,5,0,5,0,,,,,0.51,,7727
+333474477,333474478,206,d516bff78359f357e71ec0c3489a9bf40568a7ea,python,ok,1,python,pytest,true,false,225,0,225,1,,,,,1.2700000000000002,,9536
+340890672,340890673,222,d458609ec7566f4ba7159d49b5ae2dbd2baa92f6,python,ok,1,python,pytest,true,false,229,0,229,0,,,,,1.2500000000000002,,9597
+348677542,348677547,238,442debaee4ddcfeedf80f755cc0c6a3de5620022,python,ok,1,python,pytest,true,false,228,0,228,1,,,,,1.1900000000000002,,9742
+390578966,390578971,254,9159e5cee1c905220025c27383998b83093a4f8a,python,ok,1,python,pytest,true,false,228,0,228,1,,,,,1.3899999999999997,,9797
+472210795,472210799,271,418a7392866b411a452dad54ee0917579f8bedb9,python,ok,1,python,pytest,true,true,226,7,233,1,,,,test_CiscoRange_compressed_str_01#testVal_IOSIntfLine_trunk_vlan_allowed_01#testVal_IOSIntfLine_trunk_vlan_allowed_02#testVal_IOSIntfLine_trunk_vlan_allowed_03#testVal_IOSIntfLine_trunk_vlan_allowed_04#testVal_IOSIntfLine_trunk_vlan_allowed_05#testVal_IOSIntfLine_trunk_vlan_allowed_06,5.05,,9893
+507367436,507367437,297,42e2e2230f36d532a62831dc8f210eeb07927eed,python,ok,1,python,pytest,true,false,292,0,292,1,,,,,7.62,,9933
+537826997,537826998,321,90921922d7f5ebd11ba92d8dac281be41654e52d,python,ok,1,python,pytest,true,false,296,0,296,1,,,,,7.300000000000001,,10103
+702756256,702756258,396,cdbf9e553862472a1d482c3d8303b05316998337,python,ok,1,python,pytest,true,false,303,0,303,1,,,,,5.849999999999999,,11694
+48185164,48185167,78,a5f604c4c306d246b85120eda857bd4a672a36c1,python,ok,0,python,unittest,true,true,1,4,5,0,,,,,0.43,,7200

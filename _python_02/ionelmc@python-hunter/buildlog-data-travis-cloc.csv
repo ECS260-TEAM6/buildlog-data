@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+55888210,55888214,13,a77a9597b19b9d30a87d8223591c832ae79858de,python,ok,1,python,pytest,true,false,22,0,22,1,,,,,0.45,,585
+122903301,122903320,171,20fabac7969def549cebde0a6ff089bbe9fb5138,python,ok,0,python,pytest,true,false,77,0,77,3,,,,,5.28,,2025
+271177420,271177424,204,3e5668470d9d1b8b2e152a889a07cfdbf6e70ab7,python,broken,1,python,pytest,true,true,83,4,87,2,,,,test_manhole#test_manhole_clean_exit#test_gdb#test_gdb_clean_exit,87.82,,2452
+413558543,413558599,233,fc63fff556b5a8d6601d964adf1efc9ff4f4cad3,python,unknown,,python,,false,,,,,,,,,,,,2538
+456346271,456346290,258,b54f93e193331cde0603754e42ab978113e7cc15,python,ok,1,python,pytest,true,false,125,0,125,2,,,,,30.83,,2930
+481809486,481809497,323,6f61546974a2751fc28303a4d60c4c208322a920,python,ok,1,python,pytest,true,false,132,0,132,7,,,,,33.17,,3155
+533464920,533464940,341,5e37333ec9d365651f0949622590457477deab48,unknown,unknown,,plain,,false,,,,,,,,,,,,3232
+535216917,535216937,361,4256aee518d583cec432a32508115d7f8c9f3498,unknown,unknown,,plain,,false,,,,,,,,,,,,3171
+546715178,546715196,410,89dc438b9134c4e57c6c59ab4b28df89a70eca49,python,broken,2,python,pytest,true,true,141,1,142,7,,,,test_dump_exceptions,25.83,,3792
+596994511,596994520,429,e235110f3c650292aa60fedfa39f0717429c19f1,python,ok,2,python,pytest,true,false,142,0,142,7,,,,,23.48,,3730
+635546413,635546434,455,ce70e521886ff4a35b9310d5fb9be6e064352e16,python,ok,1,python,,false,,,,,,,,,,,,3862
+638775461,638775464,473,95f43e17eb7e2f96aa052babb9d5194d615d84aa,unknown,unknown,,plain,,false,,,,,,,,,,,,4437
+714624218,714624235,526,2171cf92743ae5fc97e9cb401a6affb7fa06b02c,python,broken,1,python,,true,true,0,0,0,0,,,,py35-pure-nocov: commands failed,0,,5575
+719067366,719067380,539,aad05a04cc57339755a806989bcdfad6c28628a1,python,ok,8,python,,false,,,,,,,,,,,,5752
+738439848,738439858,551,651b8eb8ce1cb09e04827ad48d3888d353a575c2,python,ok,3,python,pytest,true,false,746,0,746,9,,,,,161.55,,5873
+97941104,97941118,67,849ed1bc41cd495626767ae40f29c9bd08e17ec1,python,ok,0,python,pytest,true,false,36,0,36,14,,,,,4.98,,1315

@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+32836489,32836490,100,8f69c34cc9a2ffbbd9463684c12a99e7d2ccdccf,python,broken,,python,unittest,true,true,63,1,64,0,,,,,17.11,,3868
+35548109,35548110,121,2a2b5fc03f68b2592f438efb1c2bda0b76b98e17,python,ok,,python,unittest,true,false,129,0,129,0,,,,,35.8,,4630
+19908950,19908951,12,537e6669a2fc796d32c9f61f4b124ba9b7ba0760,python,ok,,python,unittest,true,false,29,0,29,0,,,,,3.61,,1406
+19927406,19927407,13,1236c7ec73293764a9d1dfcc9515213a5873c867,python,ok,,python,unittest,true,false,29,0,29,0,,,,,3.23,,1409
+19977928,19977929,15,2f7c87633f0dc6f0dc6b64ebfe74409604e24cc6,python,ok,,python,unittest,true,false,29,0,29,0,,,,,2.91,,1445
+19831710,19831711,1,7dbec033edfad1ab123c0e3cbd9eb90442e5c0aa,ruby,broken,,ruby,,false,,,0,,,,,,,,,1321
+20969495,20969496,29,32ed7bb38609dbb38d0501b5390a06e854024569,python,ok,,python,unittest,true,false,24,0,24,0,,,,,3.24,,1688
+21850182,21850183,33,30bb62f976030e580fabe9d60914f8f7e5841dcf,python,ok,,python,unittest,true,false,24,0,24,0,,,,,2.85,,2319
+19854154,19854155,3,44ef4d2f2dac8c35265cc890f4afb437e5b41b16,python,broken,,python,unittest,true,true,2,27,29,0,,,,,1.77,,1321
+25823282,25823283,53,5260cde00fbccb2835ce6f87ebcbd457d0827c8d,python,ok,,python,unittest,true,false,24,0,24,0,,,,,5.42,,3012
+26606408,26606409,58,36a3566454b60a7c5c5cb95ebcb5a5435b4fa28c,python,broken,,python,,false,,,,,,,,,,,,3149
+27347502,27347503,62,2b9457ef899f7367dc07ba28cc1b7e4ff2c47d8e,python,ok,,python,unittest,true,false,51,0,51,0,,,,,10.31,,3182
+27710308,27710309,67,a8fdffcc59317259d4024912f116be00830ccab1,python,ok,,python,unittest,true,false,51,0,51,0,,,,,11.55,,3427
+27969187,27969188,71,51661834d0e4c0032f7d5e40c50a88b300e1f6e3,python,ok,,python,unittest,true,false,64,0,64,0,,,,,15.45,,3521
+28446493,28446494,79,c459fcaa41d9e74d37886cdf156c48705ac07f5e,python,ok,,python,unittest,true,false,64,0,64,0,,,,,11.35,,3628
+30356551,30356552,86,e9bc8bc7c13547fee700b4d2349148c8c5304c32,python,ok,,python,unittest,true,false,64,0,64,0,,,,,12.26,,3759

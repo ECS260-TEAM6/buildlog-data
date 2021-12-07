@@ -1,0 +1,12 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+15397136,15397137,101,9bea55d93f722353ccc2839e3e4fa7fca89a3455,python,ok,,python,pytest,true,false,43,0,43,0,,,,,7.4,,724
+16651553,16651560,115,36b0d5d5da5d34cb768cd80e2ca2a1c22ed544d1,python,ok,,python,pytest,true,false,47,0,47,0,,,,,16.38,,767
+17839756,17839760,139,c14104ee0de343d1bd298f578f4ed46ab70e00dc,ruby,broken,,ruby,,false,,,0,,,,,,,,,1037
+20040052,20040054,154,3df97413f1586fd3d923c21e00d3d8b4340ea387,python,ok,,python,pytest,true,false,66,0,66,0,,,,,33.19,,1128
+26197281,26197284,170,e7b87b0d0328b841f09d148583b164b186bc67c0,python,ok,,python,pytest,true,false,69,0,69,0,,,,,22.22,,1226
+27667407,27667413,191,3beb6ddf2800f38ca8bdb60960d0b19b5957d577,python,ok,,python,pytest,true,false,79,0,79,0,,,,,34.56,,1439
+47105760,47105767,252,5d187460f861b132989491f60386df18ad3ede71,python,ok,0,python,pytest,true,false,85,0,85,0,,,,,24.8,,1519
+59289953,59289957,276,fbebf47aabbd4529735a49b2bdd29fcb4a6acbac,python,broken,0,python,pytest,true,true,65,22,87,0,,,,test_regression_help_in_workdir[git]#test_dry_run[git]#test_commit_and_tag[git]#test_commit_and_tag_with_configfile[git]#test_commit_explicitly_false[git]#test_commit_configfile_true_cli_false_override[git]#test_current_version_from_tag[git]#test_current_version_from_tag_written_to_config_file[git]#test_distance_to_latest_tag_as_part_of_new_version[git]#test_override_vcs_current_version[git]#test_read_version_tags_only[git]#test_tag_name[git]#test_message_from_config_file[git]#test_utf8_message_from_config_file[git]#test_commit_and_tag_from_below_vcs_root[git]#test_subjunctive_dry_run_logging[git]#test_log_commitmessage_if_no_commit_tag_but_usable_vcs[git]#test_listing[git]#test_no_list_no_stdout[git]#test_regression_tag_name_with_hyphens[git],37.67,,1538
+9691192,9691193,56,fb0cf6ff4c78107742889dc79a539c3db6d2e80d,python,ok,,python,pytest,true,false,32,0,32,0,,,,,4.4,,570
+12787603,12787606,72,7df403356a45e1eb6d99cdb5be96aac5ee30632e,python,ok,,python,pytest,true,false,39,0,39,0,,,,,8.78,,691
+13108237,13108239,84,2832bde725b2d4568b3fea311b794ba506213c61,python,ok,,python,pytest,true,false,39,0,39,0,,,,,5.25,,691

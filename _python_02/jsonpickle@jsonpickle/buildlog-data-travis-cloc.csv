@@ -1,0 +1,13 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+533142018,533142019,100,f38659927f54ebf77b9b0e8b05c701e597151f35,python,ok,1,python,pytest,true,false,1747,0,1747,20,,,,,13.24,,4913
+653955811,653955813,136,09a28cf45f45d2b79cefd45a1841d4a2e9a685fc,python,ok,0,python,,false,,,,,,,,,,,,5248
+677400608,677400617,173,632b9a9c8683fd6130855fe633768ff426b3acec,python,ok,0,python,,false,,,,,,,,,,,,5488
+726518837,726518852,180,47b086a001fc8d893c391fac475ca4956ac8550a,python,broken,0,python,,false,,,,,,,,,Black format check#= 'a' into#= 'a' into#Black format check#Black format check#Black format check#FLAKE8-check#summary,,,5499
+746668414,746668421,188,99af0c8b96b5728ab6cfb4bc44d1d2ca4d9566bf,python,ok,1,python,,false,,,,,,,,,,,,5506
+754529511,754529521,195,24cee6712538f31b3c56423a49c13d4f9a972d92,python,ok,1,python,,false,,,,,,,,,,,,5504
+754594955,754594959,201,33284f3ef4d1e4ee65e6e93176f6a200f789428f,python,ok,1,python,pytest,true,false,353,0,353,21,,,,,8.22,,5542
+754823349,754823355,207,ae0689a996e7ab7131c14f36bac49aece64a726c,python,ok,1,python,,false,,,,,,,,,,,,5542
+756921277,756921279,231,39a6cbed3b9d99b9d3ce560eed44a2c10e1e9136,python,ok,1,python,pytest,true,false,364,0,364,21,,,,,9.01,,5761
+758002754,758002756,243,6ef91dfb3e930f0fd8342f6f258ea1f502262ee0,unknown,unknown,,plain,,false,,,,,,,,,,,,5765
+758875051,758875076,260,2ecd21682fdf8d3ba0e32d803e215af78b47ed32,python,ok,2,python,,false,,,,,,,,,,,,5976
+377782097,377782100,31,64a5e10f070548fa9c1f792f3d56f1fcdf3ed3ff,python,ok,0,python,unittest,true,false,267,0,267,3,,,,,0.55,,4373

@@ -1,0 +1,12 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+239788619,239788620,100,9bd04cc0866dabe67eca75a669b8f305e47538e2,python,ok,5,python,pytest,true,false,26,0,26,0,,,,,0.68,,1460
+295601459,295601460,116,c9235021cdc114ef3b76e311fbcca48e086a7213,python,ok,8,python,pytest,true,false,26,0,26,0,,,,,0.52,,1460
+327553815,327553816,122,79f7e58ca42c69d020aa56c3a4618408cbd9f791,python,ok,15,python,pytest,true,false,44,0,44,0,,,,,0.8300000000000001,,3111
+344062381,344062382,129,c34942f6777bbd324b431ae6e1a1039150c9a7cd,python,broken,8,python,pytest,true,true,42,2,44,0,,,,test_print_model_with_no_trait#test_print_model_with_no_trait,1.2000000000000002,,3111
+345182325,345182328,137,0f5884aabba002b99237d4314cde3233b945fc28,python,ok,6,python,pytest,true,false,44,0,44,0,,,,,0.94,,3187
+350733991,350733992,143,44a5ad79b422d9bc4d4d424420412949e12a8db3,python,ok,7,python,pytest,true,false,44,0,44,0,,,,,0.9199999999999999,,3207
+376488245,376488246,161,bbbadd1c0e75aba3e4a40a86263383087cf3b3ac,python,ok,8,python,pytest,true,false,44,0,44,0,,,,,0.8400000000000001,,3590
+233300788,233300789,38,59538c3755fc73134eca5da2d597ecdd00351d02,python,ok,6,python,pytest,true,false,26,0,26,0,,,,,0.65,,1460
+233318287,233318288,44,98f3133fa95be0982098f489ba94f8911cb208ac,python,ok,5,python,pytest,true,false,26,0,26,0,,,,,0.6799999999999999,,1460
+233883662,233883663,50,3712832a196abc22bcdae708465f034fb715129c,python,ok,5,python,pytest,true,false,26,0,26,0,,,,,0.61,,1460
+236502033,236502034,75,1fa189881209dcf9d8ce38e6a5aed64235645064,python,ok,7,python,pytest,true,false,26,0,26,0,,,,,0.87,,1460

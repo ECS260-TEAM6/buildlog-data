@@ -1,0 +1,10 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+101840121,101840122,13,1eef590340b1fd69accf6a54b88bc5b9be3363ae,python,ok,1,python,unittest,true,false,109,0,109,0,,,,,4.82,,5042
+142034589,142034592,159,6ecf2f76c4c2eb94aedbe4dc94d541eae6307156,python,ok,1,python,unittest,true,false,116,0,116,0,,,,,9.3,,5422
+102105711,102105713,16,e33f982a7c7b47ae8418a8d09beddff379f3ae7e,python,ok,1,python,unittest,true,false,109,0,109,0,,,,,5.16,,5055
+171839679,171839681,179,7829f928c31c749ab989ed126937ae34d6ac9722,python,ok,1,python,unittest,true,false,130,0,130,0,,,,,12.93,,5485
+96183604,96183606,1,92db40471e36467de1aed7d610dcfb9a0fa19e9b,python,ok,1,python,unittest,true,false,109,0,109,0,,,,,7.9,,5041
+362447510,362447513,232,e755e39c810fbf0e2c08e16bd3697c51554dcda2,python,ok,5,python,unittest,true,false,132,0,132,0,,,,,13.71,,5618
+750000195,750000198,248,db26ba20c3b48ccf405a592e0dbcbe59efe8611c,python,broken,1,python,unittest,true,true,130,2,132,0,,,,lightning.impl.tests.test_adagrad.test_adagrad_hinge_multiclass#lightning.impl.tests.test_sdca.test_sdca_hinge_multiclass,4.7,,5625
+752845308,752845311,256,ecd9ad06ee2f8f4711893a0b8c03038185121d2b,python,broken,1,python,unittest,true,true,130,2,132,0,,,,lightning.impl.tests.test_adagrad.test_adagrad_hinge_multiclass#lightning.impl.tests.test_sdca.test_sdca_hinge_multiclass,4.8,,5627
+96250485,96250486,5,9d5926241345a1f5530ac6057309a96215f97691,python,ok,1,python,unittest,true,false,109,0,109,0,,,,,17.43,,5041

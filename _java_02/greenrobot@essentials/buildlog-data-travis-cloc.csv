@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+220472078,220472079,100,e449a68182544bec8745491ea8847a1970bfb9b8,android,broken,0,plain,,false,,,,,,,,,,,,6192
+740897725,740897728,116,4f0319d6010561b81eaa2f6ff9b3df8e873431e9,android,broken,1,plain,,false,,,,,,,,,,,,6278
+740962420,740962421,122,50417a2f0b83828ef1b9e7868ae770af5bef0927,unknown,unknown,,plain,,false,,,,,,,,,,,,6281
+740964627,740964628,125,c985b5ee7ed9d87916cb901a41889f7409c7a5fa,android,broken,1,plain,,false,,,,,,,,,,,,6281
+741231167,741231170,133,c985b5ee7ed9d87916cb901a41889f7409c7a5fa,android,broken,1,plain,,false,,,,,,,,,,,,6281
+741243929,741243932,136,d81a5337ba04ad7e2faf6bb6532127b0dfedd960,unknown,unknown,,plain,,false,,,,,,,,,,,,5388
+96130385,96130391,14,5676f3f06c92261907be952eec482d084a1a5f9c,java,ok,1,java-maven,junit,true,false,158,0,158,1,,,,,0.7700000000000002,3.69,4629
+39989330,39989331,1,ec65577ffe9401e621e6daf1f1f69218e2006107,java,ok,,java-maven,junit,true,false,149,0,149,1,,,,,1.6200000000000006,8.12,4281
+110085493,110085500,24,2fbdda4b6b4e9c6a51b9a676f3619eac67c8b4fe,java,ok,1,java-maven,junit,true,false,175,0,175,1,,,,,1.2200000000000002,4.88,5049
+39991044,39991046,2,589df848ac92d78aa220fc219741d0add16b68d9,java,ok,,java-maven,junit,true,false,149,0,149,1,,,,,2.2300000000000004,9.82,4280
+110214769,110214772,35,de6cd05cd7dac4b6af7dcd7227076ea530636eac,java,ok,0,java-maven,junit,true,false,184,0,184,1,,,,,2.89,13.37,5363
+110410710,110410711,41,76967dbf0ffd19bffb38f5dd40232846b18fcc98,java,ok,0,java-maven,junit,true,false,145,0,145,1,,,,,2.07,12.02,5114
+111051510,111051511,47,769d7f5eb9be99dbc501e11c820653ce36751e68,java,ok,1,java-maven,junit,true,false,151,0,151,1,,,,,2.0300000000000002,9.66,5187
+40541849,40541850,7,bb029c99fae23fdbdc150a2b5a044a924a290ce3,java,ok,,java-maven,junit,true,false,151,0,151,1,,,,,0.7200000000000002,3.91,4373

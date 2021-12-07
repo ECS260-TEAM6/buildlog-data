@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+127371521,127371522,117,bb2e7953160ca4c7515c2ce32423ea2fa687a316,ruby,broken,287,ruby,,false,,,0,,,,,,,,,21037
+137879855,137879856,203,826a126bcb79fc90a182323da5199380d9a3f9c3,java,ok,5,java-gradle,junit,true,false,,0,,,,,,,,,7621
+152489547,152489548,241,e87a43fe78e23811a4a8734b9a989e833b95c7f7,java,ok,6,java-gradle,junit,true,false,,0,,,,,,,,,9105
+158286100,158286101,271,2e089bf517ea66f62a91133bb48c5cbbc70ea734,java,ok,6,java-gradle,junit,true,false,,0,,,,,,,,,9221
+159745615,159745616,297,5d48cd49366f129bc33860ac6d1032bc9646bf6a,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,9321
+183985806,183985807,404,6fb8a91291918311e93eebc098160f4922c97c46,unknown,unknown,,plain,,false,,,,,,,,,,,,9929
+196845702,196845703,442,b396f95f1a30c91e5d24a6d97861074a4fad496d,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,10336
+210983704,210983705,480,12184798c7701d5a9ce281f480ee941984ad417f,java,ok,6,java-gradle,junit,true,false,,0,,,,,,,,,10438
+221553520,221553521,511,eccc48aaeb7d9542da726ad970eec0647c06dfb8,java,unknown,1,java-ant,,false,,,,,,,,,,,,10554
+255506823,255506824,541,5ddcd6ad2ef14a4e35d4f1610fd75f4781ed71fd,java,ok,2,java-gradle,junit,true,false,,0,,,,,,,,,10688
+276584138,276584139,577,1405f3f7ae63a9d17f081fbeb2982071a0c0280b,java,unknown,18,java-gradle,,false,,,0,,,,,,,,,11010
+292409700,292409701,607,59ae72e862fde67cc5bc2bd960f32cfb335c93b0,java,ok,3,java-gradle,junit,true,false,,0,,,,,,,,,11269
+303108228,303108230,634,3d530e40e63791c16c04793dc1539f11ad28a8df,java,ok,3,java-gradle,junit,true,false,,0,,,,,,,,,11269
+386324781,386324783,737,b19b64785a053b1d37d9f6c6203e5c6d56fd2d94,java,ok,7,java-gradle,junit,true,false,,0,,,,,,,,,11428
+571686305,571686306,873,9c2efd4396136830fcae1f28fe1cf43d09fbbdb2,java,ok,2,java-gradle,,false,,,0,,,,,,,,,13142

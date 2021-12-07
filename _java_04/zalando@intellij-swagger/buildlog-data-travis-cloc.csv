@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+200933606,200933607,100,da87a4a6f7d0a87cb78515eeef642ca6b2a6f373,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,17201
+227847554,227847555,116,2420cbd72cbe6bb0aac8351114895616ea3678ab,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,7628
+252752679,252752680,132,3e3cf0dbaae4a9b39d01720fa7526a3ecaebad0f,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,7710
+139682297,139682298,17,166218c46f26e87a45ed8137ac0f2434de974db1,java,ok,2,java-gradle,junit,true,false,,0,,,,,,,,,4874
+139687111,139687112,19,9efb94d9f78cfbd7a997eaacd3a25b8423f96fd6,java,ok,2,java-gradle,junit,true,false,,0,,,,,,,,,4889
+450738038,450738039,271,52a84ba8cbe242a7cbf94e776fcbe950d53a0ec4,java,ok,2,java-gradle,junit,true,false,,0,,,,,,,,,12245
+458381586,458381587,293,794a02a3f98c6d54854be2b6aa02823b7dc58a61,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,12336
+474764188,474764189,318,3c72b38075ce0f32be7c9904f305cf91333873eb,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,13024
+505685643,505685644,370,dcd7b8d8f3080776c96b45e5249497cfa54c8419,java,ok,1,java-gradle,,false,,,0,,,,,,,,,12508
+511465870,511465871,395,6a44266beba59da17670e997ac94619a8de78701,java,ok,1,java-gradle,,false,,,0,,,,,,,,,13081
+527239043,527239044,420,1512a61d38711ca3015874c1b1e017b433ae243a,java,ok,1,java-gradle,,false,,,0,,,,,,,,,13332
+159541833,159541834,46,58d7fb48a1c097347404a9621c6135ae74ab7708,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,19585
+183599741,183599744,64,832ad4cfcd84407f4f8b8208d0925d97e345d5a3,unknown,unknown,,plain,,false,,,,,,,,,,,,17201
+187710097,187710098,80,05db27b89f37db2985381160a691c3f13b76f8ef,java,ok,1,java-gradle,junit,true,false,,0,,,,,,,,,17201

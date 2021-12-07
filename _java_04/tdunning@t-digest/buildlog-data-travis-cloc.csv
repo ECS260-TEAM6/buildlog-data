@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+261434906,261434907,107,fa23ab78f5f9f7606ee67f4f84c65afa5f76005e,java,broken,1,java-maven,,false,,,,,,,,,,0,,4800
+261643182,261643184,114,7aaa5b76e7e590967277dac45baa34c12e0b717b,java,ok,1,java-maven,,false,,,,,,,,,,0,,4772
+269472103,269472104,125,641646ffa47420c28b17c4ae71e13ffc507deb25,java,broken,1,java-gradle,,false,,,0,,,,,,,,,5335
+380325004,380325006,134,b2d0bd2481ce12803bbe05c78f226b87ac94576e,java,broken,1,java-maven,,false,,,,,,,,,,0,43.35,5524
+469333618,469333620,153,cdc196ce4ea8043d4ab09170da17634bc647c6de,java,broken,1,java-maven,,false,,,,,,,,,,0,34.23,6584
+490882685,490882686,169,2caf969004bc18296510c74f852ac68d0f7d1b2f,java,broken,4,java-maven,,false,,,,,,,,,,0,149,7216
+565541063,565541064,186,ae499bf2675c3b1b89449c34214348515463e536,java,broken,1,java-maven,,false,,,,,,,,,,0,,7463
+730787003,730787004,204,0bb04ab9dc8d8743481819d36690bc0d1ab3ef61,java,broken,1,java-maven,junit,true,true,6,1,7,0,,,,testConservativeBuild(com.tdunning.tdigest.quality.SinglePassTest)#,309.61,,7513
+754969307,754969309,214,b45480cdc9d227787c2747ae2758a30c135c31a9,java,ok,1,java-maven,junit,true,false,7,0,7,0,,,,,642.58,,7569
+758271128,758271129,224,c55e6ba9c717e07aa1e4dcb9489967b53963dd91,java,ok,1,java-maven,junit,true,false,7,0,7,0,,,,,575.94,,7977
+53735057,53735059,30,6471186211ba3091c9c1126514db3ea02947c4c4,java,broken,1,java-maven,junit,true,true,100,3,103,4,,,,MergingDigestTest.testSorted#MergingDigestTest.testNarrowNormal#MergingDigestTest.testMerge#,373.19,,5627
+32195956,32195957,5,01e51f81d358b28e77e784cab65272cdf7dd7537,java,ok,,java-maven,junit,true,false,76,0,76,3,,,,,282.91999999999996,,4676
+133584897,133584898,67,98d9ce78c8cc8f5177d9d1cfe7a87550ebd38385,java,broken,1,java-maven,junit,true,false,18,0,18,0,,,,,1.4500000000000002,,6081
+32196088,32196090,7,fdb32dd38c15ba6bf52cc64e78edd7ec1013c7fe,java,ok,,java-maven,junit,true,false,76,0,76,3,,,,,242.77,,4676

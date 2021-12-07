@@ -1,0 +1,12 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+29167390,29167391,100,8581d3bb9a0066b872dc8daddfde070fdcda7b89,python,ok,,python,unittest,true,false,4,0,4,0,,,,,0.02,,1694
+35649127,35649129,124,0642c73b748a6fdbd8019f715fe3d3f8e5d705b7,python,ok,,python,unittest,true,false,4,0,4,0,,,,,0.02,,1706
+59734526,59734530,196,fbe72716a9ec01d7ba29e24d7834e5d52081081b,python,broken,1,python,,false,,,,,,,,,,,,1730
+88471515,88471519,253,7461780cdddbcf6b18937d2856b6cce886929ea7,python,ok,0,python,unittest,true,false,11,0,11,0,,,,,0.74,,2611
+95184260,95184273,272,3200318e208b5f3a3f2fd01e6c1af19f7f2aaa8e,python,ok,0,python,unittest,true,false,17,0,17,0,,,,,0.73,,2677
+96372254,96372258,291,96bcec01fc8a92ecec23e8fd4f21bc1b29a7ed96,python,broken,1,python,,true,true,0,0,0,0,,,,InvocationError: '/home/travis/build/pinax/django-user-accounts/.tox/py33-1.8/bin/flake8 account'#py33-1.8: commands failed,0,,3481
+158794403,158794405,337,384476aec2026ec2d7857f391d51cd73cd82b50d,python,ok,6,python,unittest,true,false,36,0,36,0,,,,,1.54,,3577
+168690072,168690073,389,676f428546e918189995cbaf0711b459c298fb66,python,ok,0,python,unittest,true,false,50,0,50,0,,,,,2.3,,3996
+267635774,267635777,455,3bdd32b831dba9c9da0baaae61ffbc052722ec6a,python,ok,1,python,unittest,true,false,53,0,53,0,,,,,5.25,,4135
+281367398,281367412,467,50008c74bb1b8214210f66ed8ce2756496f3b92b,python,ok,1,python,unittest,true,false,53,0,53,0,,,,,4.21,,4136
+16944181,16944183,52,c390b2a030244aa8963dff150554e73a3771c9a5,python,ok,,python,unittest,true,false,4,0,4,0,,,,,0.03,,1610

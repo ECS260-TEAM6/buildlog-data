@@ -1,0 +1,17 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+69653406,69653407,10,f72356820c22338b67e1551f417961751b504297,android,ok,0,plain,,false,,,,,,,,,,,,1662
+71201305,71201308,13,ad4da2074b89dcad687d1adad530834c0c5e0421,android,ok,0,plain,,false,,,,,,,,,,,,1856
+86970256,86970257,16,96ea8955317805a8060f308bab0ccf9caa0439ac,android,broken,0,plain,,false,,,,,,,,,,,,1856
+94731952,94731953,19,f73964f57f6f25a3bf8841cea33c43fb289756ba,android,ok,1,plain,,false,,,,,,,,,,,,1910
+108072355,108072357,22,78f4796f28edb45642014e3409e7891c274ade6b,android,ok,2,plain,,false,,,,,,,,,,,,1910
+130441694,130441695,25,3ac411a2ce3320c581d46dca6487c711ad016d37,android,ok,0,plain,,false,,,,,,,,,,,,1256
+133538738,133538741,28,73f7064cbc128cde4e3aa051491baefbfc60ba40,android,ok,0,plain,,false,,,,,,,,,,,,1274
+133548248,133548249,30,7848771b71785623249db56ecbac66be1297945f,android,ok,0,plain,,false,,,,,,,,,,,,1335
+142886203,142886204,33,6863b12b6a8c08dce3a6a9960d4c152c3e508324,android,broken,1,plain,,false,,,,,,,,,,,,1233
+154286375,154286376,36,4f15e7f3b174b280ddf3ab37f367b805cecf3b17,android,ok,1,plain,,false,,,,,,,,,,,,1259
+154506646,154506647,39,5ea8565d27e37a46d2918046af385a6db02f6b5f,android,ok,0,plain,,false,,,,,,,,,,,,1273
+179879193,179879194,41,089a2bd13d11f871e0bf4a2ad129f4399370e323,unknown,unknown,,plain,,false,,,,,,,,,,,,1273
+302812433,302812434,44,a51f5d867674170457a624f63081bcd2189a1fde,android,ok,1,plain,,false,,,,,,,,,,,,1216
+448433322,448433323,47,4e803712e81664740f5fa3d2ceb1dc3f6f9f5bd6,android,ok,1,plain,,false,,,,,,,,,,,,1210
+62480908,62480909,4,46eee5fff4a2ccf52b38844dead2627a56df6fc4,android,ok,0,plain,,false,,,,,,,,,,,,1618
+66787875,66787876,7,2b98a5dac1522de5e1fba5f922295b23533a5f73,android,ok,0,plain,,false,,,,,,,,,,,,1662

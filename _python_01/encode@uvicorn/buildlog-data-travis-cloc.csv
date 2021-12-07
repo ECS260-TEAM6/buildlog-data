@@ -1,0 +1,9 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+595661718,595661721,1149,3d8ce40c61dd514f106c69caa68546484809d846,python,ok,1,python,,false,,,,,,,,,,,,4193
+601210937,601210938,1187,a1ea9d9a3182481765014ba0134c7aaa6398e386,python,ok,1,python,,false,,,,,,,,,,,,4197
+605453143,605453144,1278,7c59e1384957367036faf2a4414a48f763d54602,python,ok,2,python,,true,true,0,0,0,0,,,,Task was destroyed but it is pending!#Task was destroyed but it is pending!#Task was destroyed but it is pending!#Task was destroyed but it is pending!#Task was destroyed but it is pending!#Task was destroyed but it is pending!#Task was destroyed but it is pending!#Task was destroyed but it is pending!,0,,4502
+609643478,609643480,1305,e821fd1ff5653f989d500d41fa6ba070858f6843,python,ok,1,python,,false,,,,,,,,,,,,4519
+612352536,612352539,1337,b8456905c5cb15b3a00b90771a5fd31dd4156bd5,python,ok,1,python,,false,,,,,,,,,,,,4571
+620835321,620835325,1362,ad4ea90568a42eaa24cc6c597783246de5f35915,python,ok,1,python,,false,,,,,,,,,,,,4576
+627221848,627221853,1386,5742e8bc0e308b23c6257fac03059e43af002aec,python,ok,1,python,,false,,,,,,,,,,,,4590
+673457962,673457967,1511,fdb89e9cc942aaf38eb57b71172d02c868502aa3,python,ok,1,python,,false,,,,,,,,,,,,4787

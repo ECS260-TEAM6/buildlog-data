@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+89530116,89530117,102,f7c0ed7be3222303822229ab6de6a467ceac1dd8,java,ok,1,java-maven,junit,true,false,1750,0,1750,0,,,,,30.360000000000007,43.22,48660
+63263417,63263418,16,63b27b76fb740d1133bfda81497845a9689edd1d,java,ok,0,java-maven,junit,true,false,1663,0,1663,0,,,,,22.220000000000002,34.37,46824
+180242235,180242237,215,e624a9b4df68f0c3834cd11364748094f7e1860d,unknown,unknown,,plain,,false,,,,,,,,,,,,47689
+224152678,224152680,268,42642c08083ff46ad7ea47683dbc5e604391191f,java,ok,1,java-ant,,false,,,,,,,,,,,31.79,49763
+264084990,264084992,324,ca448af76a4a8fe79f2fc7db1b97c068bf7c9b69,java,ok,1,java-ant,,false,,,,,,,,,,,73,50824
+70784659,70784664,37,5526a2bffcd5b2a47a5f00d67fa804a105fffcd4,java,broken,0,java-maven,junit,true,true,1667,2,1669,0,,,,testCanConvertAnotherInstance(com.thoughtworks.acceptance.XStreamerTest)#testCanBeUsedAfterSerialization(com.thoughtworks.acceptance.XStreamerTest)#,14.349999999999978,18.91,47259
+404643445,404643448,419,631755a4dd7d650b22b66f35729ddd3fb62c2de0,java,broken,1,java-gradle,,false,,,0,,,,,,,,,51007
+446947246,446947249,478,ab712e727f2910d28da8ddbc0a7327ab252d0264,java,ok,1,java-ant,,false,,,,,,,,,,,45.27,51175
+499459412,499459424,499,81d29765095165e3d88aa14426c159c570382570,java,ok,1,java-ant,,false,,,,,,,,,,,68,51345
+617916248,617916249,571,f0a9b5d9fc7aad061725eccbbbc516e1167ef7f5,java,ok,1,java-ant,,false,,,,,,,,,,,101,52394
+674606913,674606914,613,a0cd197d9210402ab00c9d71646aeb3cb59e5654,java,ok,1,java-ant,,false,,,,,,,,,,,47.1,52453
+724746407,724746409,650,c0859f2be489a919a5f7193db0fd2d8b47b72112,java,broken,1,java-ant,,false,,,,,,,,,,,32.84,52749
+750323057,750323062,681,ac844722d82aa26d66181e92535696100cddbc2c,java,ok,1,java-ant,,false,,,,,,,,,,,48.06,52983

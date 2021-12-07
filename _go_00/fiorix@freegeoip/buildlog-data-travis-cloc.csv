@@ -1,0 +1,8 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+116666698,116666699,100,58aba23e8e8960c74ef0a459987da1a397f127d2,go,ok,0,go,gotest,true,false,18,0,18,0,2,2,0,,10.010000000000002,,1220
+283136029,283136030,149,989e6d4183f78c18a28964d4b204d91945e49934,go,ok,1,go,gotest,true,false,21,0,21,0,2,2,0,,14.01,,1490
+41712251,41712253,19,f164eaa77d13c70882882828b053ddef3e41d60e,go,ok,0,go,gotest,true,false,28,0,28,0,1,1,0,,0,,1455
+41261686,41261687,3,cb1df8244cade85a64b918e26b45faa52a7b2fe2,go,broken,0,go,,false,,,,,,,,,,,,1447
+91460840,91460842,62,2bf5bef5047a8762b726371aa66adcd2ab9820d9,go,broken,0,go,gotest,true,true,30,2,32,1,1,0,1,TestHandler#github.com/fiorix/freegeoip/apiserver,17.86,,1815
+96330538,96330540,74,4d3917c530ec423f1d68171fd9e67e7d8f09064a,go,ok,0,go,gotest,true,false,32,0,32,0,2,2,0,,15.780000000000003,,1865
+116045413,116045414,88,f058cf2b904a2fa30fbdffd8e737c252aeaa9a64,go,ok,0,go,gotest,true,false,18,0,18,0,2,2,0,,9.940000000000001,,1186
