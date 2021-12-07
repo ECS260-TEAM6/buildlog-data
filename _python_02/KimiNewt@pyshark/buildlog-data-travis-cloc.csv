@@ -1,0 +1,11 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+214318313,214318317,131,2eba7916b920cf50108ca9bb0f77575e9e340058,python,ok,16,python,pytest,true,false,31,0,31,0,,,,,12.02,,1219
+222298163,222298165,145,7f25dad41ff7af93a308674d10ea24d586a48821,python,ok,17,python,pytest,true,false,31,0,31,0,,,,,11.47,,1229
+230763117,230763127,155,c73136d4cc4a1542d2c7b91db5941b75f06d23c5,python,ok,20,python,pytest,true,false,31,0,31,0,,,,,11.97,,1238
+453577828,453577831,231,96983b1e346daaacb3dea555619deec700886ac7,python,ok,19,python,pytest,true,false,34,0,34,1,,,,,37.42,,1345
+52524085,52524086,25,541fc525a5b600bfd6668765b2fe79ce8149aae0,python,ok,11,python,pytest,true,false,24,0,24,0,,,,,10.21,,799
+589307667,589307668,284,5a657222b72bfc622d0b53887e535c1e0e938bba,python,broken,15,python,pytest,true,true,15,13,28,1,,,,test_count_packets[False]#test_sum_lengths[False]#test_layers[False]#test_ethernet[False]#test_icmp[False]#test_packet_callback_called_for_each_packet#test_apply_on_packet_stops_on_timeout#test_lazy_loading_of_packets_on_getitem#test_lazy_loading_of_packet_does_not_recreate_packets#test_filling_cap_in_increments#test_can_read_binary_packet#test_can_read_multiple_binary_packet#test_fed_packets_are_added_to_the_list,9.05,,1405
+61433533,61433534,40,c654bc1fdacdb355b7e03c853ebcdc919ac5f91d,python,ok,14,python,pytest,true,false,28,0,28,0,,,,,11.29,,875
+97932435,97932436,54,b92ebca38d4d7e0124779e3fa9d20c779afe0692,python,ok,18,python,pytest,true,false,28,0,28,0,,,,,8.77,,901
+127780663,127780696,75,8dcf939a673fb972ffe7e3eb9318905884c40d3a,python,ok,15,python,pytest,true,false,31,0,31,0,,,,,14.2,,989
+185888698,185888700,86,1ae43600cb2f5b81d8b4321fdbdfceeaf4a40e2d,python,broken,15,python,pytest,true,true,30,1,31,0,,,,test_sum_lengths,8.76,,991

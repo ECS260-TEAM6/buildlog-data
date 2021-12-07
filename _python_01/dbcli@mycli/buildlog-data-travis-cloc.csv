@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+544841742,544841746,2232,05a0e4ad9523d839c610574326030ad180acaafe,python,ok,1,python,pytest,true,false,226,0,226,2,,,,,11.45,,5499
+560088903,560088907,2268,05a0e4ad9523d839c610574326030ad180acaafe,python,ok,1,python,pytest,true,false,226,0,226,2,,,,,9.88,,5499
+571942333,571942335,2312,36916e8115050853a35969b478fe13512d5c373b,python,ok,1,python,pytest,true,false,233,0,233,2,,,,,10.19,,5530
+585264714,585264719,2350,160533e8cce47cf9d965b7b860fe22291b9a16e5,python,ok,1,python,pytest,true,false,233,0,233,2,,,,,9.94,,5529
+594080450,594080453,2398,0d01061b983375045c0168b845568054ea6156e1,python,ok,1,python,pytest,true,false,233,0,233,2,,,,,9.78,,5534
+617850692,617850696,2482,96f4530aa649270595e9d567e04f4de6f5672952,python,broken,1,python,pytest,true,false,240,0,240,2,,,,,9.81,,5731
+626335669,626335676,2534,d531676cc03733afb67fe24368256d62ac26052c,python,ok,1,python,pytest,true,false,240,0,240,2,,,,,9.92,,5733
+640092628,640092635,2570,8337d570eb8f3c33f499c968963a767692e48ab7,python,ok,1,python,pytest,true,false,240,0,240,2,,,,,9.41,,5738
+653890027,653890033,2607,cf013a3b4a1883ff28da1afaba588c86df0a583c,python,ok,1,python,pytest,true,false,240,0,240,2,,,,,9.56,,5738
+690451283,690451284,2850,8cd661bbd8cc8ec20f5ae7c30e1079cfb82c0e7a,python,ok,1,python,pytest,true,false,254,0,254,2,,,,,9.67,,5849
+702498055,702498061,2903,7a059a6f9eea76af30966609bce8361de2c501ca,python,broken,1,python,pytest,true,false,253,0,253,2,,,,,9.47,,5883
+713820738,713820744,2952,83cf3bf82812084855274c8a75f457a3d29f0759,python,ok,1,python,,false,,,,,,,,,,,,5884
+734418393,734418397,3047,f3442f40d6378372cc0c2f9350a34ee9911336f3,python,broken,1,python,,false,,,,,,,,,,,,5927
+744519444,744519450,3094,d976fbd2523262a51155a86be11fcc4655bf88c9,python,ok,1,python,,false,,,,,,,,,,,,5923
+751882550,751882553,3141,d928c03a7ebbcc30a4ad0cc7c19718850b60a445,python,ok,1,python,,false,,,,,,,,,,,,5924
