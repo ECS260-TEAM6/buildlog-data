@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+569789292,569789293,273,57d003e2510d43381108a7c796940316c5bfb188,java,ok,1,java-maven,junit,true,false,14,0,14,0,,,,,1.11,,8767
+615890378,615890379,283,11bebdd892e435da647e02d1f19094e35366c5d9,java,ok,1,java-maven,junit,true,false,34,0,34,0,,,,,16.81,,4349
+689632318,689632319,307,263c0d0beb75490a6418795c893e0838f6e1f361,java,ok,1,java-maven,junit,true,false,40,0,40,0,,,,,14.97,,4349
+695563461,695563462,330,e729f036ba647b004e758c1b00663b46a39b0599,java,ok,1,java-maven,junit,true,false,44,0,44,4,,,,,13.969999999999997,,4349
+704920547,704920548,372,2069235731dc1f7d3b26e9cda237c892107f9e58,java,ok,1,java-maven,junit,true,false,44,0,44,4,,,,,18.79,,4404
+709640845,709640846,384,6213b3849fc1072d300681c2267b7304632f7c4f,java,ok,1,java-maven,junit,true,false,46,0,46,6,,,,,23.630000000000003,,4510
+716081316,716081317,397,5fdf185aae03b26656c6612f174e9dea90d57d18,java,ok,1,java-maven,junit,true,false,48,0,48,10,,,,,20.290000000000003,,4665
+745551687,745551688,416,81ba899c9485f3c90ef3c918714b9cb56c95ffe2,java,ok,1,java-maven,junit,true,false,48,0,48,10,,,,,23.229999999999997,,4822
+747381903,747381904,430,67e2957379aa9b70bd993fecaef0ce701791ef01,java,ok,1,java-maven,junit,true,false,48,0,48,10,,,,,21.759999999999994,,4862
+752093215,752093216,472,0a6a181ba3e9c2b7b335e261ede6b72c95fb1f67,java,ok,2,java-maven,junit,true,false,44,0,44,10,,,,,19.73,,5428
+752339813,752339814,482,4757a33114d58e6b371234ce233aa115ce58744b,java,ok,1,java-maven,junit,true,false,44,0,44,10,,,,,20.650000000000002,,5428
+754435662,754435663,503,53586daf477a1bfcd8483cfa33759708b09a7f42,java,ok,1,java-maven,junit,true,false,44,0,44,10,,,,,21.32,,5502
+759762583,759762584,577,4c89df06820a11e3db8e28739f66d0164e098878,java,broken,1,java-maven,junit,true,false,46,0,46,12,,,,,22.05,,5620

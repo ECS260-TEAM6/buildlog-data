@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+153317821,153317822,100,c77149dfe44a1bb49fc1ff4ff3e613a78cb70277,java,ok,53,java-ant,,false,,,,,,,,,,,0,6331
+179017945,179017946,142,3667378a27c12756ec6a91a255cd3654215227ea,unknown,unknown,,plain,,false,,,,,,,,,,,,6357
+181579182,181579183,163,97a0ded3d35fda25c1f8a935bbc93afe7fa09aa7,unknown,unknown,,plain,,false,,,,,,,,,,,,6757
+188183028,188183029,205,49fb2af8da7f0ff3971761364e4401b060417373,java,broken,36,java-ant,,false,,,,,,,,,,,0,7349
+126211532,126211536,24,0e08bd90f4ca4f02c3dfc1108147aae56e9168b3,java,ok,1,java-ant,,false,,,,,,,,,,,67,4656
+255746755,255746756,273,49be530b8243e6cc92e9ee5efe002051db388b3b,java,ok,28,java-ant,,false,,,,,,,,,,,198,7704
+285207173,285207174,297,6673444404983dc8c284bf756ffeb7dbf6255c45,unknown,unknown,,plain,,false,,,,,,,,,,,,8038
+127652403,127652404,31,609062243bf6668bfd61863c7b00fbcec6a986b9,java,ok,1,java-ant,,false,,,,,,,,,,,62,5160
+393765067,393765068,341,0af41dcc19515c324c64721882fccacaf373415e,java,ok,31,java-gradle,,false,,,0,,,,,,,,,8321
+127655914,127655916,38,5ac69d66f47119310393a74c79a0525e29e9e7e6,java,ok,2,java-ant,,false,,,,,,,,,,,70,5160
+514334941,514334943,423,e252da2f3b7a47e65d78e951bfc64d9207df0fdd,java,ok,36,java-ant,,false,,,,,,,,,,,89,8349
+516816689,516816690,461,23e120ec112c4c696bea144c63b2f56d5a4e3543,java,ok,34,java-ant,,false,,,,,,,,,,,91,8349
+130280345,130280350,48,c283c2e5b8fb6c188d91237dd4c3fa5f8a98ee48,java,ok,1,java-ant,,false,,,,,,,,,,,71,5461
+105414461,105414464,5,eada24bb44a5097070a3495ffb08aaac30f81a36,java,ok,1,java-ant,,false,,,,,,,,,,,8.54,4348
+107342330,107342334,7,254955c71d43360a134ddc720b748d04ffa4c40d,java,ok,1,java-ant,,false,,,,,,,,,,,8.75,4585

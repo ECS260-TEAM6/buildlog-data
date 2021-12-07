@@ -1,0 +1,20 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+235636735,235636736,100,365a2890c45ec87ef4c15ee9bd3adf75800e3339,java,ok,1,java-maven,junit,true,false,139,0,139,0,,,,,166.85,225,6203
+248845869,248845871,107,2bbb2cea75cf641950dcfcd7976de81638946748,java,ok,1,java-maven,junit,true,false,140,0,140,0,,,,,231.15,310,6283
+306649858,306649861,113,94f4f8b2268b65c29ae36b4c4df16094ad7bbd53,java,ok,1,java-maven,junit,true,false,141,0,141,0,,,,,218.25,292,6356
+331659098,331659099,122,41bbb1e0b384400c21a54cbb3cc37609db69f694,java,ok,2,java-maven,junit,true,false,139,0,139,0,,,,,196.18999999999997,276,6269
+359020311,359020313,135,f5dfd8212d4af4be24286433185d197197f92ae1,java,broken,1,java-maven,junit,true,false,0,0,0,0,,,,,0,3.53,6355
+443015276,443015277,145,bbfd89fdb66a5671f6f739cccbf8a0832613d585,java,unknown,1,java-maven,,false,,,,,,,,,,0,,6355
+449220033,449220035,154,ddaf2b1542306c6917f31554f877d13f39ebc3bf,java,broken,1,java-maven,junit,true,false,0,0,0,0,,,,,0,3.26,6613
+517069981,517069982,164,70271fd6062eb656f4be022e93d5a54f6701e1a4,java,unknown,1,java-maven,,false,,,,,,,,,,0,,6613
+68939229,68939232,1,201cee2061682365097694697c2aa957cc53a081,java,unknown,0,java-maven,,false,,,,,,,,,,0,,4582
+69270637,69270640,26,1b8cb92e8c936951a766525d94ab92d2e924b381,java,ok,0,java-maven,junit,true,false,112,0,112,0,,,,,177.25,236,5250
+69275960,69275963,32,3949ffb31b6ceb60bd522decc282b8eaaee33ba3,java,ok,0,java-maven,junit,true,false,112,0,112,0,,,,,167.35999999999999,229,5248
+68942428,68942429,3,41fe8e11cec1e8c1d2dd30df3ae87db8db1e05be,java,unknown,0,java-maven,,false,,,,,,,,,,0,,4582
+69844140,69844144,46,c50e8debc73b072240704a1265766cd57fc5c006,java,ok,0,java-maven,junit,true,false,130,0,130,0,,,,,283.6,380,5950
+69882015,69882027,52,e07ef4a085b240106630a9ac305a214964d34bf2,java,ok,0,java-maven,junit,true,false,130,0,130,0,,,,,168.18,237,6006
+68944567,68944570,5,30f0f32bf6367e1d88c1a4aaae5eeedcbd96b887,java,broken,0,java-maven,junit,true,true,72,1,73,0,,,,JTAFlexyPoolHibernateConnectionProviderIntegrationTest.test  IllegalState Fai...#,8.850000000000001,16.9,4585
+162992533,162992536,72,8b76dd91627030d337fd11bddf6e4400db7b1011,java,ok,0,java-maven,junit,true,false,130,0,130,0,,,,,164.49,229,6006
+68947092,68947094,7,05969d7e12ed90027320b68ae26ed2ee88684b59,java,ok,0,java-maven,junit,true,false,88,0,88,0,,,,,133.04,160,4593
+174407587,174407589,86,35934c871f65f082c6ed2dc35c7d13e67a4f59e5,java,ok,0,java-maven,junit,true,false,135,0,135,0,,,,,196.04999999999998,266,6169
+178800385,178800388,92,e1d0ce699a39bf89c97cb830d53569d34d22f329,unknown,unknown,,plain,,false,,,,,,,,,,,,6180

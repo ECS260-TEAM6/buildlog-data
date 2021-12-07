@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+319953830,319953832,1051,17dcf451bef375311c775b5686c640047b49cbaf,java,ok,29,java-gradle,junit,true,false,,0,,,,,,,,,139406
+331045435,331045438,1113,ab794345bfcfc26dd27c822785e5ed76ad3bddf7,java,ok,27,java-gradle,junit,true,false,,0,,,,,,,,,140341
+357320505,357320507,1183,e08ece2d64f411949b2d0636c3c0067a9d3f1420,java,unknown,25,java-gradle,,false,,,0,,,,,,,,,136407
+383636272,383636273,1214,5f96dc6d31b765291a4b556cc4812aee2d620338,java,ok,26,java-gradle,,false,,,0,,,,,,,,,135827
+390916486,390916487,1244,ab30698b5b965ffe0760207e396d81c803a99c0e,java,ok,26,java-gradle,,false,,,0,,,,,,,,,137388
+417340940,417340942,1274,9bffc3913aeb8472c11bb543243004b4b4376f16,java,broken,24,java-gradle,,false,,,0,,,,,,,,,137595
+438101897,438101900,1295,dc8f7034b82fabaefc52b3739e08ec881fbb0897,unknown,unknown,,plain,,false,,,,,,,,,,,,137662
+438336810,438336814,1310,b6e602eb45cffa47256ae48c2c95b1787e41e96c,java,unknown,27,java-gradle,,false,,,0,,,,,,,,,137942
+450840004,450840005,1326,3322688b39cef35c40a2a56eb85463f0cf00abc8,java,ok,25,java-gradle,,false,,,0,,,,,,,,,138219
+483359784,483359786,1341,2035b235a496daac1bdcd5ca6bbe03bfacfd0a74,java,ok,22,java-gradle,,false,,,0,,,,,,,,,138406
+518673585,518673589,1374,f4a111227b8f114241f84e78397b280703590df5,java,unknown,25,java-gradle,,false,,,0,,,,,,,,,139565
+527195782,527195784,1405,915f2b7a9eb0f32d9577202917e153b0bc7a9d4f,java,ok,22,java-gradle,,false,,,0,,,,,,,,,139808
+549348723,549348726,1420,14f584e5cfcdc52c541d019926a36515da7a1c35,java,unknown,24,java-gradle,,false,,,0,,,,,,,,,140111
+574484512,574484516,1435,02437e2ed43c7ef48576193393f2f210cb8e7371,java,unknown,25,java-gradle,,false,,,0,,,,,,,,,140416
+647454059,647454060,1469,ab241781b133c68b89ae05137adcccad8766b247,java,unknown,27,java-gradle,,false,,,0,,,,,,,,,140155

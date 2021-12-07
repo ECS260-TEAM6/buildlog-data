@@ -1,0 +1,9 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+437791904,437791906,107,13eb3cbe48a1e3c12e686af2bfb058cfc055f214,python,ok,0,python,pytest,true,false,12,0,12,0,,,,,0.44,,494
+496623955,496623960,120,c45a9a5b2671b9667856e281d2726c8bfd0f0fd7,python,ok,1,python,pytest,true,false,12,0,12,0,,,,,0.35,,510
+706619728,706619730,150,9564be7d1c2e9cef9c7b62d72abffe758eb6e69e,python,ok,1,python,pytest,true,false,12,0,12,0,,,,,0.27,,508
+207150269,207150270,35,e61e8f3cf55d251311a069240fe47f699539736d,python,ok,0,python,,false,,,,,,,,,,,,346
+207248273,207248274,42,98458a95863605e7ac61cd4b9dc850ae2bd65b62,python,ok,0,python,,false,,,,,,,,,,,,360
+211137124,211137126,49,c5d424b6807ac6c85f38c8ce5295a70090a0bdc9,python,ok,0,python,pytest,true,false,10,0,10,0,,,,,0.21,,366
+275181273,275181275,63,dccb5f09ee65d400eb331723510c41450886b240,python,ok,1,python,pytest,true,false,10,0,10,0,,,,,0.39,,374
+392810534,392810537,85,f75b93c91b2c2b99b836e326070e1fd2a76de9cd,python,ok,0,python,pytest,true,false,11,0,11,0,,,,,0.45,,439

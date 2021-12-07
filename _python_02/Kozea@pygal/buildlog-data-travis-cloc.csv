@@ -1,0 +1,16 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+100127669,100127670,106,45da9389173ef3931477d311481aeb4c8268cb4d,python,broken,1,python,pytest,true,true,2364,2,2366,0,,,,FLAKE8-check#FLAKE8-check,175.02,,7922
+103139952,103139963,118,3f8a2a991b237a3a1be2591f8d167572cabb9d6d,python,ok,3,python,pytest,true,false,4672,0,4672,0,,,,,299.45,,8062
+125838532,125838537,156,4c5771db96344a37d4a00d954e53798428190b00,python,ok,1,python,pytest,true,false,5363,0,5363,0,,,,,480.7,,8628
+71045891,71045896,16,d5894c2a9dfa60e275a5048a06b565c34b7f77ef,python,ok,0,python,pytest,true,false,4576,0,4576,0,,,,,327.12,,7474
+157638905,157638910,182,9c9e3377c172d879c67a9498c63322a89ee87b16,python,ok,3,python,pytest,true,false,5363,0,5363,0,,,,,413.19,,8643
+180341267,180341278,195,5824e4dd745a9c6c90af26d6a410d23daa89662d,unknown,unknown,,plain,,false,,,,,,,,,,,,8643
+238386227,238386229,206,859277e432660f290da4b653a8c35c915ad574cb,python,broken,1,python,pytest,true,true,5403,27,5430,0,,,,isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check#isort-check,424.63,,8654
+250261220,250261221,217,39f4b5759d95ec5ed5cc272d7caf617a178c1aa7,python,broken,1,python,pytest,true,true,5189,1,5190,174,,,,FLAKE8-check(ignoring E731 E402),595.31,,8664
+337952787,337952792,238,75bf0fdcf2e1650275d7bb7f312ac40f221f1999,python,broken,1,python,pytest,true,true,5360,5,5365,0,,,,FLAKE8-check(ignoring E731 E402)#FLAKE8-check(ignoring E731 E402)#FLAKE8-check(ignoring E731 E402)#FLAKE8-check(ignoring E731 E402)#FLAKE8-check(ignoring E731 E402),475.95,,8686
+735040006,735040012,276,93baa669c7bdb31a9234c4b25125cbb36ffb1078,python,ok,1,python,,false,,,,,,,,,,,,9123
+71739116,71739117,31,338c5a20021d77077f881bad1ddb279bc63bb499,python,ok,0,python,pytest,true,false,2325,0,2325,0,,,,,168.5,,7573
+72802133,72802145,43,3b675db57549d4d11552ac990e6cd8212e809492,python,ok,0,python,pytest,true,false,4628,0,4628,0,,,,,442.55,,7699
+77469225,77469231,56,755c5ab3ef531165b0aa37c3208a156adf980422,python,broken,0,python,pytest,true,true,4631,1,4632,0,,,,FLAKE8-check,314.16,,7769
+70385066,70385067,6,72cdae03b352ccd66397b25d5641c7214d36867a,python,broken,1,python,pytest,true,true,4571,4,4575,0,,,,test_datetime[lxml]#test_datetime[etree]#test_metadata[etree-Chart15]#test_maps_world_supranationalworldmap[etree],345.34,,7436
+88981289,88981292,82,2dc3fc06b97390c24ab0b9915f49f71081a0e087,python,ok,1,python,pytest,true,false,4671,0,4671,0,,,,,321.85,,7855

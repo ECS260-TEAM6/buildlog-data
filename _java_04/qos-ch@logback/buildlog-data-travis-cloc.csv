@@ -1,0 +1,10 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+109074895,109074898,222,b3f5e4684b472d58c88abdb82c094246ba65385b,java,ok,1,java-maven,junit,true,false,1015,0,1015,24,,,,,123.21000000000005,,57486
+112695342,112695347,262,43353eb1dcc22f9ab9dd01a0e3ebe2722c56acd5,java,ok,2,java-maven,junit,true,false,1030,0,1030,24,,,,,57.81999999999999,77,56613
+116473438,116473442,301,355642a07924941707ea1a47329d07d162729b19,java,broken,2,java-maven,junit,true,true,981,2,983,25,,,,ReconfigureOnChangeTaskTest.fallbackToSafeWithIncludedFile_FollowedByRecovery#ReconfigureOnChangeTaskTest.fallbackToSafe_FollowedByRecovery   test timed ou...#,61.51,74,57567
+121475249,121475250,342,d4bc197a567ef7d53785d10e0bcf53bc7cf8a5a0,java,ok,3,java-maven,junit,true,false,1048,0,1048,26,,,,,57.799999999999976,77,58045
+182649686,182649687,421,c1c312926f87bfd87bec3bd6f78897648ffde72b,unknown,unknown,,plain,,false,,,,,,,,,,,,58228
+194029057,194029058,461,e037e6a71e1e1ca197d37e143642c486d266c7e6,java,ok,2,java-maven,junit,true,false,1062,0,1062,27,,,,,68.14999999999999,82,58473
+199336320,199336321,511,65a48e835363f31834f221132402308a93d5b843,java,ok,2,java-maven,junit,true,false,1072,0,1072,27,,,,,72.06999999999998,83,58748
+204501178,204501179,553,eb3b114e69794adabb6d749dc0ebf366d0991309,java,ok,2,java-maven,junit,true,false,1081,0,1081,27,,,,,72.05000000000001,84,59108
+46592368,46592369,68,0f049cb6ec167fe2d3c5b3750c4d718baeed2dcc,java,broken,1,java-maven,junit,true,true,498,1,499,6,,,,TimeBasedRollingWithArchiveRemoval_Test.dailyRolloverWithInactivity10#,10.679999999999993,19.66,56889

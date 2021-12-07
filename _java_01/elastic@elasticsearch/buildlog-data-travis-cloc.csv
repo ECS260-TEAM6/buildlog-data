@@ -1,0 +1,6 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+17048801,17048803,100,bcfba8bc461526952a2f6c926c49c5db61d7e842,java,ok,,java-maven,,false,,,,,,,,,,0,,358398
+17269571,17269575,233,eed079aaac21a0cb277b8616c7c2660b7860d7cb,java,unknown,,java-maven,,false,,,,,,,,,,0,,358832
+17283933,17283934,263,649f1b13da48521ea8d451be0bcf33547fc4d4c3,unknown,unknown,,plain,,false,,,,,,,,,,,,359385
+17330395,17330396,291,66ed9a855a9c0575d5c153ee0926de3f2e652dc0,java,ok,,java-maven,,false,,,,,,,,,,0,,359470
+2074792,2074799,47,e43dd4687e4f7b33c60f23f1cd24b6b770b78adf,unknown,unknown,,plain,,false,,,,,,,,,,,,225484

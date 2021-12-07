@@ -1,0 +1,20 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+151389987,151389988,100,d588759d5de5b23baab4123f604541689b5bb964,python,ok,0,python,,false,,,,,,,,,,,,2572
+165350770,165350786,115,c07e8ce32cb636531acfb92b78e12c3fc65bd889,python,ok,0,python,unittest,true,false,65,0,65,0,,,,,26.0,,2604
+203656607,203656609,130,54424d3993af81d978afb8ed526ff16483c31670,python,ok,0,python,unittest,true,false,65,0,65,0,,,,,13.97,,2628
+216871130,216871135,145,0f7fe502bad01b753ddf1cbf680baedbe12ad39f,python,ok,0,python,unittest,true,false,65,0,65,0,,,,,16.97,,2630
+259265141,259265151,158,519784b35a9d486fed22629b0f985c8b6e2ed5b7,python,ok,0,python,unittest,true,false,65,0,65,0,,,,,18.8,,2633
+273037801,273037804,171,179025f42b84080e883edfec326d6d2e0dbe8ae3,python,ok,0,python,unittest,true,false,69,0,69,0,,,,,12.32,,2740
+311747724,311747729,184,618466025a1e47528f7b1baff961d6c6a3050ea3,python,ok,0,python,unittest,true,false,69,0,69,0,,,,,33.62,,2740
+339754256,339754262,196,4ab2819dfc88a3c63293dcaa407e734e747a9452,python,ok,0,python,unittest,true,false,69,0,69,0,,,,,16.96,,2743
+384593773,384593775,208,5b6276e06f9e228ba39463bd7fe9557c2f7efa08,python,ok,1,python,unittest,true,false,69,0,69,0,,,,,15.65,,2759
+394899111,394899113,221,e84a643ab7820e79e65acc75cbebedb1346066e4,python,ok,3,python,unittest,true,false,71,0,71,0,,,,,13.61,,2791
+399980898,399980905,234,dec2881a89ac1904e8a35fd81d8889283db6373c,python,ok,2,python,unittest,true,false,73,0,73,0,,,,,8.15,,2804
+419359152,419359153,247,593693885e08688828ca378895f7bf6cbd01f323,python,broken,0,python,,true,true,0,0,0,0,,,,codestyle: commands failed,0,,2809
+432347339,432347340,260,07ad4d187eeb9a52b30927fc4b91cce10fd1a17c,python,ok,0,python,,false,,,,,,,,,,,,2860
+438107885,438107891,273,c8c50306bae9a3369d3f02286b762b0255635952,python,unknown,,python,,false,,,,,,,,,,,,2908
+469218085,469218088,287,060562eacceb7084896e12fa4037c1ac9c86713f,python,ok,1,python,unittest,true,false,76,0,76,0,,,,,13.16,,2913
+44160102,44160105,2,6ad2009dc24344c348317bb6a09572595089f2dd,python,ok,0,python,unittest,true,false,55,0,55,0,,,,,11.24,,2348
+734672164,734672166,313,52b595dc509092478441de3f4260959facc169bb,python,ok,0,python,unittest,true,false,77,0,77,0,,,,,10.03,,2965
+74903470,74903474,39,0d21c9879ceb5bd80f1eb0d0d316f2687e54dbb0,python,ok,0,python,unittest,true,false,56,0,56,0,,,,,16.31,,2388
+44293499,44293502,7,38ce86b6911dbfa02488756e609c4a1297e238e0,python,ok,0,python,unittest,true,false,55,0,55,0,,,,,10.81,,2348

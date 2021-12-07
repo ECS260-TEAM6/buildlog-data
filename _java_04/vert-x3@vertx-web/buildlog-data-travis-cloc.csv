@@ -1,0 +1,11 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+719217233,719217234,1262,2b469a578c275b3a3e2c6d1b30608fde9881bae5,java,broken,1,java-maven,junit,true,true,1290,6,1296,11,,,,io.vertx.ext.web.sstore.redis.RedisSessionStoreTest.testClearSession(io.vertx.ext.web.sstore.redis.RedisSessionStoreTest)#Run 1#Run 2#,928.6700000000001,,64196
+726274367,726274370,1297,77bf643059a3d24a915ce1cb2cc96b26a5f073bd,java,unknown,3,java-ant,,false,,,,,,,,,,,,64583
+729884478,729884480,1332,d8571c021dabe4ca6ad65458b3d3534a97bd1496,java,broken,1,java-maven,junit,true,true,741,1,742,0,,,,SockJSHandlerTest>AsyncTestBase.after#,96.59000000000002,,65019
+730922614,730922616,1345,825e3f76b7a9fd0f3d367d902db41cab0506b9e4,java,ok,1,java-maven,junit,true,false,1833,0,1833,11,,,,,453.3499999999999,,65123
+734322776,734322777,1384,18d68b6df13e0cc0a57d485893f45599f12b1e59,java,ok,1,java-maven,junit,true,false,1842,0,1842,11,,,,,153.5900000000001,,65384
+737375928,737375930,1416,9aba6ad5fa82fe4494d4340ae02520441df2740d,java,ok,1,java-maven,junit,true,false,1852,0,1852,11,,,,,516.0999999999999,,65701
+739914846,739914851,1429,7984007a86c42d924a546b8a9b81490febf73525,unknown,unknown,,plain,,false,,,,,,,,,,,,65711
+741719976,741719978,1457,9f92612ec1bf96fe295344b1b34a91b3e52f6622,java,ok,1,java-maven,junit,true,false,1868,0,1868,11,,,,,453.2900000000001,,66094
+742700368,742700370,1472,497db2d2f22901edce098c8ba4605f127f130413,java,broken,1,java-maven,junit,true,true,1338,6,1344,11,,,,io.vertx.ext.web.sstore.redis.RedisSessionStoreTest.testClearSession(io.vertx.ext.web.sstore.redis.RedisSessionStoreTest)#Run 1#Run 2#,452.6499999999999,,66445
+743910837,743910841,1482,a37408e8033b6b0f2b9586cdf621da86f3951397,java,unknown,1,java-ant,,false,,,,,,,,,,,,66465

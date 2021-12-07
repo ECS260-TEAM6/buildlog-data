@@ -1,0 +1,15 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+588541414,588541416,1672,c9ac0993839551a260d0fb83a034406bcdaab68e,python,broken,1,python,unittest,true,true,60,1,61,0,,,,test_no_swallow_error,4.47,,3099
+588609584,588609587,1678,655014ce7d6c4b5ddbced63d9c4e3cb5a6179ce3,python,ok,1,python,unittest,true,false,61,0,61,0,,,,,4.08,,3102
+592857813,592857815,1681,70a5c429d73a001a7ac185188a708eb7d21fe2b8,python,ok,1,python,unittest,true,false,61,0,61,0,,,,,4.32,,3117
+596279866,596279867,1684,70a5c429d73a001a7ac185188a708eb7d21fe2b8,python,ok,1,python,unittest,true,false,61,0,61,0,,,,,5.48,,3117
+620842990,620842995,1689,7bd5616ebb8575d15c1d9bae98cd1d9ed291b8af,python,ok,1,python,unittest,true,false,61,0,61,0,,,,,10.54,,3117
+621287407,621287414,1694,0d269f2f45a7518c421ee72387ef538719903cdd,python,ok,1,python,unittest,true,false,62,0,62,0,,,,,11.74,,3173
+644150055,644150058,1697,024aa80bcd15b7b7d949670cd0315e1af1c32f10,python,broken,1,python,unittest,true,true,61,1,62,0,,,,test_flask_restful_resource,3.87,,3188
+645723799,645723801,1701,3a2f9816a34d6f01850b3876a0259ab5194369f0,python,ok,1,python,unittest,true,false,62,0,62,0,,,,,4.1,,3188
+653599377,653599378,1704,b81f59ed0b1daab25b26f5d6e1135469ba2b4e5c,python,ok,1,python,unittest,true,false,65,0,65,0,,,,,8.85,,3269
+655117802,655117807,1706,0641bfd8e6f9ec0502d28dc0a05fc104d6a93a9f,python,ok,1,python,unittest,true,false,65,0,65,0,,,,,11.58,,3269
+655123867,655123871,1709,129bd922948f843518429190e915c5ebe4fec51f,python,ok,1,python,unittest,true,false,65,0,65,0,,,,,12.46,,3269
+655483129,655483132,1712,a5c04b90d8e4af770c79d3dc427f60bae279cfca,python,ok,1,python,unittest,true,false,66,0,66,0,,,,,4.13,,3302
+655487943,655487945,1715,db6599307ba1cf8ffc7667619e5fa3ecff8c21d5,python,ok,1,python,unittest,true,false,66,0,66,0,,,,,4.04,,3302
+665515792,665515793,1718,418ccfce969fe86b509ccbb3531674fb5c6de733,python,ok,1,python,unittest,true,false,66,0,66,0,,,,,5.63,,3302
