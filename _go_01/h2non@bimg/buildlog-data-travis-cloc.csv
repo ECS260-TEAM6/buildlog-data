@@ -1,0 +1,5 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+58163256,58163257,100,1d80105872f0f68444714a177991298387528a76,go,ok,307,go,gotest,true,false,0,0,,0,1,1,0,,1.76,,1660
+273915558,273915596,521,46480029d537078d096c0b06fe28b6a021bec809,go,broken,260,go,gotest,true,true,65,5,70,3,0,-4,4,TestImagePdfToJpeg#TestDeterminateImageTypeName#TestIsTypeSupported#TestIsTypeNameSupported#github.com/h2non/bimg,75.64999999999999,,2846
+301897568,301897598,579,8aff78e4ec8e8b66c753bafb27374488009cfb36,go,unknown,2,go,,false,,,,,,,,,,,,3184
+466213759,466213764,630,4b9abdb945893c295f0e58b6803102f23e061ad0,go,broken,112,go,gotest,true,true,68,2,70,5,0,-1,1,TestResizeVerticalImage#github.com/h2non/bimg,61.81999999999999,,2960
