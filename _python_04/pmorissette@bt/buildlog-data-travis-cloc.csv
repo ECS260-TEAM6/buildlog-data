@@ -1,0 +1,14 @@
+tr_build_id,tr_job_id,tr_build_number,tr_original_commit,tr_log_lan,tr_log_status,tr_log_setup_time,tr_log_analyzer,tr_log_frameworks,tr_log_bool_tests_ran,tr_log_bool_tests_failed,tr_log_num_tests_ok,tr_log_num_tests_failed,tr_log_num_tests_run,tr_log_num_tests_skipped,tr_log_num_test_suites_run,tr_log_num_test_suites_ok,tr_log_num_test_suites_failed,tr_log_tests_failed,tr_log_testduration,tr_log_buildduration,loc
+365396274,365396276,10,0a94d4b1565a8ec1b67b8509a8bd2bf53bfde346,python,broken,1,python,unittest,true,true,75,1,76,0,,,,tests.test_core.test_securitybase_allocate_commisions,5.77,,3577
+369323608,369323609,21,6cfba64a4ee57c4f8a07218a75847a5b2d6657f1,python,ok,2,python,unittest,true,false,78,0,78,0,,,,,4.26,,3684
+380828914,380828917,24,005212a8744cefe4b37f35237d84b4851d22bd20,python,broken,1,python,unittest,true,true,0,4,4,0,,,,,3.84,,3726
+383917657,383917658,28,5a8e3b3041a9eb12e1b9aaecce4dc4c239df3239,python,ok,1,python,unittest,true,false,79,0,79,0,,,,,3.73,,3726
+383921864,383921865,31,5a8e3b3041a9eb12e1b9aaecce4dc4c239df3239,python,unknown,1,python,unittest,true,false,79,0,79,0,,,,,3.94,,3726
+384763289,384763294,34,6285187f9c223ac1b703d09933982a4756b9e2cc,python,ok,2,python,unittest,true,false,80,0,80,0,,,,,24.85,,3751
+433002292,433002293,39,402c9c1598fde58b19ff714500c40e61c8d5ac9b,python,broken,1,python,unittest,true,true,0,4,4,0,,,,,0.91,,3881
+433133636,433133637,42,997f7defb34ef1ab163a2b630a19641fd7630ce4,python,ok,1,python,unittest,true,false,81,0,81,0,,,,,22.88,,3884
+455699827,455699830,45,13f3005d0e5adff048a810e0170a3a3dfc1a1cd9,python,ok,1,python,unittest,true,false,82,0,82,0,,,,,15.7,,3982
+691280232,691280235,55,c47e953fad734ab2bb9381349d7b73392179448a,python,ok,1,python,unittest,true,false,82,0,82,0,,,,,12.13,,3982
+716224913,716224915,59,3085ff96068faa1160f85c72d0f4032eaea4199c,python,broken,1,python,unittest,true,true,80,2,82,0,,,,tests.test_algos.test_TargetVol#tests.test_algos.test_PTE_Rebalance,15.84,,3995
+741791026,741791027,72,d2dea74597dcc0c20b35735752b07dc1b8ee6d74,python,ok,1,python,unittest,true,false,83,0,83,0,,,,,14.94,,4053
+749160109,749160110,79,531f557206b64a2d9ff36a50288a68378f12b372,python,ok,1,python,unittest,true,false,141,0,141,0,,,,,17.18,,6401
